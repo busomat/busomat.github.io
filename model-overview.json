@@ -134,7 +134,7 @@
 				"bodyTypes": [
 					"Kastenwagen"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawal%25oAAUES%25z77XrHeeUqaILY44qkYN1UZIXs3QTYYpnxKPxiOJyyJjhDpQQVSMppE0H17II%25o3BQQ6PlO4dnAEEOYezVWAoCbpN6FFk3VB0Dg0p3mpAZeCxmEiZ%25klCrDsGFruuLVVK22zerUqarYp44rjC6gg6F4AzzNBQ033qTyfccABkfhhSMM6kke15dHHo8lkKK%25gb0MMDddbvvaODxLL1cQtbb8dk%25YYj7nyOOyCvaPPmaK1ddp6YlsswisEII7LOyQQCxW8UURBOp44rS0ngg614XzzNmcF33q3ERccADgmhhShM2kkeG4nHHowMfKK%25EE0MMDYZFvva8cxLL1PjEbb8k1mYYjekDOOy2bkPPmoC1ddp8Mzssw0oEII7bPVQQCwbDUUR0HN44rTFigg6d69zzNBrb33q%25NrccAaVrhhSGU6kkeJkNHHogpqKK%25ylUMMDmDSvvaVdeLL1tZBbb85yHYYjFADOOye7wPPm9iCddpUmwsswlvUII7FpVQQCYIXUURUSt44rOrggg6KcAzzNsBC33qJ6RccA7AfhhS1m2kkeVfiHHoQ9fKK%25EZAMMDVkWvvacKeLL1qL0bb8hi5YYjOAlOOyKuaPPmrP1ddpdmlsswvdrII7aUrQQCx%25jUURcHt44rFcdgg6dl7zzNFAI33qJ4nccAlXuhhS114kkeLsoHHoXDaKK%25E90MMDyuRvvaccRLL1LjAbb8bpTYYj9MpOOyOvGPPmAPVddpZulsswL4EII7aF5QQC1E6UUR0%25E44rSa5gg6exXzzNGxi33qJSAccABHfhhSQt6kkeU3tHHoj2uKK%25G%250MMDVuSvvaXbeLL1tvTbb878T",
+				"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawal%25oAAUES%25z77XrHeeUqaILY44qkYN1UZIXs3QTYYpnxKPxiOJyyJjhDpQQVSMppE0H17II%25o3BQQ6PlO4dnAEEOYezVWAoCbpN6FFk3VB0Dg0p3mpAZeCxmEiZ%25klCri2GFr45ofVK22zerUqarYp44rjC6gg6F4AzzNBQ033qTyfccABkfhhSMM6kke15dHHo8lkKK%25gb0MMDddbvvaODxLL1cQtbb8dk%25YYj7nyOOyCvaPPmaK1ddp6YlsswisEII7LOyQQCxW8UURBOp44rS0ngg614XzzNmcF33q3ERccADgmhhShM2kkeG4nHHowMfKK%25EE0MMDYZFvva8cxLL1PjEbb8k1mYYjekDOOy2bkPPmoC1ddp8Mzssw0oEII7bPVQQCwbDUUR0HN44rTFigg6d69zzNBrb33q%25NrccAaVrhhSGU6kkeJkNHHogpqKK%25ylUMMDmDSvvaVdeLL1tZBbb85yHYYjFADOOye7wPPm9iCddpUmwsswlvUII7FpVQQCYIXUURUSt44rOrggg6KcAzzNsBC33qJ6RccA7AfhhS1m2kkeVfiHHoQ9fKK%25EZAMMDVkWvvacKeLL1qL0bb8hi5YYjOAlOOyKuaPPmrP1ddpdmlsswvdrII7aUrQQCx%25jUURcHt44rFcdgg6dl7zzNFAI33qJ4nccAlXuhhS114kkeLsoHHoXDaKK%25E90MMDyuRvvaccRLL1LjAbb8bpTYYj9MpOOyOvGPPmAPVddpZulsswL4EII7aF5QQC1E6UUR0%25E44rSa5gg6exXzzNGxi33qJSAccABHfhhSQt6kkeU3tHHoj2uKK%25G%250MMDVuSvvaXbeLL1tvTbb878T",
 				"cartileBackgroundColor": {
 					"hexColorCode": "#DEDEDE",
 					"invertHeaderTextColor": false
@@ -172,14 +172,14 @@
 									"Kastenwagen"
 								],
 								"modelName": "Kastenwagen  KR 2.0 TDI EU6 SCR BMT 55 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawal%25oAAUES%25z77XrHeeUqaILY44qkYN1UZIXs3QTYYpnxKPGj2GyyJjhDpQQ2%25MppE0H17Rffg57tn1xtNUUN6W14dBG2rZF0bbm84OLlaLZ89ZBhW2Y9UkhJmQ2ulSsbuvvR44wKK1Wu%25xEu6ZDDut20aa0bDB11FOoL88xP5HjjBOmHyyT770mmWV3AppGXQmwwJarL77lAArCCENlYRRVjozrrXAmJ66tfM5NN52CEqq9EwVAAZ06QSSikSUeefRN5oo2YdX%25%25nONZDDuTLMaa0VDg11F9jb88x8UnjjBla9yyTy7KmmWsDMppGi7HwwJUUL77l6hbCCEXjYRRVqtUrrXmV966tWmlNN5Krmqq9G2VAAZX71SSiLGUeefrq4oo2irl%25%25nLpFDDuPbkaa0A0c11FOur88xJFujjBE4uyyTs%250mmWImFppGaZxwwJ5Q%2577l9lTCCE4AWRRVzhOrrX35p66tbBlNN5Wfiqq9ck2AAZ%259iSSiQC%25eefbZ4oo26eg%25%25n%25TzDDuNuaaa0wjB11FSO288xI0njjBfBHyyTV9KmmW4HkppGocHwwJUhB77l4mdCCEjwWRRVxRLrrXyk366tNBQNN5wvEqq9uqVAAZA9QSSiCAueefE%25uoo2YJt%25%25njpzDDubjAaa0AQf11FbBe88xIDMjjBQgvyyTVVDmmWRSGppGglEwwJUcL77l5vnCCEjjnRRVRtBrrXrZP66tc7ZNN5NCsqq9Bq4AAZhvQSSiRDUeefEb3oo2VU0%25%25nLJUDDuTE3aa0WYg11FsYk88xITBjjBOpHyyToz0mmW%258zppGtKvwwJsJL77l4vTCCEgrWRRVzCPrrXfXP",
+								"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawal%25oAAUES%25z77XrHeeUqaILY44qkYN1UZIXs3QTYYpnxKPGj2GyyJjhDpQQ2%25MppE0H17Rffg57tn1xtNUUN6W14dBG2rZF0bbm84OLlaLZ89ZBhW2Y9UkhJmQ2ukKsbuD3GH4wKK1Wu%25xEu6ZDDut20aa0bDB11FOoL88xP5HjjBOmHyyT770mmWV3AppGXQmwwJarL77lAArCCENlYRRVjozrrXAmJ66tfM5NN52CEqq9EwVAAZ06QSSikSUeefRN5oo2YdX%25%25nONZDDuTLMaa0VDg11F9jb88x8UnjjBla9yyTy7KmmWsDMppGi7HwwJUUL77l6hbCCEXjYRRVqtUrrXmV966tWmlNN5Krmqq9G2VAAZX71SSiLGUeefrq4oo2irl%25%25nLpFDDuPbkaa0A0c11FOur88xJFujjBE4uyyTs%250mmWImFppGaZxwwJ5Q%2577l9lTCCE4AWRRVzhOrrX35p66tbBlNN5Wfiqq9ck2AAZ%259iSSiQC%25eefbZ4oo26eg%25%25n%25TzDDuNuaaa0wjB11FSO288xI0njjBfBHyyTV9KmmW4HkppGocHwwJUhB77l4mdCCEjwWRRVxRLrrXyk366tNBQNN5wvEqq9uqVAAZA9QSSiCAueefE%25uoo2YJt%25%25njpzDDubjAaa0AQf11FbBe88xIDMjjBQgvyyTVVDmmWRSGppGglEwwJUcL77l5vnCCEjjnRRVRtBrrXrZP66tc7ZNN5NCsqq9Bq4AAZhvQSSiRDUeefEb3oo2VU0%25%25nLJUDDuTE3aa0WYg11FsYk88xITBjjBOpHyyToz0mmW%258zppGtKvwwJsJL77l4vTCCEgrWRRVzCPrrXfXP",
 								"price1": {
 									"value": 20759.55,
-									"displayValue": "Ab 20.759,55 € inkl. MwSt"
+									"displayValue": "Ab 20.759,55 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 17445,
-									"displayValue": "Ab 17.445,00 € exkl. MwSt"
+									"displayValue": "Ab 17.445,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -212,14 +212,14 @@
 									"Kastenwagen"
 								],
 								"modelName": "Kastenwagen \"Trendline\"  KR 2.0 TDI EU6 SCR BMT 55 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJBFF3WzSxxciVmBBhJ2ZTTkL6HWWHbFpGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQq655Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGjVVbvBzXXYqnGttOoAC55PJPw99deOBZZsgdOiiI3jOffQDXP22Ua2dnn45M1uugH1X00zKzaFF3jJUxxcm7eBBhpHnTTkAIzWWHULvGGKwCbJJMXKvllv1FXEELAMjVVbTEyXXYXQottOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4VwRuug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJK1llvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsat6iiI1yNffQcct22Uxl2nn4yz3uug8wq00zHNYFF3iiYxxcxkIBBhBMoTTkw0MWWHWFDGGKIGjJJM7Nullvxt8EEL3ApVVbc8PXXYqg8ttOQ3p55PUSy99dDSCZZsaQIiiIenRffQVmP22UXZmnn4krNuugDgq00zjNQFF3yBUxxcmFoBBhLho",
+								"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJBFF3WzSxxciVmBBhJ2ZTTkL6HWWHbFpGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQq655Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGjVVbvBzXXYqnGttOoAC55PJPw99deOBZZsgdOiiI3jOffQDXP22Ua2dnn45M1uugH1X00zKzaFF3jJUxxcm7eBBhpHnTTkAIzWWHULvGGKwCbJJMXKvllv1FXEELAMjVVbTEyXXYXQottOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4VwRuug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJK1llvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsat6iiI1yNffQcct22Uxl2nn4yz3uug8wq00zHNYFF3iiYxxcxkIBBhBMoTTkw0MWWHWFDGGKIGjJJM7Nullvxt8EEL3ApVVbc8PXXYqg8ttOQ3p55PUSy99dDSCZZsaQIiiIenRffQVmP22UXZmnn4krNuugDgq00zjNQFF3yBUxxcmFoBBhLho",
 								"price1": {
 									"value": 21475.93,
-									"displayValue": "Ab 21.475,93 € inkl. MwSt"
+									"displayValue": "Ab 21.475,93 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 18047,
-									"displayValue": "Ab 18.047,00 € exkl. MwSt"
+									"displayValue": "Ab 18.047,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -265,14 +265,14 @@
 							"Kastenwagen"
 						],
 						"modelName": "Caddy Alltrack  KR 2.0 TDI EU6 SCR BMT 55 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJ%25FF3WzSxxciVmBBhJ2xTTkL6HWWHbFpGGK3ucJJMPT1llvCl8EELxWHVVbS%25PXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQ49y22U2F6nn4a5NuugLFZ00zjj5FF3WCSxxckfeBBhJHjTTknhMWWH4n3GGK6TnJJMgYhllvkFZEELAgjVVbTJyXXYLT3ttOAuJ55P%25SR99dld7ZZsoPTiiIzsPffQcyP22Uatdnn41nsuug9v800zK8tFF3M31xxcyl4BBhpCoTTkwKuWWHSQ3GGK4bLJJM7RYllvtMjEEL8xtVVbSvyXXYWVmttOtU%2555Pc4t99d0fQZZsEoYiiI1dNffQbQr22UhM6nn4yrRuugX7r00zjCQFF3ynDxxcf04BBhIBATTk2RJWWHwa2GGK0qcJJMPJhllvlM8EELxlPVVbctPXXYezHttOfup55PSfl99dl8rZZsSQViiI15NffQ8mq22Uhh5nn4BEnuugm3c00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FeGGKGxaJJMQJRllvCq0EELB5jVVbcg%25XXYhjdttOAzj55PUcy99d4emZZsaeRiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqUxxcmT4BBhpx%25TTkbk%25",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJ%25FF3WzSxxciVmBBhJ2xTTkL6HWWHbFpGGK3ucJJMPT1llvCl8EELxWHVVbS%25PXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQ49y22U2F6nn4a5NuugLFZ00zjj5FF3WCSxxckfeBBhJHjTTknhMWWH4n3GGK6TnJJMgYhllvkFZEELAgjVVbTJyXXYLT3ttOAuJ55P%25SR99dld7ZZsoPTiiIzsPffQcyP22Uatdnn41nsuug9v800zK8tFF3M31xxcyl4BBhpCoTTkwKuWWHSQ3GGK4bLJJM7RYllvtMjEEL8xtVVbSvyXXYWVmttOtU%2555Pc4t99d0fQZZsEoYiiI1dNffQbQr22UhM6nn4yrRuugX7r00zjCQFF3ynDxxcf04BBhIBATTk2RJWWHwa2GGK0qcJJMPJhllvlM8EELxlPVVbctPXXYezHttOfup55PSfl99dl8rZZsSQViiI15NffQ8mq22Uhh5nn4BEnuugm3c00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FeGGKGxaJJMQJRllvCq0EELB5jVVbcg%25XXYhjdttOAzj55PUcy99d4emZZsaeRiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqUxxcmT4BBhpx%25TTkbk%25",
 						"price1": {
 							"value": 22907.5,
-							"displayValue": "Ab 22.907,50 € inkl. MwSt"
+							"displayValue": "Ab 22.907,50 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 19250,
-							"displayValue": "Ab 19.250,00 € exkl. MwSt"
+							"displayValue": "Ab 19.250,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#66605E",
@@ -321,14 +321,14 @@
 							"Kastenwagen"
 						],
 						"modelName": "Kastenwagen \"Edition 35\"  KR 2.0 TDI EU6 SCR BMT 55 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DJkPP7YGxpvSuGEU7eeYtl5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OF7ttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00D22UcpJnn4h12uug5Bq00zJJBFF3WzSxxciVmBBhJ28TTkL6HWWHbFpGGK3ucJJMPT1llvCl8EELxWHVVbS%251XXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIi5ZffQ49y22U2F6nn4a5NuugLFZ00zjj5FF3WCSxxckfeBBhJHxTTknhMWWH4n3GGK6TnJJMgYhllvkFZEELAgjVVbTJhXXYLT3ttOAuJ55P%25SR99dld7ZZsoPTiiIzsPffQcyP22Uatdnn41nsuug9v800zK8tFF3M31xxcyl4BBhpCATTkwKuWWHSQ3GGK4bLJJM7RYllvtM4EEL8xtVVbSvyXXYWVmttOtUT55Pc0t99d0fQZZsEoIiiI1dNffQbQr22UhMynn4yrRuugX7r00zjCQFF3ynDxxcf0hBBhIBATTk2RJWWHwasGGKpwMJJMPJhllvlM8EELxlPVVbctPXXYezHttOfup55PSfl99dl8rZZsSQViiI15%25ffQ8mD22Uhh5nn4BEwuugm3Z00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FNGGKGxaJJMQJwllvCq8EELB5jVVbcg%25XXYhjdttOAzj55PUcw99d4emZZsaeRiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqUxxcmT4BBhpx%25TTkbk%25",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DJkPP7YGxpvSuGEU7eeYtl5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OF7ttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00D22UcpJnn4h12uug5Bq00zJJBFF3WzSxxciVmBBhJ28TTkL6HWWHbFpGGK3ucJJMPT1llvCl8EELxWHVVbS%251XXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIi5ZffQ49y22U2F6nn4a5NuugLFZ00zjj5FF3WCSxxckfeBBhJHxTTknhMWWH4n3GGK6TnJJMgYhllvkFZEELAgjVVbTJhXXYLT3ttOAuJ55P%25SR99dld7ZZsoPTiiIzsPffQcyP22Uatdnn41nsuug9v800zK8tFF3M31xxcyl4BBhpCATTkwKuWWHSQ3GGK4bLJJM7RYllvtM4EEL8xtVVbSvyXXYWVmttOtUT55Pc0t99d0fQZZsEoIiiI1dNffQbQr22UhMynn4yrRuugX7r00zjCQFF3ynDxxcf0hBBhIBATTk2RJWWHwasGGKpwMJJMPJhllvlM8EELxlPVVbctPXXYezHttOfup55PSfl99dl8rZZsSQViiI15%25ffQ8mD22Uhh5nn4BEwuugm3Z00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FNGGKGxaJJMQJwllvCq8EELB5jVVbcg%25XXYhjdttOAzj55PUcw99d4emZZsaeRiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqUxxcmT4BBhpx%25TTkbk%25",
 						"price1": {
 							"value": 25281.55,
-							"displayValue": "Ab 25.281,55 € inkl. MwSt"
+							"displayValue": "Ab 25.281,55 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 21245,
-							"displayValue": "Ab 21.245,00 € exkl. MwSt"
+							"displayValue": "Ab 21.245,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Caddy Kastenwagen",
 						"slogan": "Tag für Tag zeitlose Eleganz",
@@ -364,14 +364,14 @@
 							"Kastenwagen"
 						],
 						"modelName": "\"EcoProfi\"  KR 2.0 TDI EU6 SCR BMT 55 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJBFF3WzSxxciVmBBhJ2gTTkL6HWWHbF3GGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQq655Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGjVVbvBzXXYqndttOoAC55PJPw99deOBZZsgdOiiI3jOffQDXP22Ua2dnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHnTTkAIzWWHULvGGKwCbJJMXKvllv1FXEELAMjVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4VwRuug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJK1llvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsat6iiI1yNffQcct22Uxl4nn4yz3uug8wq00zHNYFF3iiYxxcxkIBBhBMoTTkw0MWWHWFDGGKIGjJJM7N1llvxt8EEL3ApVVbc8PXXYqg8ttOQ3p55PUSy99dDSCZZsaQIiiIenRffQVmP22UXZmnn4krNuugDgq00zjNQFF3yBUxxcmFoBBhLho",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVqZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJBFF3WzSxxciVmBBhJ2gTTkL6HWWHbF3GGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQq655Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGjVVbvBzXXYqndttOoAC55PJPw99deOBZZsgdOiiI3jOffQDXP22Ua2dnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHnTTkAIzWWHULvGGKwCbJJMXKvllv1FXEELAMjVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4VwRuug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJK1llvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsat6iiI1yNffQcct22Uxl4nn4yz3uug8wq00zHNYFF3iiYxxcxkIBBhBMoTTkw0MWWHWFDGGKIGjJJM7N1llvxt8EEL3ApVVbc8PXXYqg8ttOQ3p55PUSy99dDSCZZsaQIiiIenRffQVmP22UXZmnn4krNuugDgq00zjNQFF3yBUxxcmFoBBhLho",
 						"price1": {
 							"value": 20033.65,
-							"displayValue": "Ab 20.033,65 € inkl. MwSt"
+							"displayValue": "Ab 20.033,65 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 16835,
-							"displayValue": "Ab 16.835,00 € exkl. MwSt"
+							"displayValue": "Ab 16.835,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -405,7 +405,7 @@
 				"bodyTypes": [
 					"Kastenwagen"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQYwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IMeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
+				"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcskbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQYwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IMeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
 				"cartileBackgroundColor": {
 					"hexColorCode": "#DEDEDE",
 					"invertHeaderTextColor": false
@@ -441,14 +441,14 @@
 									"Kastenwagen"
 								],
 								"modelName": "Kastenwagen  KR 2.0 TDI EU6 SCR BMT 66 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQYwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IMeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcskbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQYwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IMeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
 								"price1": {
 									"value": 31862.25,
-									"displayValue": "Ab 31.862,25 € inkl. MwSt"
+									"displayValue": "Ab 31.862,25 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 26775,
-									"displayValue": "Ab 26.775,00 € exkl. MwSt"
+									"displayValue": "Ab 26.775,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -488,14 +488,14 @@
 									"Kastenwagen"
 								],
 								"modelName": "Kastenwagen  LR 2.0 TDI EU6 SCR BMT 66 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOT88xI8njjBeJHyyTEdOmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQLwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jz88xItfjjBEWuyyTC6KmmWICMppGNaEwwJtR877l8rTCCEUXyRRVz68rrXtFP66tHCrNN5KL6qq9%25wVAAZvfQSSiKYUeefFQvoo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOT88xI8njjBeJHyyTEdOmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQLwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jz88xItfjjBEWuyyTC6KmmWICMppGNaEwwJtR877l8rTCCEUXyRRVz68rrXtFP66tHCrNN5KL6qq9%25wVAAZvfQSSiKYUeefFQvoo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
 								"price1": {
 									"value": 34855.1,
-									"displayValue": "Ab 34.855,10 € inkl. MwSt"
+									"displayValue": "Ab 34.855,10 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 29290,
-									"displayValue": "Ab 29.290,00 € exkl. MwSt"
+									"displayValue": "Ab 29.290,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -532,14 +532,14 @@
 									"Kastenwagen"
 								],
 								"modelName": "Kastenwagen Plus Trendline  KR 2.0 TDI EU6 SCR BMT 66 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5H4vjjBTeuyyTy5bmmWsylppGQ8mwwJaML77l4nYCCEUrYRRVzKOrrXAAW66tfvzNN52hjqq9aQ4AAZ%25CXSSi0YGeefFN5oo25rb%25%25n6d%25DDuWw3aa0Vnc11FmBh88xIPkjjBQjuyyTolKmmWVs7ppGgyxwwJsiL77l7hTCCE9puRRViEGrrXS3P66t6SdNN5KB8qq9h7IAAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMI3aa0ybf11FZA288xnNUjjBQ9HyyT%251KmmWB%25ippGQq%25wwJzUO77l4GTCCE9cvRRVqqOrrXfKF66tcpUNN5hN4qq97xZAAZkaXSSiKLUeefMn6oo2IE9%25%25nLfPDDuvs3aa0LYT11Fs1Z88xzUkjjBwxpyyTHowmmWDyMppGitEwwJw5L77l1lCCCES6tRRVyzXrrXm0966t2vyNN5waMqq9P2fAAZATQSSiRqteef2n4oo2rYv%25%25nDzKDDuMv0aa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNMppGQRvwwJtR877l8rTCCEUXyRRVz6OrrXtFP66tHCrNN5KL6qq9%25wkAAZvfQSSiKYUeefFQ3oo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcskbbmEB8G5H4vjjBTeuyyTy5bmmWsylppGQ8mwwJaML77l4nYCCEUrYRRVzKOrrXAAW66tfvzNN52hjqq9aQ4AAZ%25CXSSi0YGeefFN5oo25rb%25%25n6d%25DDuWw3aa0Vnc11FmBh88xIPkjjBQjuyyTolKmmWVs7ppGgyxwwJsiL77l7hTCCE9puRRViEGrrXS3P66t6SdNN5KB8qq9h7IAAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMI3aa0ybf11FZA288xnNUjjBQ9HyyT%251KmmWB%25ippGQq%25wwJzUO77l4GTCCE9cvRRVqqOrrXfKF66tcpUNN5hN4qq97xZAAZkaXSSiKLUeefMn6oo2IE9%25%25nLfPDDuvs3aa0LYT11Fs1Z88xzUkjjBwxpyyTHowmmWDyMppGitEwwJw5L77l1lCCCES6tRRVyzXrrXm0966t2vyNN5waMqq9P2fAAZATQSSiRqteef2n4oo2rYv%25%25nDzKDDuMv0aa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNMppGQRvwwJtR877l8rTCCEUXyRRVz6OrrXtFP66tHCrNN5KL6qq9%25wkAAZvfQSSiKYUeefFQ3oo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
 								"price1": {
 									"value": 35777.35,
-									"displayValue": "Ab 35.777,35 € inkl. MwSt"
+									"displayValue": "Ab 35.777,35 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 30065,
-									"displayValue": "Ab 30.065,00 € exkl. MwSt"
+									"displayValue": "Ab 30.065,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -573,14 +573,14 @@
 									"Kastenwagen"
 								],
 								"modelName": "Kastenwagen Plus Comfortline  KR 2.0 TDI EU6 SCR BMT 66 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5H45jjBTeuyyTy5bmmWsylppGQ8mwwJaML77l4nYCCEUrYRRVzKOrrXAAW66tfvzNN52hjqq9aQ4AAZ%25CXSSi0YGeefFN5oo25rb%25%25n6d%25DDuWw3aa0Vnc11FmBh88xIPkjjBQjuyyTolKmmWVs7ppGgyxwwJsiL77l7hTCCE9puRRViEGrrXS3P66t6SdNN5KB8qq9h7IAAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMI3aa0ybf11FZA288xnNUjjBQ9HyyT%251KmmWB%25ippGQq%25wwJzUO77l4GTCCE9cvRRVqqOrrXfKF66tcpUNN5hNyqq97xZAAZkaXSSiKLUeefMn6oo2IE9%25%25nLfPDDuvs3aa0LYT11Fs1Z88xzUkjjBwxpyyTHowmmWDyMppGitEwwJw5L77l1lCCCES6tRRVyzXrrXm0966t2vyNN5waMqq9P2fAAZATQSSiRqteef2n4oo2rYv%25%25nDzKDDuMv0aa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNMppGQRvwwJtR877l8rTCCEUXyRRVz6OrrXtFP66tHCrNN5KL6qq9%25wkAAZvfQSSiKYUeefFQ3oo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcskbbmEB8G5H45jjBTeuyyTy5bmmWsylppGQ8mwwJaML77l4nYCCEUrYRRVzKOrrXAAW66tfvzNN52hjqq9aQ4AAZ%25CXSSi0YGeefFN5oo25rb%25%25n6d%25DDuWw3aa0Vnc11FmBh88xIPkjjBQjuyyTolKmmWVs7ppGgyxwwJsiL77l7hTCCE9puRRViEGrrXS3P66t6SdNN5KB8qq9h7IAAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMI3aa0ybf11FZA288xnNUjjBQ9HyyT%251KmmWB%25ippGQq%25wwJzUO77l4GTCCE9cvRRVqqOrrXfKF66tcpUNN5hNyqq97xZAAZkaXSSiKLUeefMn6oo2IE9%25%25nLfPDDuvs3aa0LYT11Fs1Z88xzUkjjBwxpyyTHowmmWDyMppGitEwwJw5L77l1lCCCES6tRRVyzXrrXm0966t2vyNN5waMqq9P2fAAZATQSSiRqteef2n4oo2rYv%25%25nDzKDDuMv0aa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNMppGQRvwwJtR877l8rTCCEUXyRRVz6OrrXtFP66tHCrNN5KL6qq9%25wkAAZvfQSSiKYUeefFQ3oo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
 								"price1": {
 									"value": 36574.65,
-									"displayValue": "Ab 36.574,65 € inkl. MwSt"
+									"displayValue": "Ab 36.574,65 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 30735,
-									"displayValue": "Ab 30.735,00 € exkl. MwSt"
+									"displayValue": "Ab 30.735,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -617,14 +617,14 @@
 							"Kastenwagen"
 						],
 						"modelName": "\"EcoProfi\"  KR 2.0 TDI EU6 SCR BMT 66 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQYwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX05rrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IMeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHhllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcskbbmEB8G5BSnjjBjtLyyTdjJmmWI1yppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxlNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINoppGgQYwwJUWB77l53MCCENNYRRViH0rrX3mJ66tc6lNN5wF9qq9hDVAAZHvQSSiK2reefsl5oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5Ofiqq9qBIAAZCNXSSif2UeefRbMoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX05rrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IMeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
 						"price1": {
 							"value": 27358.1,
-							"displayValue": "Ab 27.358,10 € inkl. MwSt"
+							"displayValue": "Ab 27.358,10 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 22990,
-							"displayValue": "Ab 22.990,00 € exkl. MwSt"
+							"displayValue": "Ab 22.990,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -711,11 +711,11 @@
 								"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25u6nn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONtp55Pfsw99dhp7ZZsaoCiiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVp55PJVw99dOJ9ZZsoxUiiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vHVVbjB5XXYWVmttOWO555PuiI99dlebZZszj1iiIwEZffQLDr22U2M6nn45fsuugz3q00z9pjFF3ySaxxcfR4BBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcT55P%25Vt99dD85ZZszzUiiI0EnffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPBaTTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55Pqiw99dhDbZZslt8iiI%257OffQDnP22Uhi6nn4xZ3uug8nA00zbnQFF3dulxxcvceBBhJrg",
 								"price1": {
 									"value": 28548.1,
-									"displayValue": "Ab 28.548,10 € inkl. MwSt"
+									"displayValue": "Ab 28.548,10 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 23990,
-									"displayValue": "Ab 23.990,00 € exkl. MwSt"
+									"displayValue": "Ab 23.990,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -767,11 +767,11 @@
 								"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3peMttOWcv55PGVd99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0Nuugumq00zTTQFF3KR%25xxcif2BBhvpaTTk2l%25WWHmMDGGKuvcJJMOAUllvPTkEELkxHVVbBoMXXYQnmttOQap55Pq5w99d2I7ZZskwCiiI1%25RffQ8fP22UX36nn4hasuug17q00z12wFF3FCUxxcxGeBBhBmnTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkT7ttOoVp55PJVw99dOJ9ZZsoxUiiI1%25QffQDsP22UFF6nn4kpLuug89I00zj0QFF3ibcxxcvyPBBhmEgTTkwKuWWHSQ3GGKCkLJJM7RYllv%25S8EEL5vHVVbjB5XXYWVmttOWO555PuiI99dlebZZszj1iiIwEZffQLDr22U2M6nn45fsuugz3q00z9pjFF3ySaxxcfR4BBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcT55P%25Vt99dD85ZZszzUiiI0EnffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPBaTTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIqdttOoqv55Pqiw99dhDbZZslt8iiI%257%25ffQDnD22Uhi6nn4xZ3uug8nA00zbnQFF3dutxxcvceBBhJrg",
 								"price1": {
 									"value": 36528.24,
-									"displayValue": "Ab 36.528,24 € inkl. MwSt"
+									"displayValue": "Ab 36.528,24 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 30696,
-									"displayValue": "Ab 30.696,00 € exkl. MwSt"
+									"displayValue": "Ab 30.696,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#DEDEDE",
@@ -823,11 +823,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25u6nn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONtp55Pfsw99dhp7ZZsaoCiiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVp55PJVw99dOJ9ZZsoxUiiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vHVVbjB5XXYWVmttOWO555PuiI99dlebZZszj1iiIwEZffQLDr22U2M6nn45fsuugz3q00z9pjFF3ySaxxcfR4BBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcs55P%25Vt99dD85ZZszzUiiI0EnffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPBaTTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55Pqiw99dhDbZZslt8iiI%257OffQDnP22Uhi6nn4xZ3uug8nA00zbnQFF3dulxxcvceBBhJrg",
 						"price1": {
 							"value": 35533.4,
-							"displayValue": "Ab 35.533,40 € inkl. MwSt"
+							"displayValue": "Ab 35.533,40 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 29860,
-							"displayValue": "Ab 29.860,00 € exkl. MwSt"
+							"displayValue": "Ab 29.860,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -879,11 +879,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25u6nn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONtp55Pfsw99dhp7ZZsaopiiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVp55PJVw99dOJ9ZZsoxUiiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vHVVbjB5XXYWVmttOWO555PuiI99dlebZZszj1iiIwEZffQLDr22U2M6nn45fsuugz3q00z9pjFF3ySaxxcfR4BBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcs55P%25Vt99dD85ZZszzUiiI0EnffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPBaTTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55Pqiw99dhDbZZslt8iiI%257OffQDnP22Uhi6nn4xZ3uug8nA00zbnQFF3dulxxcvceBBhJrg",
 						"price1": {
 							"value": 37270.8,
-							"displayValue": "Ab 37.270,80 € inkl. MwSt"
+							"displayValue": "Ab 37.270,80 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 31320,
-							"displayValue": "Ab 31.320,00 € exkl. MwSt"
+							"displayValue": "Ab 31.320,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -935,11 +935,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jaOrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25uVnn4nyXuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONtp55Pfsw99dhp7ZZsao8iiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVp55PJVw99dOJ9ZZsoxUiiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vHVVbjB5XXYWVmttOWO555PuiI99dlebZZszj1iiIwEZffQLDr22U2M6nn45fsuugz3q00z9pjFF3ySaxxcfR4BBhLBgTTkHwMWWHUJeGGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcs55P%25Vt99dD85ZZszzUiiI0EnffQDyr22UcRdnn4553uugu3P00zTNQFF3FHSxxcxneBBhPBaTTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55Pqiw99dhDbZZslt8iiI%257OffQDnP22Uhi6nn4xZ3uug8nA00zbnQFF3dutxxcvceBBhJrg",
 						"price1": {
 							"value": 45582.95,
-							"displayValue": "Ab 45.582,95 € inkl. MwSt"
+							"displayValue": "Ab 45.582,95 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 38305,
-							"displayValue": "Ab 38.305,00 € exkl. MwSt"
+							"displayValue": "Ab 38.305,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -991,11 +991,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25uVnn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONts55Pfsw99dhp7ZZsaoCiiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVH55PJVw99dOJ9ZZsoxViiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vbVVbjB5XXYWVmttOWO555PuiI99dlesZZszj1iiIwEZffQLDr22U2M6nn45f2uugz3q00z9pJFF3ySaxxc8jhBBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcT55P%25VS99dD85ZZszzUiiI0GKffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPB%25TTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55P4%25y99dAf7ZZskaYiiIE5jffQDCP22Uaudnn4kGjuugBic00zjuSFF3YuUxxcs0EBBhLhoTTkl6z",
 						"price1": {
 							"value": 37068.5,
-							"displayValue": "Ab 37.068,50 € inkl. MwSt"
+							"displayValue": "Ab 37.068,50 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 31150,
-							"displayValue": "Ab 31.150,00 € exkl. MwSt"
+							"displayValue": "Ab 31.150,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -1044,11 +1044,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25uVnn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONts55Pfsw99dhp7ZZsaopiiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVH55PJVw99dOJ9ZZsoxViiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vbVVbjB5XXYWVmttOWO555PuiI99dlesZZszj1iiIwEZffQLDr22U2M6nn45f2uugz3q00z9pJFF3ySaxxc8jhBBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcT55P%25VS99dD85ZZszzUiiI0GKffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPB%25TTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55P4%25y99dAf7ZZskaYiiIE5jffQDCP22Uaudnn4kGjuugBic00zjuSFF3YuUxxcs0EBBhLhoTTkl6z",
 						"price1": {
 							"value": 38805.9,
-							"displayValue": "Ab 38.805,90 € inkl. MwSt"
+							"displayValue": "Ab 38.805,90 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 32610,
-							"displayValue": "Ab 32.610,00 € exkl. MwSt"
+							"displayValue": "Ab 32.610,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -1097,11 +1097,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jaOrr9UOXs3T3MttOWEP55PAtI99d4ioZZsoX9iiIE7RffQDMM22U%25uVnn4nyXuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONts55Pfsw99dhp7ZZsao8iiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxcxy2BBhCdgTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkTMttOoVH55PJVw99dOJ9ZZsoxViiI1%25QffQDsP22UFF5nn4kpLuug89I00zj0QFF3ibcxxcvy1BBhmEgTTkwKuWWHSQ3GGKCkaJJM7RYllv%25S8EEL5vbVVbjB5XXYWVmttOWO555PuiI99dlesZZszj1iiIwEZffQLDr22U2M6nn45f2uugz3q00z9pJFF3ySaxxc8jhBBhLBgTTkHwMWWHUJeGGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcT55P%25VS99dD85ZZszzUiiI0GKffQDyr22UcRdnn4553uugu3P00zTNQFF3FHSxxcxneBBhPB%25TTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIq8ttOoqw55P4%25y99dAf7ZZskaYiiIE5jffQDCP22Uaudnn4kGjuugBic00zjuSFF3YuUxxcs05BBhLhoTTkl6z",
 						"price1": {
 							"value": 47118.05,
-							"displayValue": "Ab 47.118,05 € inkl. MwSt"
+							"displayValue": "Ab 47.118,05 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 39595,
-							"displayValue": "Ab 39.595,00 € exkl. MwSt"
+							"displayValue": "Ab 39.595,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -1150,11 +1150,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3peMttOWcv55PGVd99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0Nuugumq00zTTQFF3KR%25xxcif2BBhvpaTTk2l%25WWHmMDGGKuvcJJMOAUllvPTkEELkxHVVbBoMXXYQnmttOQap55Pq5w99d2I7ZZskwCiiI1%25RffQ8fP22UX36nn4hasuug17q00z12wFF3FCUxxcxGeBBhBmnTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkT7ttOoVp55PJVw99dOJ9ZZsoxUiiI1%25QffQDsP22UFF6nn4kpLuug89I00zj0QFF3ibcxxcvyPBBhmEgTTkwKuWWHSQ3GGKCkLJJM7RYllv%25S8EEL5vHVVbjB5XXYWVmttOWO555PuiI99dlebZZszj1iiIwEZffQLDr22U2M6nn45fsuugz3q00z9pjFF3ySaxxcfR4BBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcs55P%25Vt99dD85ZZszzUiiI0EnffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPBaTTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIqdttOoqv55Pqiw99dhDbZZslt8iiI%257%25ffQDnD22Uhi6nn4xZ3uug8nA00zbnQFF3dutxxcvceBBhJrg",
 						"price1": {
 							"value": 43233.89,
-							"displayValue": "Ab 43.233,89 € inkl. MwSt"
+							"displayValue": "Ab 43.233,89 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 36331,
-							"displayValue": "Ab 36.331,00 € exkl. MwSt"
+							"displayValue": "Ab 36.331,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -1200,11 +1200,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SYB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZYyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3peMttOWcv55PGVd99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0Xuugumq00zTTQFF3KR%25xxcif2BBhvpaTTk2l%25WWHmMDGGKuvcJJMOAUllvPTkEELkxHVVbBoMXXYQnmttOQap55Pq5I99d2I7ZZskwCiiI1%25RffQ8fP22UX36nn4hasuug17q00z12wFF3FCUxxcxGeBBhBmnTTkpn%25WWHYr3GGKOkcJJMgZ1llvxMYEELCojVVb6vyXXYkT7ttOoVH55PJVw99dOJ9ZZsoxViiI1%25QffQDsP22UFF6nn4kpLuug89I00zj0QFF3ibcxxcvyPBBhmEgTTkwKuWWHSQ3GGKCkLJJM7RYllv%25S8EEL5vbVVbjB5XXYWVmttOWO555PuiI99dlesZZszj1iiIwEZffQLDr22U2M6nn45f2uugz3q00z9pJFF3ySaxxc8jhBBhLBgTTkHwMWWHUi3GGK6IzJJMPLhllv5i8EEL65jVVbs5WXXY6PzttOPcT55P%25VS99dD85ZZszzUiiI0EnffQDyr22UcRdnn455Nuugu3P00zTNQFF3FHSxxcxneBBhPB%25TTkTs%25WWHuEDGGK06nJJMQY1llvzqmEEL6UaVVbsgyXXYIqdttOoqv55P4%25y99dAf7ZZskaYiiIE5jffQDCD22Uauann4kGjuugBic00zjuSFF3YuUxxcs05BBhLhoTTkl6z",
 						"price1": {
 							"value": 44768.99,
-							"displayValue": "Ab 44.768,99 € inkl. MwSt"
+							"displayValue": "Ab 44.768,99 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 37621,
-							"displayValue": "Ab 37.621,00 € exkl. MwSt"
+							"displayValue": "Ab 37.621,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -1247,14 +1247,14 @@
 					"Kastenwagen"
 				],
 				"modelName": "e-Crafter 35  MR EM85 Frontantrieb 100 kW 1-Gang Automatik",
-				"imageUrl": "https://media.volkswagen.com/vwn-SXB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZXyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYEx4OKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4uaurr9UOXs3T3MttO3qB55PSh799dAi7ZZsZaCiiIuubffQ3yM22Uc9dnn4kG9uugHfc00z10hFF3WhSxxcMy4BBhy0iTTkT6zWWHYEDGGKO6cJJMgZ1llv7eUEELAJTVVbTJhXXYLmDttOAuJ55Pffl99delbZZsoZYiiIVkqffQc%25S22Uaj6nn41z9uugRYI00zr7hFF3WzUxxcSiWBBh2xKTTkdtzWWHu77GGKOAgJJMn8xllvl4jEELBJlVVbBSNXXYqmRttO6wA55P45L99dKTbZZsonCiiIznXffQUME22UjZNnn4ywIuugT5x00zHNQFF3iikxxcfOjBBhJSgTTkTvfWWHWF0GGKIGjJJMFXbllvxq3EEL3ApVVbN41XXYIq8ttOoqw55Pqil99dhDbZZslt8iiI%257OffQDnP22UhW8nn4xZ3uug8ny00zPnXFF3WCU",
+				"imageUrl": "https://media.volkswagen.com/vwn-SXB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZXyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYEx4OKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtvdhjurr9UOXs3T3MttO3qB55PSh799dAi7ZZsZaCiiIuubffQ3yM22Uc9dnn4kG9uugHfc00z10hFF3WhSxxcMy4BBhy0iTTkT6zWWHYEDGGKO6cJJMgZ1llv7eUEELAJTVVbTJhXXYLmDttOAuJ55Pffl99delbZZsoZYiiIVkqffQc%25S22Uaj6nn41z9uugRYI00zr7hFF3WzUxxcSiWBBh2xKTTkdtzWWHu77GGKOAgJJMn8xllvl4jEELBJlVVbBSNXXYqmRttO6wA55P45L99dKTbZZsonCiiIznXffQUME22UjZNnn4ywIuugT5x00zHNQFF3iikxxcfOjBBhJSgTTkTvfWWHWF0GGKIGjJJMFXbllvxq3EEL3ApVVbN41XXYIq8ttOoqw55Pqil99dhDbZZslt8iiI%257OffQDnP22UhW8nn4xZ3uug8ny00zPnXFF3WCU",
 				"price1": {
 					"value": 64141,
-					"displayValue": "Ab 64.141,00 € inkl. MwSt"
+					"displayValue": "Ab 64.141,00 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 53900,
-					"displayValue": "Ab 53.900,00 € exkl. MwSt"
+					"displayValue": "Ab 53.900,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#0F2C5B",
@@ -1318,14 +1318,14 @@
 				"bodyTypes": [
 					"Kombi"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosvegffgi7tn11cl6nn3PR90aaXVpI11Tozej%25YJ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqccrbbmEB8G5BSnjjBiFTyyTdjJmmWI1vppGQfLwwJICL77l66TCCE9H%25RRVZzCrrXyAP66t%25%25NNN5etsqq9w1kAAZ%25CXSSi0YfeefFNgoo25r9%25%25nTSzDDuvD3aa0qef11FsUZ88xIenjjBlPpyyT9jhmmW2wdppGp3xwwJty277l76bCCE4jYRRVu6LrrX33P66tSMdNN5Zwsqq9oi3AAZC92SSiECteefbACoo2VF9%25%25nZ6mDDuPV3aa0Ao911FuAt88xPRWjjBQd9yyT%25TJmmWIByppGggwwwJ5cB77l48wCCEgC7RRVynGrrXfz866t2tlNN5c%25Eqq9kMIAAZHfdSSidJzeefE0uoo2KvF%25%25n82uDDuzN8aa0dnB11FSah88x8lkjjBeByyyTrwJmmWDIFppGgTxwwJ0JL77l92bCCEcLvRRVLjCrrX3MJ66tcCUNN5wrEqq9GqPAAZ7vHSSieJzeefrO5oo2Bo9%25%25n%252FDDuN%25Baa058B11FsXi88xwRkjjBdw%25yyT%25z0mmWdJappGgjLwwJzhb77l99jCCEceaRRVAaXrrXk5P66tcMdNN52PBqq977BAAZAflSSiSuUeefMNuoo2oqg%25%25nl%25hDDuvP3aa0Ayc11F9sK88xZcWjjBdtcyyTE9KmmWVIkppGgIxwwJzEl77lQrbCCE8HWRRVjwHrrXfYP66tgtdNN5hPhqq9kSkAAZHqUSSiFiU",
+				"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosvegffgi7tn11cl6nn3PR90aaXVpI11Tozej%25YJ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvb4dBjHVLcrbbmEB8G5BSnjjBiFTyyTdjJmmWI1vppGQfLwwJICL77l66TCCE9H%25RRVZzCrrXyAP66t%25%25NNN5etsqq9w1kAAZ%25CXSSi0YfeefFNgoo25r9%25%25nTSzDDuvD3aa0qef11FsUZ88xIenjjBlPpyyT9jhmmW2wdppGp3xwwJty277l76bCCE4jYRRVu6LrrX33P66tSMdNN5Zwsqq9oi3AAZC92SSiECteefbACoo2VF9%25%25nZ6mDDuPV3aa0Ao911FuAt88xPRWjjBQd9yyT%25TJmmWIByppGggwwwJ5cB77l48wCCEgC7RRVynGrrXfz866t2tlNN5c%25Eqq9kMIAAZHfdSSidJzeefE0uoo2KvF%25%25n82uDDuzN8aa0dnB11FSah88x8lkjjBeByyyTrwJmmWDIFppGgTxwwJ0JL77l92bCCEcLvRRVLjCrrX3MJ66tcCUNN5wrEqq9GqPAAZ7vHSSieJzeefrO5oo2Bo9%25%25n%252FDDuN%25Baa058B11FsXi88xwRkjjBdw%25yyT%25z0mmWdJappGgjLwwJzhb77l99jCCEceaRRVAaXrrXk5P66tcMdNN52PBqq977BAAZAflSSiSuUeefMNuoo2oqg%25%25nl%25hDDuvP3aa0Ayc11F9sK88xZcWjjBdtcyyTE9KmmWVIkppGgIxwwJzEl77lQrbCCE8HWRRVjwHrrXfYP66tgtdNN5hPhqq9kSkAAZHqUSSiFiU",
 				"price1": {
 					"value": 20384.7,
-					"displayValue": "Ab 20.384,70 € inkl. MwSt"
+					"displayValue": "Ab 20.384,70 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 17130,
-					"displayValue": "Ab 17.130,00 € exkl. MwSt"
+					"displayValue": "Ab 17.130,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#DEDEDE",
@@ -1347,14 +1347,14 @@
 							"Kombi"
 						],
 						"modelName": "Kombi 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00P22UcpJnn4h12uug5Bq00zJJFFF3WzSxxciVmBBhJ2gTTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88q00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGcVVbvBzXXYqndttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMOVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4Rt2uug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsatRiiI1yrffQcct22UjWEnn4BEguugm3q00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FvGGKGxaJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcw99d4emZZsaeYiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00P22UcpJnn4h12uug5Bq00zJJFFF3WzSxxciVmBBhJ2gTTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88q00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGcVVbvBzXXYqndttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMOVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4Rt2uug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsatRiiI1yrffQcct22UjWEnn4BEguugm3q00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FvGGKGxaJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcw99d4emZZsaeYiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
 						"price1": {
 							"value": 21199.85,
-							"displayValue": "Ab 21.199,85 € inkl. MwSt"
+							"displayValue": "Ab 21.199,85 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 17815,
-							"displayValue": "Ab 17.815,00 € exkl. MwSt"
+							"displayValue": "Ab 17.815,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -1394,14 +1394,14 @@
 							"Kombi"
 						],
 						"modelName": "\"EcoProfi\" 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJFFF3WzSxxciVmBBhJ2gTTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGcVVbvBzXXYqndttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMOVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4Rt2uug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsatRiiI1yrffQcct22UjWEnn4BEguugm3q00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FvGGKGxaJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcw99d4emZZsaeYiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJJFFF3WzSxxciVmBBhJ2gTTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGcVVbvBzXXYqndttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMOVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4Rt2uug87I00zj2%25FF3iuUxxcsxqBBhfCpTTkWI1WWHuN3GGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsatRiiI1yrffQcct22UjWEnn4BEguugm3q00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FvGGKGxaJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcw99d4emZZsaeYiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
 						"price1": {
 							"value": 20384.7,
-							"displayValue": "Ab 20.384,70 € inkl. MwSt"
+							"displayValue": "Ab 20.384,70 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 17130,
-							"displayValue": "Ab 17.130,00 € exkl. MwSt"
+							"displayValue": "Ab 17.130,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -1441,14 +1441,14 @@
 				"bodyTypes": [
 					"Kombi"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tc3wNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWp77l53MCCENNYRRVvlBrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IzeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
+				"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tc3wNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWp77l53MCCENNYRRVvlBrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IzeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
 				"price1": {
 					"value": 35051.45,
-					"displayValue": "Ab 35.051,45 € inkl. MwSt"
+					"displayValue": "Ab 35.051,45 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 29455,
-					"displayValue": "Ab 29.455,00 € exkl. MwSt"
+					"displayValue": "Ab 29.455,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#DEDEDE",
@@ -1470,14 +1470,14 @@
 							"Kombi"
 						],
 						"modelName": "Kombi  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tc3wNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWp77l53MCCENNYRRVvlBrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IzeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdwmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tc3wNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWp77l53MCCENNYRRVvlBrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgrYRRVX0OrrXk7R66tHvrNN5opEqq9MiIAAZHbQSSi0IzeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25kjjB5jvyyT%25UemmWZZFppGQZHwwJtfL77l54MCCE9LtRRVhgGrrXk5W66tzAdNN5xxsqq9k2IAAZ08MSSiD6neefMSgoo26Sg%25%25nNNZDDuP8iaa0yXc11FJFh",
 						"price1": {
 							"value": 38056.2,
-							"displayValue": "Ab 38.056,20 € inkl. MwSt"
+							"displayValue": "Ab 38.056,20 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 31980,
-							"displayValue": "Ab 31.980,00 € exkl. MwSt"
+							"displayValue": "Ab 31.980,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -1523,14 +1523,14 @@
 							"Kombi"
 						],
 						"modelName": "Kombi  LR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHJ-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZH7llYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOT88xI8njjBeJHyyTEdOmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tc3wNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQdwwJUWp77l53MCCENNYRRVvlBrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jz88xItfjjBEWuyyTC6KmmWICMppGNaEwwJtR877l8rTCCEUXyRRVz68rrXtFP66tHCrNN5KL6qq9%25wVAAZvfQSSiKYUeefFQ3oo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHJ-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZH7llYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DIUqq9o7VAAZubWSSi06teeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOT88xI8njjBeJHyyTEdOmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tc3wNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLiaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQdwwJUWp77l53MCCENNYRRVvlBrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptvwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jz88xItfjjBEWuyyTC6KmmWICMppGNaEwwJtR877l8rTCCEUXyRRVz68rrXtFP66tHCrNN5KL6qq9%25wVAAZvfQSSiKYUeefFQ3oo26JK%25%25n%250tDDujgbaa0Lnc11F1Wh88xIGkjjBjDHyyT9yLmmWD4oppGiixwwJUiK77l52bCCE9gvRRVZb5rrXkzJ66tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0djf11Fmth88xlxk",
 						"price1": {
 							"value": 41257.3,
-							"displayValue": "Ab 41.257,30 € inkl. MwSt"
+							"displayValue": "Ab 41.257,30 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 34670,
-							"displayValue": "Ab 34.670,00 € exkl. MwSt"
+							"displayValue": "Ab 34.670,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -1574,14 +1574,14 @@
 							"Kombi"
 						],
 						"modelName": "\"EcoProfi\"  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawal%25oAAUES%25z77XrHeeUqaILY44qkYN1UZIXs3QTYYpnxKPxdqJyyJjhDpQ22flppE0H17II%25NVBQQ6PlO4rNDEEOYezVWAoCbpN6FFk3VB0Dg0p3mpAZeCxmEiZ%25klCrD4GFruUN0Vz22zerUqarYp44r4Dfgg6F4AzzNBQi33qs9iccAWm2hhSTH2kkeJ5nHHoLL6KK%25jZJMMDyVUvvasBWLL1Phobb8w2NYYj7MDOOyDHfPPmK0Pddp63lsswemEII7gRVQQCxuXUURBUp44rOA5gg6eFczzNG4C33qF8iccAcVrhhSazpkke8SNHHobluKK%25Kb0MMDVEcvvaVcxLL1qhobb87i%25YYjNPKOOyR8aPPmMy7ddp9xlssw4fjII71LyQQCmMTUURBat44rPI5gg6RP8zzNBvJ33qJTyccAWN3hhSaEZkkevvnHHoiSrKK%25EzHMMDVMKvvacC1LL1Xsobb85iTYYj9mxOOyxSEPPmijuddpZFlsswi2rII7FI1QQCJTXUUR3Cz44rtO3gg6d49zzN8%25S33q3DiccAIAhhhSbK%25kke4JoHHogwaKK%25yZ4MMD3s9vvag9jLL1LrBbb8kv%25YYjymWOOyH2APPmdJ5ddp9ZwsswNsjII7CnrQQC146UURBDy44reNwgg6kM9zzNBkZ33q%25kQccAQHrhhSTo4kkeJKnHHo%257aKK%25thHMMD5iKvvaP3eLL1ZjBbb852TYYj7BlOOyKq5PPmPw%25ddpUGfsswimEII7I6VQQCxNXUURUdt44ra4igg6dWOzzN88C33qT85ccADyfhhSaGZkke1fDHHoXJqKK%25taNMMDlbFvvaRRxLL1tmBbb87UZYYjsMpOOyZYJPPmMYJddpvv8ssw0UjII7g%25VQQCACX",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawal%25oAAUES%25z77XrHeeUqaILY44qkYN1UZIXs3QTYYpnxKPxdqJyyJjhDpQ22flppE0H17II%25NVBQQ6PlO4rNDEEOYezVWAoCbpN6FFk3VB0Dg0p3mpAZeCxmEiZ%25klCri0GFr4wNVxE22zerUqarYp44r4Dfgg6F4AzzNBQi33qs9iccAWm2hhSTH2kkeJ5nHHoLL6KK%25jZJMMDyVUvvasBWLL1Phobb8w2NYYj7MDOOyDHfPPmK0Pddp63lsswemEII7gRVQQCxuXUURBUp44rOA5gg6eFczzNG4C33qF8iccAcVrhhSazpkke8SNHHobluKK%25Kb0MMDVEcvvaVcxLL1qhobb87i%25YYjNPKOOyR8aPPmMy7ddp9xlssw4fjII71LyQQCmMTUURBat44rPI5gg6RP8zzNBvJ33qJTyccAWN3hhSaEZkkevvnHHoiSrKK%25EzHMMDVMKvvacC1LL1Xsobb85iTYYj9mxOOyxSEPPmijuddpZFlsswi2rII7FI1QQCJTXUUR3Cz44rtO3gg6d49zzN8%25S33q3DiccAIAhhhSbK%25kke4JoHHogwaKK%25yZ4MMD3s9vvag9jLL1LrBbb8kv%25YYjymWOOyH2APPmdJ5ddp9ZwsswNsjII7CnrQQC146UURBDy44reNwgg6kM9zzNBkZ33q%25kQccAQHrhhSTo4kkeJKnHHo%257aKK%25thHMMD5iKvvaP3eLL1ZjBbb852TYYj7BlOOyKq5PPmPw%25ddpUGfsswimEII7I6VQQCxNXUURUdt44ra4igg6dWOzzN88C33qT85ccADyfhhSaGZkke1fDHHoXJqKK%25taNMMDlbFvvaRRxLL1tmBbb87UZYYjsMpOOyZYJPPmMYJddpvv8ssw0UjII7g%25VQQCACX",
 						"price1": {
 							"value": 35051.45,
-							"displayValue": "Ab 35.051,45 € inkl. MwSt"
+							"displayValue": "Ab 35.051,45 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 29455,
-							"displayValue": "Ab 29.455,00 € exkl. MwSt"
+							"displayValue": "Ab 29.455,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -1613,11 +1613,11 @@
 				"imageUrl": "https://media.volkswagen.com/vwn-SJE-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZJRllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYaJVQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnW7ddCpcIPtyPnp2nJMEFs23vMXzd8Yvj4dBjHWrSkbbmEB8G58XqjjBP8GyyTsajmmW%25HMppGQfLwwJt1B77l4kbCCENNBRRVZK4rrXi3166t%25sQNN5ewEqq9nLTAAZV7MSSiCYSeefxy4oo2Kog%25%25n6AZDDuNB3aa0Wbv11F1Q288xJD5jjBjwHyyTd%25KmmWX4FppGi71wwJ5WB77l8JXCCEQHYRRVBjGrrXm7P66tVmxNN5hamqq9nrIAAZH5SSSi0Lseefaa4oo2BPl%25%25nNJuDDuLmiaa0Ydc11FOBz88xz9HjjBQjfyyTf%25DmmWCT7ppGMDCwwJ1pL77l79bCCE8ERRRVeN5rrXm3t66tpFZNN5nLmqq9P2fAAZATQSSiRqteef2n4oo2xic%25%25n6OLDDua3Maa0vLF11FJ1288xBPWjjBimGyyTVG0mmWRNMppGQRvwwJ1RB77lQVjCCEVuYRRVhwCrrXkWF66temlNN5KZsqq9kLIAAZAflSSiDIKeefHZ4oo2oFg%25%25nl%25hDDuqP6aa0VVf11FOVz88xJcWjjBQW2yyTPwKmmWXNUppGR8EwwJUpb77l8pbCCEjjWRRVq0OrrXBC666t2td",
 				"price1": {
 					"value": 29648.85,
-					"displayValue": "Ab 29.648,85 € inkl. MwSt"
+					"displayValue": "Ab 29.648,85 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 24915,
-					"displayValue": "Ab 24.915,00 € exkl. MwSt"
+					"displayValue": "Ab 24.915,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#CECCC3",
@@ -1642,11 +1642,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SJE-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZJRllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYaJVQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnW7ddCpcIPtyPnp2nJMEFs23vMXzd8Yvj4dBjHWrSkbbmEB8G58XqjjBP8GyyTsajmmW%25HMppGQfLwwJt1B77l4kbCCENNBRRVZK4rrXi3166t%25sQNN5ewEqq9nLTAAZV7MSSiCYSeefxy4oo2Kog%25%25n6AZDDuNB3aa0Wbv11F1Q288xJD5jjBjwHyyTd%25KmmWX4FppGi71wwJ5WB77l8JXCCEQHYRRVBjGrrXm7P66tVmxNN5hamqq9nrIAAZH5SSSi0Lseefaa4oo2BPl%25%25nNJuDDuLmiaa0Ydc11FOBz88xz9HjjBQjfyyTf%25DmmWCT7ppGMDCwwJ1pL77l79bCCE8ERRRVeN5rrXm3t66tpFZNN5nLmqq9P2fAAZATQSSiRqteef2n4oo2xic%25%25n6OLDDua3Maa0vLF11FJ1288xBPWjjBimGyyTVG0mmWRNMppGQRvwwJ1RB77lQVjCCEVuYRRVhwCrrXkWF66temlNN5KZsqq9kLIAAZAflSSiDIKeefHZ4oo2oFg%25%25nl%25hDDuqP6aa0VVf11FOVz88xJcWjjBQW2yyTPwKmmWXNUppGR8EwwJUpb77l8pbCCEjjWRRVq0OrrXBC666t2td",
 						"price1": {
 							"value": 32183.55,
-							"displayValue": "Ab 32.183,55 € inkl. MwSt"
+							"displayValue": "Ab 32.183,55 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 27045,
-							"displayValue": "Ab 27.045,00 € exkl. MwSt"
+							"displayValue": "Ab 27.045,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#CECCC3",
@@ -1689,11 +1689,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SJD-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZJvllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYaJVQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnW7ddCpcIPtyPnp2nJMEFs23vMXzd8Yvj4dBjHWrSkbbmEB8G58XqjjBP8GyyTsajmmW%25HMppGQfLwwJt1B77l4kbCCENNBRRVZK4rrXi3166t%25sQNN5ewEqq9nLTAAZV7MSSiCYSeefxy4oo2Kog%25%25n6AZDDuNB3aa0Wbv11F1Q288xJD5jjBjwHyyTUZjmmWsDMppGtgxwwJfC877l9GTCCEjltRRVUKOrrXTyJ66tpCdNN5XpBqq9k1pAAZu6QSSiK9eeefFbIoo211g%25%25nTdEDDubq%25aa0YaD11FSVx88xO7njjBdQHyyTsGhmmWhfPppGgpuwwJu1877l6JrCCEb86RRVyCOrrXrfP66tmtNNN5DSiqq97kZAAZCT2SSiFO7eefI0uoo2oJg%25%25nNeZDDu0F3aa0WnH11FAsO88xjkbjjBYOTyyTVy0mmWGIlppGn7HwwJ5EB77lNSbCCEgNYRRVyNGrrXg5p66t5xdNN5KR6qq9MlTAAZD7XSSiL2UeefMO4oo2ouX%25%25n84LDDuv23aa0aTc11FX1K88xeIAjjB55uyyTs5hmmWVHlppGgl0wwJIRL77l9SzCCENmtRRVzCPrrXmCP66tpplNN5eBsqq9G6AAAZ0ZQ",
 						"price1": {
 							"value": 35842.8,
-							"displayValue": "Ab 35.842,80 € inkl. MwSt"
+							"displayValue": "Ab 35.842,80 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 30120,
-							"displayValue": "Ab 30.120,00 € exkl. MwSt"
+							"displayValue": "Ab 30.120,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#CECCC3",
@@ -1733,11 +1733,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SJE-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZJRllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYaJVQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnW7ddCpcIPtyPnp2nJMEFs23vMXzd8Yvj4dBjHWrSkbbmEB8G58XqjjBP8GyyTsajmmW%25HMppGQfLwwJt1B77l4kbCCENNBRRVZK4rrXi3166t%25sQNN5ewEqq9nLTAAZV7MSSiCYSeefxy4oo2Kog%25%25n6AZDDuNB3aa0Wbv11F1Q288xJD5jjBjwHyyTd%25KmmWX4FppGi71wwJ5WB77l8JXCCEQHYRRVBjGrrXm7P66tVmxNN5hamqq9nrIAAZH5SSSi0Lseefaa4oo2BPl%25%25nNJuDDuLmiaa0Ydc11FOBz88xz9HjjBQjfyyTf%25DmmWCT7ppGMDCwwJ1pL77l79bCCE8ERRRVeN5rrXm3t66tpFZNN5nLmqq9P2fAAZATQSSiRqteef2n4oo2xic%25%25n6OLDDua3Maa0vLF11FJ1288xBPWjjBimGyyTVG0mmWRNMppGQRvwwJ1RB77lQVjCCEVutRRVhwCrrXkWF66temlNN5KZsqq9kLIAAZAflSSiDIKeefHZ4oo2oFg%25%25nl%25hDDuqP6aa0VVf11FOVz88xJcWjjBQW2yyTPwKmmWXNUppGR8EwwJUpb77l8pbCCEjjWRRVq0OrrXBC666t2td",
 						"price1": {
 							"value": 29648.85,
-							"displayValue": "Ab 29.648,85 € inkl. MwSt"
+							"displayValue": "Ab 29.648,85 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 24915,
-							"displayValue": "Ab 24.915,00 € exkl. MwSt"
+							"displayValue": "Ab 24.915,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#CECCC3",
@@ -1778,11 +1778,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SJD-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZJvllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYaJVQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnW7ddCpcIPtyPnp2nJMEFs23vMXzd8Yvj4dBjHWrSkbbmEB8G58XqjjBP8GyyTsajmmW%25HMppGQfLwwJt1B77l4kbCCENNBRRVZK4rrXi3166t%25sQNN5ewEqq9nLTAAZV7MSSiCYSeefxy4oo2Kog%25%25n6AZDDuNB3aa0Wbv11F1Q288xJD5jjBjwHyyTUZjmmWsDMppGtgxwwJfC877l9GTCCEjltRRVUKOrrXTyJ66tpCdNN5XpBqq9k1pAAZu6QSSiK9eeefFbIoo211g%25%25nTdEDDubq%25aa0YaD11FSVx88xO7njjBdQHyyTsGhmmWhfPppGgpuwwJu1877l6JrCCEb86RRVyCOrrXrfP66tmtNNN5DSiqq97kZAAZCT2SSiFO7eefI0uoo2oJg%25%25nNeZDDu0F3aa0WnH11FAsO88xjkbjjBYOTyyTVy0mmWGIlppGn7HwwJ5EB77lNSbCCEgNYRRVyNGrrXg5p66t5xZNN5KR6qq9MlTAAZD7XSSiL2UeefMO4oo2ouX%25%25n84LDDuv23aa0aTc11FX1K88xeIAjjB55uyyTs5hmmWVHlppGgl0wwJIRL77l9SzCCENmtRRVzCPrrXmCP66tpplNN5eBsqq9G6AAAZ0ZQ",
 						"price1": {
 							"value": 33016.55,
-							"displayValue": "Ab 33.016,55 € inkl. MwSt"
+							"displayValue": "Ab 33.016,55 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 27745,
-							"displayValue": "Ab 27.745,00 € exkl. MwSt"
+							"displayValue": "Ab 27.745,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#CECCC3",
@@ -1829,7 +1829,7 @@
 				"bodyTypes": [
 					"Pritschenwagen"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro6ibHffgi7tn8qcXUUNyEPgxjFOrr9wbpN6h28ttsdDh5loa6PCSATTMk5GB8cBCk7Co2D6W7tn21MX6q83ETqxza8YZ00hDqzejdjC33qv4dccAIgWhhSWc%25kke1KlHHol3kKK%25gn0MMDVRRvvaEbxLL1PPobb8wnJYYj79lOOyHIGPPm5wJddpM78ssw6xoII7jLyQQCbTpUURSHt44reI5gg6el9zzNFzZ33qJTiccAI%25fhhSWt2kkektNHHoHLuKK%25lz0MMDm5Svvap%25eLL1qQBbb8k1mYYjXuWOOy98GPPm%25K1ddpuOlsswLOEII7pLIQQCuk6UUR07p44rcc5gg6yWAzzN%25lj33qI8AccAaTrhhSWL6kkeJ%25gHHoiC0KK%25JE8MMDY%25SvvaF3YLL1hvBbb8h8YYYjUdpOOyR0nPPmTKOddp%25flsswseEII7bdyQQCRrXUURA7U44rOTFgg6x9nzzNslC33qD3RccASWohhS7d6kkeVprHHojDqKK%25Yd0MMDVYFvvaR%25eLL1h2obb8jNmYYjfvbOOy20YPPmrr7ddp4MQssw2xEII7bbrQQC12IUURU6j44rcXwgg6gS9zzN8z233q3yiccAQKfhhSUEIkkeCVFHHolpfKK%25JL0MMD6iFvva3HiLL1wMBbb85LWYYjSL3OOyRyGPPmQ01",
+				"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro6ibHffgi7tn8qcXUUNyEPgxjFOrr9wbpN6h28ttsdDh5loa6PCSATTMk5GB8cBCk7Co2D6W7tn21MX6qnBETq3ySOWZ00hDqzejdjC33qv4dccAIgWhhSWc%25kke1KlHHol3kKK%25gn0MMDVRRvvaEbxLL1PPobb8wnJYYj79lOOyHIGPPm5wJddpM78ssw6xoII7jLyQQCbTpUURSHt44reI5gg6el9zzNFzZ33qJTiccAI%25fhhSWt2kkektNHHoHLuKK%25lz0MMDm5Svvap%25eLL1qQBbb8k1mYYjXuWOOy98GPPm%25K1ddpuOlsswLOEII7pLIQQCuk6UUR07p44rcc5gg6yWAzzN%25lj33qI8AccAaTrhhSWL6kkeJ%25gHHoiC0KK%25JE8MMDY%25SvvaF3YLL1hvBbb8h8YYYjUdpOOyR0nPPmTKOddp%25flsswseEII7bdyQQCRrXUURA7U44rOTFgg6x9nzzNslC33qD3RccASWohhS7d6kkeVprHHojDqKK%25Yd0MMDVYFvvaR%25eLL1h2obb8jNmYYjfvbOOy20YPPmrr7ddp4MQssw2xEII7bbrQQC12IUURU6j44rcXwgg6gS9zzN8z233q3yiccAQKfhhSUEIkkeCVFHHolpfKK%25JL0MMD6iFvva3HiLL1wMBbb85LWYYjSL3OOyRyGPPmQ01",
 				"cartileBackgroundColor": {
 					"hexColorCode": "#990009",
 					"invertHeaderTextColor": true
@@ -1867,14 +1867,14 @@
 									"Pritschenwagen"
 								],
 								"modelName": "Crafter 35 \"EcoProfi\" MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zFmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRx%25WWHuxDGGKkuGJJMRZbllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQdnn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TcJJMvL1llvPKlEELxA6VVbNyCXXYW%25MttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3Y5FF3wn0xxc7rFBBhLLKTTkE2JWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzX7ttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQour22Ubp6nn4tipuugH2q00zjuSFF3dutxxcvceBBhJrg",
+								"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRx%25WWHuxDGGKkuGJJMRZbllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQdnn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TcJJMvL1llvPKlEELxA6VVbNyCXXYW%25MttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3Y5FF3wn0xxc7rFBBhLLKTTkE2JWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzX7ttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQour22Ubp6nn4tipuugH2q00zjuSFF3dutxxcvceBBhJrg",
 								"price1": {
 									"value": 32022.9,
-									"displayValue": "Ab 32.022,90 € inkl. MwSt"
+									"displayValue": "Ab 32.022,90 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 26910,
-									"displayValue": "Ab 26.910,00 € exkl. MwSt"
+									"displayValue": "Ab 26.910,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#990009",
@@ -1923,14 +1923,14 @@
 									"Pritschenwagen"
 								],
 								"modelName": "Crafter 35 \"EcoProfi\" MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zF8rr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrBDGGK0BaJJMH0JllvriYEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWhllvLb8EELdMEVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cO9xxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcs05BBhLhoTTkl6z",
+								"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrBDGGK0BaJJMH0JllvriYEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWhllvLb8EELdMEVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cO9xxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcs05BBhLhoTTkl6z",
 								"price1": {
 									"value": 33635.35,
-									"displayValue": "Ab 33.635,35 € inkl. MwSt"
+									"displayValue": "Ab 33.635,35 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 28265,
-									"displayValue": "Ab 28.265,00 € exkl. MwSt"
+									"displayValue": "Ab 28.265,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#990009",
@@ -1982,14 +1982,14 @@
 							"Pritschenwagen"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zFmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRx%25WWHuxDGGKkuGJJMRZbllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQdnn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TcJJMvL1llvPKlEELxA6VVbNyCXXYW%25MttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3YhFF3wn0xxc7rFBBhLLKTTkE2JWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzX7ttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQour22Ubp6nn4tipuugH2q00zjuSFF3dutxxcvceBBhJrg",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRx%25WWHuxDGGKkuGJJMRZbllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQdnn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TcJJMvL1llvPKlEELxA6VVbNyCXXYW%25MttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3YhFF3wn0xxc7rFBBhLLKTTkE2JWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzX7ttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQour22Ubp6nn4tipuugH2q00zjuSFF3dutxxcvceBBhJrg",
 						"price1": {
 							"value": 38728.55,
-							"displayValue": "Ab 38.728,55 € inkl. MwSt"
+							"displayValue": "Ab 38.728,55 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 32545,
-							"displayValue": "Ab 32.545,00 € exkl. MwSt"
+							"displayValue": "Ab 32.545,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2026,14 +2026,14 @@
 							"Pritschenwagen"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zF8rr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrBDGGK0BaJJMH0JllvriYEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWhllvLb8EELdMEVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cOkxxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcs05BBhLhoTTkl6z",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrBDGGK0BaJJMH0JllvriYEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWhllvLb8EELdMEVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cOkxxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcs05BBhLhoTTkl6z",
 						"price1": {
 							"value": 40341,
-							"displayValue": "Ab 40.341,00 € inkl. MwSt"
+							"displayValue": "Ab 40.341,00 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 33900,
-							"displayValue": "Ab 33.900,00 € exkl. MwSt"
+							"displayValue": "Ab 33.900,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2073,14 +2073,14 @@
 							"Pritschenwagen"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zFmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRxUWWHuxDGGKkuGJJMRZxllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQ4nn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TWJJMvL1llvPKlEELxAiVVbNyCXXYr6OttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3Y5FF3wnyxxc7rFBBhLLKTTkEZsWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzXpttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQc8722U%2506nn4YwNuug5fw00zKlmFF3y0exxcs05BBhLhoTTkl6z",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRxUWWHuxDGGKkuGJJMRZxllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQ4nn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TWJJMvL1llvPKlEELxAiVVbNyCXXYr6OttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3Y5FF3wnyxxc7rFBBhLLKTTkEZsWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzXpttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQc8722U%2506nn4YwNuug5fw00zKlmFF3y0exxcs05BBhLhoTTkl6z",
 						"price1": {
 							"value": 40263.65,
-							"displayValue": "Ab 40.263,65 € inkl. MwSt"
+							"displayValue": "Ab 40.263,65 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 33835,
-							"displayValue": "Ab 33.835,00 € exkl. MwSt"
+							"displayValue": "Ab 33.835,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2126,14 +2126,14 @@
 							"Pritschenwagen"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zF8rr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrB4GGK0BaJJMH0JllvriBEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUguugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWGllvLb8EELdMEVVbBSfXXYqmRttO6NP55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cO9xxc7umBBhC6xTTkbbMWWHViIGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tw55P5hw99dl27ZZsEaJiiIv1NffQDH722UhjCnn4DFNuugO7q00z927FF3MEpxxcmFoBBhIF9TTkbk%25WWHEN3",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgf%25iiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrB4GGK0BaJJMH0JllvriBEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUguugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWGllvLb8EELdMEVVbBSfXXYqmRttO6NP55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cO9xxc7umBBhC6xTTkbbMWWHViIGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tw55P5hw99dl27ZZsEaJiiIv1NffQDH722UhjCnn4DFNuugO7q00z927FF3MEpxxcmFoBBhIF9TTkbk%25WWHEN3",
 						"price1": {
 							"value": 41899.9,
-							"displayValue": "Ab 41.899,90 € inkl. MwSt"
+							"displayValue": "Ab 41.899,90 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 35210,
-							"displayValue": "Ab 35.210,00 € exkl. MwSt"
+							"displayValue": "Ab 35.210,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2179,14 +2179,14 @@
 				"bodyTypes": [
 					"Fahrgestell"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro6ibHffgi7tn8qcXUUNyEPgxjFOrr9wbpN6h28ttsdDh5loa6PCSATTMk5GB8cBCk7Co2D6W7tn21MX6q83ETqxza8YZ00hDqzejdjC33qv4dccAIgWhhSWc%25kke1KxHHol3kKK%25gn0MMDVRRvvaEbxLL1PPobb8wnJYYj79lOOyHIGPPm5wJddpM78ssw6xoII7jLyQQCbTpUURSHt44reI5gg6el9zzNFzZ33qJTiccAI%25fhhSWt2kkektNHHoHLuKK%25lz0MMDm5Svvap%25eLL1qQBbb8k1mYYjXuWOOy98GPPm%25K1ddpuOlsswLOEII7pLIQQCuk6UUR07p44rcc5gg6yWAzzN%25lj33qI8AccAaTrhhSWL6kkeJ%25gHHoiC0KK%25JE8MMDY%25SvvaF3YLL1hvBbb8h8YYYjUdpOOyR0nPPmTKOddp%25flsswseEII7bdyQQCRrXUURA7n44rOTFgg6x9nzzNslC33qD3RccASWohhS7d6kkeVprHHojDqKK%25Yd0MMDVYFvvaR%25eLL1h2obb8jNmYYjfvbOOy20YPPmrr7ddp4MQssw2xEII7bbrQQC12IUURU6j44rcXwgg6gS9zzN8z233q3yiccAQKfhhSUEIkkeCVFHHolpfKK%25JL0MMD6iFvva3HiLL1wMBbb85LWYYjSL3OOyRyGPPmQ01",
+				"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro6ibHffgi7tn8qcXUUNyEPgxjFOrr9wbpN6h28ttsdDh5loa6PCSATTMk5GB8cBCk7Co2D6W7tn21MX6qnBETq3ySOWZ00hDqzejdjC33qv4dccAIgWhhSWc%25kke1KxHHol3kKK%25gn0MMDVRRvvaEbxLL1PPobb8wnJYYj79lOOyHIGPPm5wJddpM78ssw6xoII7jLyQQCbTpUURSHt44reI5gg6el9zzNFzZ33qJTiccAI%25fhhSWt2kkektNHHoHLuKK%25lz0MMDm5Svvap%25eLL1qQBbb8k1mYYjXuWOOy98GPPm%25K1ddpuOlsswLOEII7pLIQQCuk6UUR07p44rcc5gg6yWAzzN%25lj33qI8AccAaTrhhSWL6kkeJ%25gHHoiC0KK%25JE8MMDY%25SvvaF3YLL1hvBbb8h8YYYjUdpOOyR0nPPmTKOddp%25flsswseEII7bdyQQCRrXUURA7n44rOTFgg6x9nzzNslC33qD3RccASWohhS7d6kkeVprHHojDqKK%25Yd0MMDVYFvvaR%25eLL1h2obb8jNmYYjfvbOOy20YPPmrr7ddp4MQssw2xEII7bbrQQC12IUURU6j44rcXwgg6gS9zzN8z233q3yiccAQKfhhSUEIkkeCVFHHolpfKK%25JL0MMD6iFvva3HiLL1wMBbb85LWYYjSL3OOyRyGPPmQ01",
 				"price1": {
 					"value": 35759.5,
-					"displayValue": "Ab 35.759,50 € inkl. MwSt"
+					"displayValue": "Ab 35.759,50 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 30050,
-					"displayValue": "Ab 30.050,00 € exkl. MwSt"
+					"displayValue": "Ab 30.050,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#990009",
@@ -2208,14 +2208,14 @@
 							"Fahrgestell"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zFmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRx%25WWHuxDGGKkuGJJMRZbllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQdnn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TcJJMvL1llvPKCEELxA6VVbNyCXXYW%25MttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3YhFF3wn0xxc7rFBBhLLKTTkE2JWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzX7ttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQour22Ubp6nn4tipuugH2q00zjuSFF3dutxxcvceBBhJrg",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRx%25WWHuxDGGKkuGJJMRZbllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQdnn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TcJJMvL1llvPKCEELxA6VVbNyCXXYW%25MttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3YhFF3wn0xxc7rFBBhLLKTTkE2JWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzX7ttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQour22Ubp6nn4tipuugH2q00zjuSFF3dutxxcvceBBhJrg",
 						"price1": {
 							"value": 35759.5,
-							"displayValue": "Ab 35.759,50 € inkl. MwSt"
+							"displayValue": "Ab 35.759,50 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 30050,
-							"displayValue": "Ab 30.050,00 € exkl. MwSt"
+							"displayValue": "Ab 30.050,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2249,14 +2249,14 @@
 							"Fahrgestell"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zF8rr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrBDGGK0BaJJMH0JllvriYEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWhllvLb8EELdMRVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cOkxxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcs05BBhLhoTTkl6z",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0NuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XmttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrBDGGK0BaJJMH0JllvriYEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWhllvLb8EELdMRVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cOkxxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcs05BBhLhoTTkl6z",
 						"price1": {
 							"value": 38074.05,
-							"displayValue": "Ab 38.074,05 € inkl. MwSt"
+							"displayValue": "Ab 38.074,05 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 31995,
-							"displayValue": "Ab 31.995,00 € exkl. MwSt"
+							"displayValue": "Ab 31.995,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2293,14 +2293,14 @@
 							"Fahrgestell"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zFmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRxUWWHuxDGGKkuGJJMRZxllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQ4nn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TWJJMvL1llvPKCEELxAiVVbNyCXXYr6OttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3Y5FF3wnyxxc7rFBBhLLKTTkEZsWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzXpttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQc8722U%2506nn4YwNuug5fw00zKlmFF3y0exxcs05BBhLhoTTkl6z",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ%25Xr22Uhjdnn4kQsuugOJq00zZghFF31RSxxcyzeBBhQfgTTkRxUWWHuxDGGKkuGJJMRZxllvrKkEEL55jVVbcSPXXYQ%253ttOGzP55P4AL99dSubZZsoQViiIpMrffQoDz22UFQ4nn46tFuug9nq00z9zFFF3lTkxxcvrCBBhAfxTTkQw%25WWHWsDGGK0TWJJMvL1llvPKCEELxAiVVbNyCXXYr6OttOUtv55PdSI99dKTbZZsakLiiI3UOffQFTr22UaF6nn4vQsuug97I00z3Y5FF3wnyxxc7rFBBhLLKTTkEZsWWH7NDGGK00LJJMg7Gllvlb3EEL51HVVbVdyXXYzXpttOtcp55PJfw99dlDGZZsMa6iiI%25kwffQc8722U%2506nn4YwNuug5fw00zKlmFF3y0exxcs05BBhLhoTTkl6z",
 						"price1": {
 							"value": 37294.6,
-							"displayValue": "Ab 37.294,60 € inkl. MwSt"
+							"displayValue": "Ab 37.294,60 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 31340,
-							"displayValue": "Ab 31.340,00 € exkl. MwSt"
+							"displayValue": "Ab 31.340,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2346,14 +2346,14 @@
 							"Fahrgestell"
 						],
 						"modelName": "Crafter 35  MR 2.0 TDI EU6 SCR Frontantrieb BMT 75 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zF8rr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrB4GGK0BaJJMH0JllvriBEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUguugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWGllvLb8EELdMRVVbBSfXXYqmRttO6NP55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cO9xxc7umBBhC6xTTkbbMWWHViIGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tw55P5hw99dl27ZZsEaJiiIv1NffQDH722UhjCnn4DFNuugO7q00z927FF3MEpxxcmFoBBhIF9TTkbk%25WWHEN3",
+						"imageUrl": "https://media.volkswagen.com/vwn-SZH-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZGllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYMNCxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3T3MttOnET55PGVS99dS5QZZsgfNiiI%25tZffQVCr22Uavvnn4D0XuugBBI00zHCoFF3Ky%25xxciGeBBhjHoTTk2KzWWHbNIGGK3ucJJM0Akllvdi8EELsGjVVbs%25yXXY6XdttOoAp55PGQw99dS87ZZsZ8YiiIiuRffQ8MY22UDt6nn4kysuugHUI00zPlAFF3izkxxc8reBBhm3oTTkU2zWWHrB4GGK0BaJJMH0JllvriBEEL6MHVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UXffQwve22U%25a3nn4xUguugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkS2BWWHU7DGGKGIaJJMFWGllvLb8EELdMRVVbBSfXXYqmRttO6NP55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cO9xxc7umBBhC6xTTkbbMWWHViIGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tw55P5hw99dl27ZZsEaJiiIv1NffQDH722UhjCnn4DFNuugO7q00z927FF3MEpxxcmFoBBhIF9TTkbk%25WWHEN3",
 						"price1": {
 							"value": 39632.95,
-							"displayValue": "Ab 39.632,95 € inkl. MwSt"
+							"displayValue": "Ab 39.632,95 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 33305,
-							"displayValue": "Ab 33.305,00 € exkl. MwSt"
+							"displayValue": "Ab 33.305,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#990009",
@@ -2402,14 +2402,14 @@
 					"Pritschenwagen"
 				],
 				"modelName": "Crafter 35 EK MR 2.0 TDI EU6 SCR Frontantrieb BMT 103 kW 6-Gang",
-				"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOztDAONX4zFmrr9UOXs3pmBttOWcv55PuVW99dJXeZZse9UiiIz2DffQD5i22UXR6nn41LLuugaFq00zTTQFF3KR%25xxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMc0hllvFSHEELsfjVVbIJyXXYIDmttONtp55P%25Sw99dJU7ZZsejCiiIijOffQf0r22UDt6nn4kysuugHUI00zPlAFF3izkxxc8rqBBhm3oTTkUIjWWHrB0GGK0BaJJMH0JllvriYEEL6MVVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UwffQwv622U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkiR%25WWHU7DGGKGIaJJMFWhllvLb8EELdMhVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cOkxxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcffmBBhIF9TTkbk%25WWHEN3",
+				"imageUrl": "https://media.volkswagen.com/vwn-SZB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZZyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55Du1PP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCqDAOtcdxSmrr9UOXs3pmBttOWcv55PuVW99dJXeZZse9UiiIz2DffQD5i22UXR6nn41LLuugaFq00zTTQFF3KR%25xxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMc0hllvFSHEELsfjVVbIJyXXYIDmttONtp55P%25Sw99dJU7ZZsejCiiIijOffQf0r22UDt6nn4kysuugHUI00zPlAFF3izkxxc8rqBBhm3oTTkUIjWWHrB0GGK0BaJJMH0JllvriYEEL6MVVVb99yXXYhedttOUDc55PJ3d99dgSbZZse0YiiI%25UwffQwv622U%25a3nn4xUsuugN5x00zZuAFF3Z3xxxcEWHBBhL6RTTkiR%25WWHU7DGGKGIaJJMFWhllvLb8EELdMhVVbBSNXXYqmRttOGDv55P45L99dseQZZsMWYiiI1HbffQc4P22UxW6nn41xNuugLUI00zZCQFF3cOkxxc7uFBBhC6xTTkbbMWWHVnlGGKCqaJJMFFbllvzCJEELEYcVVb98KXXYXsmttO3tC55P5hw99dl27ZZsEaJiiIv1NffQDH722U%2506nn4YwNuug5fw00zKnAFF3y0exxcffmBBhIF9TTkbk%25WWHEN3",
 				"price1": {
 					"value": 39704.35,
-					"displayValue": "Ab 39.704,35 € inkl. MwSt"
+					"displayValue": "Ab 39.704,35 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 33365,
-					"displayValue": "Ab 33.365,00 € exkl. MwSt"
+					"displayValue": "Ab 33.365,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#DEDEDE",
@@ -2437,7 +2437,7 @@
 				"bodyTypes": [
 					"Großraumlimousine"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYdlSUKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosvegffgi7tn11cl6nn3PR90aaXVpI11Tozej%25YJ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqccrbbmEB8G5BSnjjBiFTyyTdjJmmWI1vppGQfLwwJICL77l66xCCE9H%25RRVZzCrrXyAP66t%25sNNN5etOqq9w1kAAZ%25CUSSi0YfeefFNgoo25r9%25%25nTSFDDuvDAaa0qef11FsUT88xIenjjBlP8yyT9jhmmW2wdppGp3xwwJwyw77l76XCCE42hRRVu6mrrX33j66tSMdNN5Zwsqq9oiNAAZC9RSSiECteefbA6oo2VF9%25%25nZ6mDDuPVEaa0Ao911FuAt88xPRojjBQd9yyT%25TJmmWIByppGggwwwJ5cl77l48wCCEgC7RRVynzrrXfz866t2tsNN5c%25Eqq9kMPAAZHflSSidJzeefRJOoo2VF0%25%25nMLxDDujnbaa03qj11Fsuh88xe1kjjBjESyyT96jmmW67lppGaQCwwJzWO77lFlbCCEZn1RRVhburrXbyR66tcvxNN5hRHqq976ZAAZJAdSSiCL%25eefox0oo2HbL%25%25nT%25ZDDuDnxaa0qDT11F9jT88xItfjjB7rHyyTs79mmWD3FppGsIEwwJzyU77l3k4CCEZZyRRVho1rrXSWx66tH9wNN5hv7qq9ndZAAZCCnSSiS2Eeefe04oo2vqF%25%25n%25AUDDuEDMaa0LdS11FSmT88xeIojjBiQvyyTfkJmmWI9kppGXiHwwJtUK77l3UTCCEcX7RRV4NOrrXyMJ66tmCMNN5nPsqq939IAAZHsHSSiKoKeefMSgoo2B2J",
+				"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYdlSUKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosvegffgi7tn11cl6nn3PR90aaXVpI11Tozej%25YJ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvb4dBjHVLcrbbmEB8G5BSnjjBiFTyyTdjJmmWI1vppGQfLwwJICL77l66xCCE9H%25RRVZzCrrXyAP66t%25sNNN5etOqq9w1kAAZ%25CUSSi0YfeefFNgoo25r9%25%25nTSFDDuvDAaa0qef11FsUT88xIenjjBlP8yyT9jhmmW2wdppGp3xwwJwyw77l76XCCE42hRRVu6mrrX33j66tSMdNN5Zwsqq9oiNAAZC9RSSiECteefbA6oo2VF9%25%25nZ6mDDuPVEaa0Ao911FuAt88xPRojjBQd9yyT%25TJmmWIByppGggwwwJ5cl77l48wCCEgC7RRVynzrrXfz866t2tsNN5c%25Eqq9kMPAAZHflSSidJzeefRJOoo2VF0%25%25nMLxDDujnbaa03qj11Fsuh88xe1kjjBjESyyT96jmmW67lppGaQCwwJzWO77lFlbCCEZn1RRVhburrXbyR66tcvxNN5hRHqq976ZAAZJAdSSiCL%25eefox0oo2HbL%25%25nT%25ZDDuDnxaa0qDT11F9jT88xItfjjB7rHyyTs79mmWD3FppGsIEwwJzyU77l3k4CCEZZyRRVho1rrXSWx66tH9wNN5hv7qq9ndZAAZCCnSSiS2Eeefe04oo2vqF%25%25n%25AUDDuEDMaa0LdS11FSmT88xeIojjBiQvyyTfkJmmWI9kppGXiHwwJtUK77l3UTCCEcX7RRV4NOrrXyMJ66tmCMNN5nPsqq939IAAZHsHSSiKoKeefMSgoo2B2J",
 				"cartileBackgroundColor": {
 					"hexColorCode": "#3B2F2A",
 					"invertHeaderTextColor": true
@@ -2475,14 +2475,14 @@
 									"Großraumlimousine"
 								],
 								"modelName": "Conceptline 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYuXLzKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00P22UcpJnn4h12uug5Bq00zJSoFF3WzNxxciVmBBhJ2gTTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88q00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGcVVbvBzXXYqndttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMOVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4Rt2uug87I00zj2%25FF3iuUxxcsxqBBhfCUTTkWI1WWHuN3GGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsatRiiI1yrffQcct22UjWEnn4Btquugm3q00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FvGGKGxaJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcw99d4emZZsaeYiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
+								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYuXLzKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00P22UcpJnn4h12uug5Bq00zJSoFF3WzNxxciVmBBhJ2gTTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqZ55Pcty99dKiAZZsZ8YiiIz5KffQf0r22UDt6nn4v0Ruug88q00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB2GGK4bcJJMh09llvq48EELBGcVVbvBzXXYqndttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzQFF3jJUxxcm7eBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMOVVbTEyXXYXQmttOWO555PuiI99dlebZZsaPYiiILIRffQcKr22UjRCnn4Rt2uug87I00zj2%25FF3iuUxxcsxqBBhfCUTTkWI1WWHuN3GGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAiJ55PJ1L99dAIEZZsatRiiI1yrffQcct22UjWEnn4Btquugm3q00zj7AFF3KqOxxcffOBBhBHQTTkTv%25WWH7FvGGKGxaJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcw99d4emZZsaeYiiI1UQffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
 								"price1": {
 									"value": 21283.15,
-									"displayValue": "Ab 21.283,15 € inkl. MwSt"
+									"displayValue": "Ab 21.283,15 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 17885,
-									"displayValue": "Ab 17.885,00 € exkl. MwSt"
+									"displayValue": "Ab 17.885,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#44464C",
@@ -2519,14 +2519,14 @@
 									"Großraumlimousine"
 								],
 								"modelName": "Trendline 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55D8sPP7YGxpvSuGEU7eeYbP6AKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSYFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5ZffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzSFF3jJUxxcm7qBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMjVVbTEyXXYXQmttOWO555PuiI99dleeZZsaPYiiILIRffQcKg22UjRYnn4Rt2uug87b00zj2mFF3iuUxxcsxqBBhfCUTTkWI1WWHmpKGGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAi355PJ1L99dAIEZZsatoiiI1y%25ffQcct22UjWEnn4Bt8uugm3c00zj7AFF3KqcxxcffOBBhBHQTTkTv%25WWH7FvGGKGxoJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcy99d4emZZsaeYiiI1UaffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
+								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55D8sPP7YGxpvSuGEU7eeYbP6AKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSYFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25hXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5ZffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGk8BBh2cKTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzSFF3jJUxxcm7qBBhpHATTkAI1WWHULvGGKwCbJJMXKvllv1FXEELAMjVVbTEyXXYXQmttOWO555PuiI99dleeZZsaPYiiILIRffQcKg22UjRYnn4Rt2uug87b00zj2mFF3iuUxxcsxqBBhfCUTTkWI1WWHmpKGGKOGcJJMJKbllvFJOEEL3XOVVbSgkXXYinmttOAi355PJ1L99dAIEZZsatoiiI1y%25ffQcct22UjWEnn4Bt8uugm3c00zj7AFF3KqcxxcffOBBhBHQTTkTv%25WWH7FvGGKGxoJJMQJyllvCq8EELB5jVVbcSwXXYhjdttOAzj55PUcy99d4emZZsaeYiiI1UaffQour22UXpdnn4tipuugH6q00zazAFF3yqyxxcmTmBBhpx%25TTkbk%25",
 								"price1": {
 									"value": 22937.25,
-									"displayValue": "Ab 22.937,25 € inkl. MwSt"
+									"displayValue": "Ab 22.937,25 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 19275,
-									"displayValue": "Ab 19.275,00 € exkl. MwSt"
+									"displayValue": "Ab 19.275,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#232132",
@@ -2569,14 +2569,14 @@
 									"Großraumlimousine"
 								],
 								"modelName": "Comfortline 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DLtPP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSaFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPT1llvClYEELxWHVVbS%25gXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIz5NffQf0r22UDKynn4v0Ruug88t00zT7AFF3hiSxxcGkFBBh2cnTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiIpdLffQDXi22Ua2fnn45M1uugH1X00zKzSFF3jJUxxcm7qBBhpHQTTkAI1WWHnINGGK4bLJJM7RYllvtM4EEL8xtVVbSvyXXYWVmttOtUp55Pc4t99d0fQZZsEo2iiI1dNffQbQr22UhMznn4yrvuugr5n00zjCYFF3ynpxxcf0hBBhIBATTk2RJWWHGnaGGKprRJJMPJhllvlMYEELxlPVVbctPXXYezHttOfup55PSfc99dl8bZZsSeUiiI15%25ffQ8mD22Uhh5nn4yGVuugT5x00zpciFF3yCSxxcMAhBBh22MTTkTKUWWHWLDGGKCxoJJMJB%25llvUl7EELRATVVbT9yXXYWeGttOkoC55PHmI99decmZZsgkpiiIz%25wffQ8%25P22Ujgann4DFNuug57I00z927FF3MqSxxc8ceBBhpSpTTkwGwWWH7TaGGKOKa",
+								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DLtPP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSaFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPT1llvClYEELxWHVVbS%25gXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIz5NffQf0r22UDKynn4v0Ruug88t00zT7AFF3hiSxxcGkFBBh2cnTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiIpdLffQDXi22Ua2fnn45M1uugH1X00zKzSFF3jJUxxcm7qBBhpHQTTkAI1WWHnINGGK4bLJJM7RYllvtM4EEL8xtVVbSvyXXYWVmttOtUp55Pc4t99d0fQZZsEo2iiI1dNffQbQr22UhMznn4yrvuugr5n00zjCYFF3ynpxxcf0hBBhIBATTk2RJWWHGnaGGKprRJJMPJhllvlMYEELxlPVVbctPXXYezHttOfup55PSfc99dl8bZZsSeUiiI15%25ffQ8mD22Uhh5nn4yGVuugT5x00zpciFF3yCSxxcMAhBBh22MTTkTKUWWHWLDGGKCxoJJMJB%25llvUl7EELRATVVbT9yXXYWeGttOkoC55PHmI99decmZZsgkpiiIz%25wffQ8%25P22Ujgann4DFNuug57I00z927FF3MqSxxc8ceBBhpSpTTkwGwWWH7TaGGKOKa",
 								"price1": {
 									"value": 26203.8,
-									"displayValue": "Ab 26.203,80 € inkl. MwSt"
+									"displayValue": "Ab 26.203,80 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 22020,
-									"displayValue": "Ab 22.020,00 € exkl. MwSt"
+									"displayValue": "Ab 22.020,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#ABB2BA",
@@ -2625,14 +2625,14 @@
 									"Großraumlimousine"
 								],
 								"modelName": "Highline 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYdlSUKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSFFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPTbllvClBEELxWHVVbS%25PXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5iffQf0g22UDKynn4v09uug88t00zT7AFF3hiSxxcGkFBBh2cnTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiI3jQffQDXi22Ua2fnn45M1uugH1X00zKzSFF3jJUxxcm7qBBhpHQTTkAI1WWHnINGGK4bLJJM7RYllvtMrEEL8xtVVbSvyXXYWVmttOtUT55Pc0t99d0fQZZsEo2iiI1dNffQbQr22UhMVnn4yrvuugr5n00zjCYFF3ynpxxcf0hBBhIBATTk2RJWWHGYLGGKprRJJMPJhllvlMYEELxlPVVbctPXXYezHttOfup55PSfc99dl8bZZsSeUiiI15%25ffQ8mD22Uhh5nn4yGVuugTdY00zpciFF3yCfxxcMAhBBh22MTTkTKUWWHWLDGGKCxbJJMJB%25llvUl7EELRATVVbT9PXXYWeGttOkoC55PHmI99decmZZsgkpiiIz%25wffQ8%25P22Ujgfnn4DFNuug57I00z927FF3MqSxxc8ceBBhpSpTTkwGwWWH7TaGGKOKI",
+								"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYdlSUKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSFFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPTbllvClBEELxWHVVbS%25PXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5iffQf0g22UDKynn4v09uug88t00zT7AFF3hiSxxcGkFBBh2cnTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiI3jQffQDXi22Ua2fnn45M1uugH1X00zKzSFF3jJUxxcm7qBBhpHQTTkAI1WWHnINGGK4bLJJM7RYllvtMrEEL8xtVVbSvyXXYWVmttOtUT55Pc0t99d0fQZZsEo2iiI1dNffQbQr22UhMVnn4yrvuugr5n00zjCYFF3ynpxxcf0hBBhIBATTk2RJWWHGYLGGKprRJJMPJhllvlMYEELxlPVVbctPXXYezHttOfup55PSfc99dl8bZZsSeUiiI15%25ffQ8mD22Uhh5nn4yGVuugTdY00zpciFF3yCfxxcMAhBBh22MTTkTKUWWHWLDGGKCxbJJMJB%25llvUl7EELRATVVbT9PXXYWeGttOkoC55PHmI99decmZZsgkpiiIz%25wffQ8%25P22Ujgfnn4DFNuug57I00z927FF3MqSxxc8ceBBhpSpTTkwGwWWH7TaGGKOKI",
 								"price1": {
 									"value": 28809.9,
-									"displayValue": "Ab 28.809,90 € inkl. MwSt"
+									"displayValue": "Ab 28.809,90 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 24210,
-									"displayValue": "Ab 24.210,00 € exkl. MwSt"
+									"displayValue": "Ab 24.210,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#3B2F2A",
@@ -2681,14 +2681,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "\"Edition 35\" 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DJkPP7YGxpvSuGEU7eeYtl5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OF7ttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00D22UcpJnn4h12uug5Bq00zJSaFF3WzNxxciVmBBhJ28TTkL6HWWHbFaGGK3ucJJMPT1llvClYEELxWHVVbS%251XXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5ZffQ49y22U2F6nn4aMmuugLFZ00zjj5FF3WCSxxckfeBBhJHxTTknhuWWH4n3GGK6TFJJMgYhllvkFZEELAg4VVbTJhXXYLT3ttOAuJ55P%25Sh99dldQZZsoP9iiI11fffQwsb22Uatfnn41n2uug9v800zK8DFF3M31xxcyl4BBhpCATTkwKUWWHSQ8GGKuQqJJMgYbllvCrOEEL5vgVVbjB5XXYeLmttOGXp55P54W99dhF5ZZsF2UiiIV%25nffQ8sq22UYU6nn4kvXuugm6L00z69uFF3yROxxcmuwBBh2FkTTkQTSWWHnrlGGK71IJJMw6rllvdlkEELEvOVVbBEdXXYh5dttOo3K55P20w99de2hZZsEj6iiIeo4ffQ89D22Ujpann4kk9uugmJX00zWXCFF3whfxxcmR2BBhvSkTTknndWWHWM4GGKGbaJJMRBAllvlTDEEL4ECVVbrSWXXYWZmttOGoJ55PHc199dKpQZZsohpiiIzHwffQ3D722UjDdnn4yz2uugaxq00z9CQFF3ZnCxxcvAeBBhjhoTTkwewWWH7J7GGKCW1JJMPM1",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DJkPP7YGxpvSuGEU7eeYtl5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OF7ttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00D22UcpJnn4h12uug5Bq00zJSaFF3WzNxxciVmBBhJ28TTkL6HWWHbFaGGK3ucJJMPT1llvClYEELxWHVVbS%251XXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5ZffQ49y22U2F6nn4aMmuugLFZ00zjj5FF3WCSxxckfeBBhJHxTTknhuWWH4n3GGK6TFJJMgYhllvkFZEELAg4VVbTJhXXYLT3ttOAuJ55P%25Sh99dldQZZsoP9iiI11fffQwsb22Uatfnn41n2uug9v800zK8DFF3M31xxcyl4BBhpCATTkwKUWWHSQ8GGKuQqJJMgYbllvCrOEEL5vgVVbjB5XXYeLmttOGXp55P54W99dhF5ZZsF2UiiIV%25nffQ8sq22UYU6nn4kvXuugm6L00z69uFF3yROxxcmuwBBh2FkTTkQTSWWHnrlGGK71IJJMw6rllvdlkEELEvOVVbBEdXXYh5dttOo3K55P20w99de2hZZsEj6iiIeo4ffQ89D22Ujpann4kk9uugmJX00zWXCFF3whfxxcmR2BBhvSkTTknndWWHWM4GGKGbaJJMRBAllvlTDEEL4ECVVbrSWXXYWZmttOGoJ55PHc199dKpQZZsohpiiIzHwffQ3D722UjDdnn4yz2uugaxq00z9CQFF3ZnCxxcvAeBBhjhoTTkwewWWH7J7GGKCW1JJMPM1",
 						"price1": {
 							"value": 28346.99,
-							"displayValue": "Ab 28.346,99 € inkl. MwSt"
+							"displayValue": "Ab 28.346,99 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 23821,
-							"displayValue": "Ab 23.821,00 € exkl. MwSt"
+							"displayValue": "Ab 23.821,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Caddy",
 						"slogan": "Für Individualisten mit Geschmack",
@@ -2733,14 +2733,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "Caddy Xtra  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55D%25oPP7YGxpvSuGEU7eeYGAITKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTAttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSYFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25PXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIz5NffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGkFBBh2cKTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzSFF3jJUxxcm7qBBhpHATTkAI1WWHnINGGK4bLJJM7RYllvtMLEEL8xtVVbSvyXXYWVmttOtUp55Pc4t99d0fQZZsEooiiI1dNffQbQr22UhMznn4yrvuugr5n00zjCYFF3ynpxxcf04BBhIBATTk2RJWWHGnaGGKpwMJJMPJhllvlMYEELxlPVVbctPXXYezHttOfup55PSfc99dl8rZZsSQViiI15%25ffQ8mD22Uhh5nn4yGVuugTV700zpchFF3yCSxxcMAhBBh22PTTkTKUWWHWLDGGKCxoJJMJB%25llvUlmEELRAjVVbT9yXXYhzDttOkys55PS3y99d4hmZZsgopiiI1oOffQ84D22U%2506nn4twsuug5fw00zKNAFF313SxxcmAmBBhpWpTTkwBDWWHYHD",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55D%25oPP7YGxpvSuGEU7eeYGAITKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTAttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJSYFF3WzNxxciVmBBhJ2%25TTkL6HWWHbFaGGK3ucJJMPT1llvCl8EELxWHVVbS%25PXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIz5NffQf0r22UDt6nn4v0Ruug88t00zT7AFF3hiSxxcGkFBBh2cKTTkU2zWWHrB0GGK4bcJJMh09llvq4UEELBGcVVbvBzXXYqnGttOoAc55PJPI99deO5ZZsaaiiiI3jOffQDXi22Ua2fnn45MsuugH1X00zKzSFF3jJUxxcm7qBBhpHATTkAI1WWHnINGGK4bLJJM7RYllvtMLEEL8xtVVbSvyXXYWVmttOtUp55Pc4t99d0fQZZsEooiiI1dNffQbQr22UhMznn4yrvuugr5n00zjCYFF3ynpxxcf04BBhIBATTk2RJWWHGnaGGKpwMJJMPJhllvlMYEELxlPVVbctPXXYezHttOfup55PSfc99dl8rZZsSQViiI15%25ffQ8mD22Uhh5nn4yGVuugTV700zpchFF3yCSxxcMAhBBh22PTTkTKUWWHWLDGGKCxoJJMJB%25llvUlmEELRAjVVbT9yXXYhzDttOkys55PS3y99d4hmZZsgopiiI1oOffQ84D22U%2506nn4twsuug5fw00zKNAFF313SxxcmAmBBhpWpTTkwBDWWHYHD",
 						"price1": {
 							"value": 23984.45,
-							"displayValue": "Ab 23.984,45 € inkl. MwSt"
+							"displayValue": "Ab 23.984,45 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 20155,
-							"displayValue": "Ab 20.155,00 € exkl. MwSt"
+							"displayValue": "Ab 20.155,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#304366",
@@ -2786,14 +2786,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "Caddy Alltrack 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55D8PPP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJS%25FF3WzNxxciVmBBhJ2xTTkL6HWWHbFaGGK3ucJJMPT1llvClBEELxWHVVbS%25PXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5nffQ49y22U2F6nn4aMmuugLFZ00zjj5FF3WCSxxckfHBBhJHxTTknhuWWH4n3GGK6TFJJMgYhllvkFZEELAg4VVbTJhXXYLT3ttOAuJ55P%25Sh99dldQZZsoP9iiI11fffQwsb22Uatfnn41n2uug9v800zK8tFF3M3exxcyl4BBhpCATTkwKUWWHSQ8GGKuQqJJMgYbllvCrOEEL5vyVVbjB5XXYeLmttOGXp55P54w99dhg5ZZsF2UiiIV%25nffQ8sq22UYU6nn4kv3uugm6L00z69uFF3yROxxcmuwBBh2FkTTkQTSWWHnrlGGK71nJJMw6rllvdlkEELEvOVVbBEdXXYh5dttOo3K55P20w99de2hZZsEj6iiIeo4ffQ89D22Ujpann4kk9uugmJX00zWXmFF3whfxxcmReBBhvSkTTknndWWHWM4GGKGbaJJMRB%25llvlTDEEL4E6VVbrSWXXYWZmttOGoJ55PHc199dKpQZZsohpiiIzHwffQ3D722UjDdnn4yz1uugaxq00z9CQFF3ZnCxxcvAeBBhjhoTTkwewWWH7J7GGKCW1JJMgT6llvdv8",
+						"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55D8PPP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3OTMttOkbP55PAtI99deVCZZsoHRiiIe2RffQ00Y22UcpJnn4h12uug5Bq00zJS%25FF3WzNxxciVmBBhJ2xTTkL6HWWHbFaGGK3ucJJMPT1llvClBEELxWHVVbS%25PXXYeWMttOQqX55Pcty99dKiAZZsZ8YiiIi5nffQ49y22U2F6nn4aMmuugLFZ00zjj5FF3WCSxxckfHBBhJHxTTknhuWWH4n3GGK6TFJJMgYhllvkFZEELAg4VVbTJhXXYLT3ttOAuJ55P%25Sh99dldQZZsoP9iiI11fffQwsb22Uatfnn41n2uug9v800zK8tFF3M3exxcyl4BBhpCATTkwKUWWHSQ8GGKuQqJJMgYbllvCrOEEL5vyVVbjB5XXYeLmttOGXp55P54w99dhg5ZZsF2UiiIV%25nffQ8sq22UYU6nn4kv3uugm6L00z69uFF3yROxxcmuwBBh2FkTTkQTSWWHnrlGGK71nJJMw6rllvdlkEELEvOVVbBEdXXYh5dttOo3K55P20w99de2hZZsEj6iiIeo4ffQ89D22Ujpann4kk9uugmJX00zWXmFF3whfxxcmReBBhvSkTTknndWWHWM4GGKGbaJJMRB%25llvlTDEEL4E6VVbrSWXXYWZmttOGoJ55PHc199dKpQZZsohpiiIzHwffQ3D722UjDdnn4yz1uugaxq00z9CQFF3ZnCxxcvAeBBhjhoTTkwewWWH7J7GGKCW1JJMgT6llvdv8",
 						"price1": {
 							"value": 27774.6,
-							"displayValue": "Ab 27.774,60 € inkl. MwSt"
+							"displayValue": "Ab 27.774,60 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 23340,
-							"displayValue": "Ab 23.340,00 € exkl. MwSt"
+							"displayValue": "Ab 23.340,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#66605E",
@@ -2842,14 +2842,14 @@
 					"Reisemobile"
 				],
 				"modelName": "Beach 5-Sitzer  KR 1.0 TSI EU6 BMT 75 kW 5-Gang",
-				"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYxJOQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONNxjjurr9UOXs3pDRttOPWv55PHYd99dS5QZZsoXRiiI%25KrffQonr22UFFOnn4hwluugk8n00z9TAFF3leOxxcG3qBBhfXpTTklnDWWHbNKGGKYx1JJMc0hllvdW8EELREjVVbBGKXXYeDzttOoGv55PUAt99dh5mZZsMfSiiIijOffQf9i22U2F6nn4a5NuugLFr00zjj5FF3WCSxxckfeBBhJHjTTknhMWWH4QlGGK6TFJJMgYyllvkFZEELAgjVVbTJhXXYLT3ttOAuJ55P%25Sh99dldQZZsoP9iiI11fffQcyP22Uatfnn41n2uug9vI00zK8tFF3M3exxcyl4BBhpCATTkwKSWWHSQ8GGKuQqJJMgYbllvCrOEEL5vbVVbjB5XXYeLGttOGXp55P54w99dJdZZZsF2UiiIV%25%25ffQ8sP22UYU6nn4kv3uugm6P00z69uFF3yROxxcmuwBBh2FgTTkQTSWWHnrgGGKJUjJJMw7vllvdl4EELEvOVVbBEdXXYh5dttOo3K55P20w99de2hZZsEjYiiIeUXffQ89222Ujpnnn4kk9uugmJX00zWX0FF3whfxxcmReBBhvSkTTknndWWHWM4GGKGbaJJMRB%25llvlTDEEL4EpVVbrSWXXYWZmttOkoC55PHmI99decmZZsgkpiiIz%25wffQ8%25P22Ujg8nn4DFNuug57I00z927FF36Zkxxc8ceBBhpSpTTkwGwWWH7TaGGKOKa",
+				"imageUrl": "https://media.volkswagen.com/vwn-SAB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DTPPP7YGxpvSuGEU7eeYxJOQKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4ib4ffgi7tn11bX6nn3PR90xLLyH0kY9skW88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOCrDAOtp4Rjurr9UOXs3pDRttOPWv55PHYd99dS5QZZsoXRiiI%25KrffQonr22UFFOnn4hwluugk8n00z9TAFF3leOxxcG3qBBhfXpTTklnDWWHbNKGGKYx1JJMc0hllvdW8EELREjVVbBGKXXYeDzttOoGv55PUAt99dh5mZZsMfSiiIijOffQf9i22U2F6nn4a5NuugLFr00zjj5FF3WCSxxckfeBBhJHjTTknhMWWH4QlGGK6TFJJMgYyllvkFZEELAgjVVbTJhXXYLT3ttOAuJ55P%25Sh99dldQZZsoP9iiI11fffQcyP22Uatfnn41n2uug9vI00zK8tFF3M3exxcyl4BBhpCATTkwKSWWHSQ8GGKuQqJJMgYbllvCrOEEL5vbVVbjB5XXYeLGttOGXp55P54w99dJdZZZsF2UiiIV%25%25ffQ8sP22UYU6nn4kv3uugm6P00z69uFF3yROxxcmuwBBh2FgTTkQTSWWHnrgGGKJUjJJMw7vllvdl4EELEvOVVbBEdXXYh5dttOo3K55P20w99de2hZZsEjYiiIeUXffQ89222Ujpnnn4kk9uugmJX00zWX0FF3whfxxcmReBBhvSkTTknndWWHWM4GGKGbaJJMRB%25llvlTDEEL4EpVVbrSWXXYWZmttOkoC55PHmI99decmZZsgkpiiIz%25wffQ8%25P22Ujg8nn4DFNuug57I00z927FF36Zkxxc8ceBBhpSpTTkwGwWWH7TaGGKOKa",
 				"price1": {
 					"value": 25846.8,
-					"displayValue": "Ab 25.846,80 € inkl. MwSt"
+					"displayValue": "Ab 25.846,80 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 21720,
-					"displayValue": "Ab 21.720,00 € exkl. MwSt"
+					"displayValue": "Ab 21.720,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#AF8C2D",
@@ -2889,14 +2889,14 @@
 				"bodyTypes": [
 					"Großraumlimousine"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DY%25PP7YGxpvSuGEU7eeYFyY9KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DIqqq9o7QAAZubHSSi064eeftRLoo2rPo%25%25nTpzDDuE23aa0LaB11FmBh88xIPkjjBQjuyyTolKmmWVsdppGgyxwwJsiL77l7hTCCECpVRRViEGrrXS3P66t6SdNN5hcmqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnAaa0vQc11FmYO88xiSnjjBuH%25yyTUZKmmWD8MppGTDpwwJUA377l34QCCEgJGRRVZhBrrXAAP66t2MrNN5hw6qq9kqNAAZCBDSSiH1teefMb6oo2vuX%25%25nQVhDDub2daa0LIc11FbOW88xJRqjjB34HyyT7BsmmWK%257ppGamvwwJf5V77l79aCCEnjVRRVeN5rrXm3q66tpFwNN5nLsqq971vAAZpvwSSiSG3eefrASoo2nuO%25%25nLzRDDuqsXaa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNkppGQR1wwJtR877l8rICCEUXhRRVz69rrXtF966tHCrNN5KL6qq9%25IVAAZvfRSSiKYreefFQXoo26JK%25%25n%250tDDuTjCaa0LnB11F1Wh88xIGtjjBjD%25yyT9yOmmWD4nppGiifwwJUiK77l52aCCE9g1RRVZb5rrXkzJ66t2HZNN5KZDqq9ceIAAZTT2SSiKuUeefxyLoo21q0%25%25nLo3DDuqoxaa0AAf11Fsoq88xImHjjBw9GyyTVT4",
+				"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DY%25PP7YGxpvSuGEU7eeYFyY9KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DIqqq9o7QAAZubHSSi064eeftRLoo2rPo%25%25nTpzDDuE23aa0LaB11FmBh88xIPkjjBQjuyyTolKmmWVsdppGgyxwwJsiL77l7hTCCECpVRRViEGrrXS3P66t6SdNN5hcmqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnAaa0vQc11FmYO88xiSnjjBuH%25yyTUZKmmWD8MppGTDpwwJUA377l34QCCEgJGRRVZhBrrXAAP66t2MrNN5hw6qq9kqNAAZCBDSSiH1teefMb6oo2vuX%25%25nQVhDDub2daa0LIc11FbOW88xJRqjjB34HyyT7BsmmWK%257ppGamvwwJf5V77l79aCCEnjVRRVeN5rrXm3q66tpFwNN5nLsqq971vAAZpvwSSiSG3eefrASoo2nuO%25%25nLzRDDuqsXaa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNkppGQR1wwJtR877l8rICCEUXhRRVz69rrXtF966tHCrNN5KL6qq9%25IVAAZvfRSSiKYreefFQXoo26JK%25%25n%250tDDuTjCaa0LnB11F1Wh88xIGtjjBjD%25yyT9yOmmWD4nppGiifwwJUiK77l52aCCE9g1RRVZb5rrXkzJ66t2HZNN5KZDqq9ceIAAZTT2SSiKuUeefxyLoo21q0%25%25nLo3DDuqoxaa0AAf11Fsoq88xImHjjBw9GyyTVT4",
 				"price1": {
 					"value": 41096.65,
-					"displayValue": "Ab 41.096,65 € inkl. MwSt"
+					"displayValue": "Ab 41.096,65 € inkl. MwSt"
 				},
 				"price2": {
 					"value": 34535,
-					"displayValue": "Ab 34.535,00 € exkl. MwSt"
+					"displayValue": "Ab 34.535,00 € exkl. MwSt"
 				},
 				"cartileBackgroundColor": {
 					"hexColorCode": "#094CA6",
@@ -2918,14 +2918,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "Highline  KR 2.0 TDI EU6 SCR BMT 110 kW 6-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DY%25PP7YGxpvSuGEU7eeYFyY9KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DIqqq9o7QAAZubHSSi064eeftRLoo2rPo%25%25nTpzDDuE23aa0LaB11FmBh88xIPkjjBQjuyyTolKmmWVsdppGgyxwwJsiL77l7hTCCECpVRRViEGrrXS3P66t6SdNN5hcmqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnAaa0vQc11FmYO88xiSnjjBuH%25yyTUZKmmWD8MppGTDpwwJUA377l34QCCEgJGRRVZhBrrXAAP66t2MrNN5hw6qq9kqNAAZCBDSSiH1teefMb6oo2vuX%25%25nQVhDDub2daa0LIc11FbOW88xJRqjjB34HyyT7BsmmWK%257ppGamvwwJf5V77l79aCCEnjVRRVeN5rrXm3q66tpFwNN5nLsqq971vAAZpvwSSiSG3eefrASoo2nuO%25%25nLzRDDuqsXaa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNkppGQR1wwJtR877l8rICCEUXhRRVz69rrXtF966tHCrNN5KL6qq9%25IVAAZvfRSSiKYreefFQXoo26JK%25%25n%250tDDuTjCaa0LnB11F1Wh88xIGtjjBjD%25yyT9yOmmWD4nppGiifwwJUiK77l52aCCE9g1RRVZb5rrXkzJ66t2HZNN5KZDqq9ceIAAZTT2SSiKuUeefxyLoo21q0%25%25nLo3DDuqoxaa0AAf11Fsoq88xImHjjBw9GyyTVT4",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DY%25PP7YGxpvSuGEU7eeYFyY9KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DIqqq9o7QAAZubHSSi064eeftRLoo2rPo%25%25nTpzDDuE23aa0LaB11FmBh88xIPkjjBQjuyyTolKmmWVsdppGgyxwwJsiL77l7hTCCECpVRRViEGrrXS3P66t6SdNN5hcmqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnAaa0vQc11FmYO88xiSnjjBuH%25yyTUZKmmWD8MppGTDpwwJUA377l34QCCEgJGRRVZhBrrXAAP66t2MrNN5hw6qq9kqNAAZCBDSSiH1teefMb6oo2vuX%25%25nQVhDDub2daa0LIc11FbOW88xJRqjjB34HyyT7BsmmWK%257ppGamvwwJf5V77l79aCCEnjVRRVeN5rrXm3q66tpFwNN5nLsqq971vAAZpvwSSiSG3eefrASoo2nuO%25%25nLzRDDuqsXaa0Gaf11FxOT88xZyWjjBQ52yyTVG0mmWRNkppGQR1wwJtR877l8rICCEUXhRRVz69rrXtF966tHCrNN5KL6qq9%25IVAAZvfRSSiKYreefFQXoo26JK%25%25n%250tDDuTjCaa0LnB11F1Wh88xIGtjjBjD%25yyT9yOmmWD4nppGiifwwJUiK77l52aCCE9g1RRVZb5rrXkzJ66t2HZNN5KZDqq9ceIAAZTT2SSiKuUeefxyLoo21q0%25%25nLo3DDuqoxaa0AAf11Fsoq88xImHjjBw9GyyTVT4",
 						"price1": {
 							"value": 60273.5,
-							"displayValue": "Ab 60.273,50 € inkl. MwSt"
+							"displayValue": "Ab 60.273,50 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 50650,
-							"displayValue": "Ab 50.650,00 € exkl. MwSt"
+							"displayValue": "Ab 50.650,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#094CA6",
@@ -2968,14 +2968,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "Trendline  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DDNqq9o7VAAZubWSSi06GeeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdPmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxQNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLbaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l532CCENNYRRVvgmrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptzwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgr5RRVX0OrrXk7R66tHvrNN5opDqq9MifAAZHbQSSi0IGeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25ojjB5jvyyT%25UemmWZZippGQZHwwJtfL77l54MCCE9LtRRVhgGrrXfk966tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0deN11Fsyk88xp5WjjBEBU",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYr%250lKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DDNqq9o7VAAZubWSSi06GeeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdPmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxQNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLbaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l532CCENNYRRVvgmrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptzwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgr5RRVX0OrrXk7R66tHvrNN5opDqq9MifAAZHbQSSi0IGeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25ojjB5jvyyT%25UemmWZZippGQZHwwJtfL77l54MCCE9LtRRVhgGrrXfk966tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0deN11Fsyk88xp5WjjBEBU",
 						"price1": {
 							"value": 44625,
-							"displayValue": "Ab 44.625,00 € inkl. MwSt"
+							"displayValue": "Ab 44.625,00 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 37500,
-							"displayValue": "Ab 37.500,00 € exkl. MwSt"
+							"displayValue": "Ab 37.500,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#ABB2BA",
@@ -3015,14 +3015,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "Comfortline  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYuXLzKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDgqq9o7QAAZubHSSi064eeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdPmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxQNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLbaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l53FCCENNYRRVvgmrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0W7611FgQh88xpF5jjBkepyyT%25jKmmWZXlppGpt%25wwJaJ777lArXCCEjggRRVyu5rrXfMH66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICappGXC1wwJ1RB77lQVjCCEgr5RRVX05rrXk7R66tHvrNN5op9qq9MiCAAZHbQSSi0IVeefrGHoo2ouX%25%25nB87DDuv23aa0aTc11FsWX88x8%25ojjB5jYyyT%25UemmWZZippGQZHwwJtfL77l54MCCE9LtRRVhgGrrXfk966tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNeFDDuqqiaa0deN11Fsyk88xp5WjjBEBU",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYuXLzKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDgqq9o7QAAZubHSSi064eeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdPmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxQNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLbaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l53FCCENNYRRVvgmrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0W7611FgQh88xpF5jjBkepyyT%25jKmmWZXlppGpt%25wwJaJ777lArXCCEjggRRVyu5rrXfMH66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICappGXC1wwJ1RB77lQVjCCEgr5RRVX05rrXk7R66tHvrNN5op9qq9MiCAAZHbQSSi0IVeefrGHoo2ouX%25%25nB87DDuv23aa0aTc11FsWX88x8%25ojjB5jYyyT%25UemmWZZippGQZHwwJtfL77l54MCCE9LtRRVhgGrrXfk966tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNeFDDuqqiaa0deN11Fsyk88xp5WjjBEBU",
 						"price1": {
 							"value": 46023.25,
-							"displayValue": "Ab 46.023,25 € inkl. MwSt"
+							"displayValue": "Ab 46.023,25 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 38675,
-							"displayValue": "Ab 38.675,00 € exkl. MwSt"
+							"displayValue": "Ab 38.675,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#44464C",
@@ -3059,14 +3059,14 @@
 							"Großraumlimousine"
 						],
 						"modelName": "\"EcoProfi\"  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcmbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DDNqq9o7VAAZubWSSi06GeeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdPmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxQNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLbaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l532CCENNYRRVvgmrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptzwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgr5RRVX05rrXk7R66tHvrNN5opDqq9MifAAZHbQSSi0IGeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25ojjB5jvyyT%25UemmWZZippGQZHwwJtfL77l54MCCE9LtRRVhgGrrXfk966tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0deN11Fsyk88xp5WjjBEBU",
+						"imageUrl": "https://media.volkswagen.com/vwn-SHB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DRfPP7YGxpvSuGEU7eeYtl3UKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHYRRVqqTrrXiMg66tfc8NN5DDNqq9o7VAAZubWSSi06GeeftRLoo2rPo%25%25nTpzDDuE23aa0yxc11FsOh88xI8njjBeJHyyTEdPmmW4jFppGdZvwwJwcB77l5mnCCEZlWRRVAzOrrXrAP66tHxQNN5cwsqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKszDDujLbaa09qf11F26Q88xI5kjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l532CCENNYRRVvgmrrX3mR66tc6rNN5wF9qq9hDVAAZHvQSSiK2seefsl3oo2viO%25%25nMdzDDuvbBaa0da911FgQh88xpFmjjBkepyyT%25jKmmWZXlppGptzwwJaJ777lArXCCEjgVRRVyu5rrXfMj66tpDKNN5yKiqq9qBIAAZCNXSSif2UeefRbJoo2%25gH%25%25nKMuDDuWDiaa0FYB11F9jT88xItfjjBEWuyyTC6KmmWICMppGXC1wwJ1RB77lQVjCCEgr5RRVX05rrXk7R66tHvrNN5opDqq9MifAAZHbQSSi0IGeefrGHoo2ouX%25%25n84LDDuv23aa0aTc11FsWh88x8%25ojjB5jvyyT%25UemmWZZippGQZHwwJtfL77l54MCCE9LtRRVhgGrrXfk966tH9GNN53Ssqq9BBIAAZHnQSSiFjveefaNuoo2vez%25%25nNezDDuqqiaa0deN11Fsyk88xp5WjjBEBU",
 						"price1": {
 							"value": 41096.65,
-							"displayValue": "Ab 41.096,65 € inkl. MwSt"
+							"displayValue": "Ab 41.096,65 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 34535,
-							"displayValue": "Ab 34.535,00 € exkl. MwSt"
+							"displayValue": "Ab 34.535,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#DEDEDE",
@@ -3142,11 +3142,11 @@
 								"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYhPP7YGxpvSuGEU7eeYiwHfKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BSnjjB5hbyyTdjJmmWI1vppGDKvwwJU2b77l4kXCCENNBRRVZK4rrXi3166t%25szNN5ewEqq9nL4AAZurHSSiCOseefROeoo2Bmg%25%25nlfzDDuPb3aa0daf11FAWh88xJOYjjBQ1uyyTyg0mmWV8ippGtWxwwJ6UV77l76bCCEcuWRRVgesrrXBmJ66t2HlNN5xA7qq9utVAAZC92SSihOUeefaKMoo2Xr9%25%25nNSzDDu2NVaa0Y7s11FsOt88xP0ujjBlQ5yyT77emmWhsappGQamwwJUwp77l8fECCE4AWRRVzhLrrX35b66tbBrNN5hXMqq9cLIAAZ7WwSSikKueefFy7oo2IPg%25%25n82uDDuzN8aa0ADc11FXJT88x8lAjjBeByyyTrwJmmWDIIppGaiEwwJ5hD77l8ScCCEactRRVRuOrrXmCJ66t59YNN5pKBqq9AI3AAZcUySSiFSteef2Muoo2VD0%25%25nT0ZDDuyw4aa0YyS11FSy288xYTojjBdmHyyTWZJmmW48vppGgcLwwJ6aq77l3VjCCEgkYRRVZbrrrXr5T66tfSBNN53Xsqq9q2IAAZvnQSSiS6reefGekoo26YR%25%25nllLDDuTE3aa0WYg11FG3T88xIOnjjBEQGyyTUGnmmWd7MppGtq4wwJUpb77l8pbCCEjjWRRVhNcrrXAF966t2tK",
 								"price1": {
 									"value": 36890,
-									"displayValue": "Ab 36.890,00 € inkl. MwSt"
+									"displayValue": "Ab 36.890,00 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 31000,
-									"displayValue": "Ab 31.000,00 € exkl. MwSt"
+									"displayValue": "Ab 31.000,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#666A72",
@@ -3189,11 +3189,11 @@
 								"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYhPP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BSnjjB5hbyyTdjJmmWI1vppGDKvwwJU2b77l4kXCCENNBRRVZK4rrXi3166t%25szNN5ewEqq9nL4AAZurHSSiCOseefROeoo2Bmg%25%25nlfzDDuPb3aa0daf11FAWh88xJOYjjBQ1uyyTyg0mmWV8ippGtWxwwJ6UV77l76bCCEcuWRRVgesrrXBmJ66t2HlNN5xA7qq9utVAAZC92SSihOUeefaKMoo2Xr9%25%25nNSzDDu2NVaa0Y7s11FsOt88xP0ujjBlQ5yyT77emmWhsappGQamwwJUwp77l8fECCE4AWRRVzhBrrX35b66tbBrNN5hXMqq9cLIAAZ7WwSSikKueefFy7oo2IPg%25%25n82uDDuzN8aa0ADc11FXJT88x8lAjjB5oTyyTrwJmmWDIIppGaiEwwJ5h377l8ScCCEactRRVRuOrrXmCJ66t59YNN5pKBqq9AI3AAZcUySSiFSteef2Muoo2VD0%25%25nT0ZDDuyw4aa0YyS11FSy288xYTojjBdmHyyTWZJmmW48vppGgcLwwJ6aq77l3VjCCEgkYRRVZbrrrXr5T66tfSBNN53Xsqq9q2IAAZvnQSSiS6reefGekoo26YR%25%25nllLDDuTE3aa0WYg11FG3T88xIOnjjBEQGyyTUGnmmWd7MppGtq4wwJUpb77l8pbCCEjjWRRVhNcrrXAF966t2tK",
 								"price1": {
 									"value": 41435.8,
-									"displayValue": "Ab 41.435,80 € inkl. MwSt"
+									"displayValue": "Ab 41.435,80 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 34820,
-									"displayValue": "Ab 34.820,00 € exkl. MwSt"
+									"displayValue": "Ab 34.820,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#66605E",
@@ -3245,11 +3245,11 @@
 								"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYhPP7YGxpvSuGEU7eeYFOYqKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BSnjjB5hbyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DIhqq9o7QAAZubgSSi06heefRPIoo2rPo%25%25nTpzDDuE23aa0dYc11Fs1288xSGkjjBlPOyyTU80mmWmzFppGpjfwwJ5GB77lN4MCCECNYRRVzgLrrXzoF66tTplNN5nKEqq9BSCAAZ05XSSiRZreefkP4oo21Mv%25%25nt6ZDDuPV6aa0Aoc11FuAt88xPRQjjBQd9yyTsxFmmWV4nppGRR%25wwJHQ877l48wCCEgC7RRVynXrrXzeJ66tcHWNN5hZGqq9OWNAAZH5LSSikYUeefRJuoo2KvF%25%25nBpRDDuUs3aa0yuX11FcAy88xe1kjjB5EGyyTyVemmWZDGppGNCEwwJ1UR77l82XCCEZHxRRVyokrrX8k966t6FdNN5wrEqq9ZiPAAZ7voSSi2pseefkgpoo2Bo9%25%25nuLFDDut1xaa0Gxf11FpCz88xPpojjBopuyyTPGDmmWIwMppGJfEwwJzyb77l3kYCCEq8VRRVhtmrrX3KP66tfO5NN5NZGqq9nojAAZh5QSSiSuUeefb0Goo2oqN%25%25nl%25KDDuqP5aa0VVY11FGXh88xJP3jjBlhGyyTUd0mmWX4lppGglewwJIRL77l9SzCCEg7ORRVy75rrXmmJ66tHAkNN5eBiqq9u9v",
 								"price1": {
 									"value": 49033.95,
-									"displayValue": "Ab 49.033,95 € inkl. MwSt"
+									"displayValue": "Ab 49.033,95 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 41205,
-									"displayValue": "Ab 41.205,00 € exkl. MwSt"
+									"displayValue": "Ab 41.205,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#A87D5B",
@@ -3298,11 +3298,11 @@
 								"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYiPP7YGxpvSuGEU7eeYkjp5KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BSnjjB5hbyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DILqq9o7kAAZubgSSi06heefRPIoo2rPo%25%25nTpzDDuE23aa0LaB11FsOh88xI8njjBeJHyyTEdPmmW4jFppGp3CwwJwyl77l9JTCCEqgyRRVRqkrrX3zb66t3%25xNN5WwEqq9uMVAAZTeRSSi0UzeefxZ5oo26fN%25%25nKszDDujLbaa09qf11Fstq88xeDijjBFejyyTs64mmW4IdppGQTBwwJtz077l66aCCEZk7RRVzyCrrX3rR66tp0eNN5c%25Eqq9kMJAAZHflSSidJAeefMZYoo2KPg%25%25n6EqDDuvbBaa0W7611FgQh88xpFPjjBkepyyT%25jKmmWZXkppGpt%25wwJf1l77lArXCCEjg6RRVyumrrXfMP66tpDKNN5yKmqq9qTgAAZCNqSSif2beefRbDoo2vgC%25%25nNdVDDuWDiaa0FYB11F9jT88xlTnjjB7rcyyTs7DmmWD7PppGslzwwJUCL77lEnXCCEcpORRVhKPrrXSWx66tH9wNN5hv7qq9ndgAAZAflSSi0DmeefHZuoo2oFg%25%25nOxlDDuDSAaa0Vav11FSsZ88xttPjjBl5SyyTEsemmWVHlppGgIxwwJ5zV77l3V%25CCEU6YRRViocrrX3Rd66tpRyNN5wwEqq9GrTAAZvoMSSiDGneefxfY",
 								"price1": {
 									"value": 65235.8,
-									"displayValue": "Ab 65.235,80 € inkl. MwSt"
+									"displayValue": "Ab 65.235,80 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 54820,
-									"displayValue": "Ab 54.820,00 € exkl. MwSt"
+									"displayValue": "Ab 54.820,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#51000C",
@@ -3342,11 +3342,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYhPP7YGxpvSuGEU7eeYRN5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BH9jjB5hbyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqerrXiMg66tfc8NN5DIhqq9o7QAAZubgSSi06heefRPIoo2rPo%25%25nTpzDDuE23aa0dYc11Fs1288xSGkjjBlPOyyTU80mmWmzFppGpjfwwJ5GB77lN4FCCECNYRRVzgLrrXzoF66tTplNN5nKEqq9BSCAAZuQgSSiF9teefri6oo2Hdg%25%25n8vLDDu5Niaa0dXN11FS%25Z88x0S5jjBdrUyyTUsZmmWIBxppGXguwwJrrD77lKUjCCEgj7RRVzRCrrXmuS66t3olNN5hKGqq9kiJAAZPGqSSiK9beefHO4oo2rl0%25%25nMLxDDuTwraa04Ic11Fm0t88xhSmjjBo8HyyT9VJmmWmXoppGiaJwwJqRV77l84rCCEjnyRRViKBrrXm%25H66tjHZNN5Nxsqq976NAAZifdSSiCL%25eefM8Hoo2Hzw%25%25nT%25ZDDu0bxaa058B11FJB288xwR3jjBdw%25yyT%25wjmmWdJgppGQ7vwwJl2V77l3mYCCEcHORRVAjXrrXk5p66tcMdNN52P9qq9qiJAAZu%25ySSik9Ueefe04oo2YFJ%25%25n%25AqDDuEDMaa0Ad911FXXO88xJtkjjBldcyyTEkJmmW4sFppGtgEwwJzEo77lQrbCCEZe3RRVzCPrrXmC966tpplNN5KSHqq9oTfAAZ0ZL",
 						"price1": {
 							"value": 52241,
-							"displayValue": "Ab 52.241,00 € inkl. MwSt"
+							"displayValue": "Ab 52.241,00 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 43900,
-							"displayValue": "Ab 43.900,00 € exkl. MwSt"
+							"displayValue": "Ab 43.900,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Multivan",
 						"slogan": "Pragmatisch elegant",
@@ -3385,11 +3385,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYiPP7YGxpvSuGEU7eeYxXOzKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BN6jjB5hbyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqerrXiMg66tfc8NN5DIhqq9o7QAAZubgSSi06heefRPIoo2rPo%25%25nTpzDDuE23aa0LaB11FsOh88xI8njjBeJHyyTEdPmmW4jFppGp3xwwJwy277l9JTCCEqgxRRVRqkrrX3zb66t3%25xNN5WwEqq9uMVAAZTeRSSi0UzeefxZ5oo26fN%25%25nKszDDujLbaa09qf11FsDX88xI5AjjBoa5yyTxoymmWINgppGgQfwwJUWT77l53FCCENN1RRViHCrrX3mR66tc6rNN5wFoqq9hDVAAZHvlSSiK2EeefslSoo2viO%25%25nMdzDDuNVxaa0LYT11FGCN88xzUkjjBwxdyyTHowmmWDyMppGitHwwJw5D77l28ECCES6tRRVyzNrrXm0p66t2vdNN5waMqq9mMpAAZAWzSSiRqAeef2nYoo2rYa%25%25n0CUDDuqsXaa0Gaf11FxOT88xZyWjjBEWuyyTC6hmmWICappGaCmwwJIE077l4RbCCEVutRRVhwPrrXkMd66teGBNN5KZ7qq9kLCAAZusiSSiS2EeefFapoo2Ki0%25%25n%25xPDDuPBEaa0aeS11FX1L88xeIijjBi5gyyTE9KmmWVIkppGXKEwwJzQB77l93XCCEcXDRRV4NOrrXf%25h66tcrANN5wriqq977VAAZvoMSSiDGneefxfY",
 						"price1": {
 							"value": 59898.65,
-							"displayValue": "Ab 59.898,65 € inkl. MwSt"
+							"displayValue": "Ab 59.898,65 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 50335,
-							"displayValue": "Ab 50.335,00 € exkl. MwSt"
+							"displayValue": "Ab 50.335,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Multivan",
 						"slogan": "Im Auto von morgen sitzen",
@@ -3432,11 +3432,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYiPP7YGxpvSuGEU7eeYxj45KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BS5jjB5hbyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqerrXiMg66tfc8NN5DIhqq9o7QAAZubgSSi06heefRPIoo2rPo%25%25nTpzDDuE23aa0LaB11FsOh88xI8njjBeJHyyTEdPmmW4jFppGp3xwwJwyl77l9JTCCEqgxRRVRqLrrX3zb66t3%25xNN5WwEqq9uMVAAZTeRSSi0UzeefxZ5oo26fN%25%25nKszDDujLbaa09qf11FsDX88xI5AjjBoa5yyTxoymmWINgppGgQfwwJUWT77l53FCCENN1RRViHCrrX3mR66tc6rNN5wFoqq9hDVAAZHvlSSiK2EeefslSoo2viO%25%25nMdzDDuNVxaa0LYI11FGCN88xzUkjjBwxdyyTHowmmWDylppGitHwwJw5D77l28ECCES6tRRVyzNrrXm0p66t2vWNN5waMqq9mMpAAZAWzSSiRqAeef2nYoo2rYa%25%25nLzRDDuqsXaa0Gaf11FxOT88xZyWjjBEWuyyTC6hmmWICappGaCdwwJIE077l4RbCCEVutRRVhwPrrXkMd66teGBNN5KZ7qq9kLCAAZusiSSiS2EeefFapoo2Ki0%25%25n%25xFDDuPBEaa0aeS11FX1L88xeIijjBi5gyyTE9KmmWVIkppGXKEwwJzQB77l93XCCEcXDRRV4NOrrXf%25h66tcrANN5wriqq977VAAZJ6WSSiL%25veefaJuoo2B2O",
 						"price1": {
 							"value": 54109.3,
-							"displayValue": "Ab 54.109,30 € inkl. MwSt"
+							"displayValue": "Ab 54.109,30 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 45470,
-							"displayValue": "Ab 45.470,00 € exkl. MwSt"
+							"displayValue": "Ab 45.470,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Multivan",
 						"slogan": "Seit Generationen flexibel",
@@ -3484,11 +3484,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SHM-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHlllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DYfPP7YGxpvSuGEU7eeYGqIBKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtD4dBOOqZSibbmEB8G5BSnjjB5hbyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqerrXiMg66tfc8NN5DILqq9o7kAAZubgSSi06heefRPIoo2rPo%25%25nTpzDDuE23aa0LaB11FsOh88xI8njjBeJHyyTEdPmmW4jFppGp3CwwJwyl77l9JTCCEqgyRRVRqkrrX3zb66t3%25xNN5WwEqq9uMVAAZTeRSSi0UzeefxZ5oo26fN%25%25nKszDDujLbaa09qf11FsDX88xI5AjjBoa5yyTxoymmWINgppGgQNwwJUWT77l53FCCENN1RRViHCrrX3mR66tc6rNN5wFoqq9hDVAAZHvlSSiK2EeefslSoo2viO%25%25nMdzDDuNVAaa0LYI11FGCN88xzUWjjBwxdyyTHowmmWDylppGitHwwJw5X77l28ECCES6tRRVyzNrrXm0p66t2vdNN5waMqq9mMpAAZAWcSSiRqAeef2nYoo2rYa%25%25nLzRDDuqsXaa0Gaf11FxOT88xZyWjjBEWuyyTC6hmmWICEppGaCdwwJIE077l4R2CCEVutRRVhwPrrXkMd66tedlNN5KZmqq9kLCAAZuszSSiS2EeefFapoo2Ki0%25%25n%25xPDDuPBEaa0aeS11FX1L88xeIijjB55dyyTE9emmWVIoppGXKEwwJzQB77l93XCCEcXDRRV4NmrrXfug66tcrBNN5wrmqq977VAAZJ6WSSiL%25veefaJuoo2oaa",
 						"price1": {
 							"value": 68478.55,
-							"displayValue": "Ab 68.478,55 € inkl. MwSt"
+							"displayValue": "Ab 68.478,55 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 57545,
-							"displayValue": "Ab 57.545,00 € exkl. MwSt"
+							"displayValue": "Ab 57.545,00 € exkl. MwSt"
 						},
 						"cartileBackgroundColor": {
 							"hexColorCode": "#161616",
@@ -3534,7 +3534,7 @@
 				"bodyTypes": [
 					"Reisemobile"
 				],
-				"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYxj45KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi377l7hTCCECpVRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzUI77l4GICCE9cxRRVqq8rrXfKR66tcpGNN5hN6qq97x%25AAZ0kySSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWQwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FB6T88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmq466tz9yNN5hAsqq9ZTfAAZv6mSSiLOpeef1R2oo2Yug%25%25nLdqDDuTg%25aa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp8zwwJfws77l83aCCEnnVRRVznLrrXi0P66tfcFNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yec11FOak88xeaAjjBooKyyTUwzmmWCilppGpCL"
+				"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYxj45KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsrosHM4ffgi7tn1128Vnn3PR90aaXYc911TozejzyZ33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi377l7hTCCECpVRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzUI77l4GICCE9cxRRVqq8rrXfKR66tcpGNN5hN6qq97x%25AAZ0kySSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWQwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FB6T88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmq466tz9yNN5hAsqq9ZTfAAZv6mSSiLOpeef1R2oo2Yug%25%25nLdqDDuTg%25aa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp8zwwJfws77l83aCCEnnVRRVznLrrXi0P66tfcFNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yec11FOak88xeaAjjBooKyyTUwzmmWCilppGpCL"
 			},
 			"children": [
 				{
@@ -3562,14 +3562,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Ocean  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYxj45KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi377l7hTCCECpVRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzUI77l4GICCE9cxRRVqq8rrXfKR66tcpGNN5hN6qq97x%25AAZ0kySSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWQwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FB6T88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmq466tz9yNN5hAsqq9ZTfAAZv6mSSiLOpeef1R2oo2Yug%25%25nLdqDDuTg%25aa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp8zwwJfws77l83aCCEnnVRRVznLrrXi0P66tfcFNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yec11FOak88xeaAjjBooKyyTUwzmmWCilppGpCL",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYxj45KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi377l7hTCCECpVRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzUI77l4GICCE9cxRRVqq8rrXfKR66tcpGNN5hN6qq97x%25AAZ0kySSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWQwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FB6T88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmq466tz9yNN5hAsqq9ZTfAAZv6mSSiLOpeef1R2oo2Yug%25%25nLdqDDuTg%25aa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp8zwwJfws77l83aCCEnnVRRVznLrrXi0P66tfcFNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yec11FOak88xeaAjjBooKyyTUwzmmWCilppGpCL",
 								"price1": {
 									"value": 65307.2,
-									"displayValue": "Ab 65.307,20 € inkl. MwSt"
+									"displayValue": "Ab 65.307,20 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 54880,
-									"displayValue": "Ab 54.880,00 € exkl. MwSt"
+									"displayValue": "Ab 54.880,00 € exkl. MwSt"
 								},
 								"carlineName": "Der California",
 								"slogan": "Freiheit mit allen Extras",
@@ -3598,14 +3598,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Ocean \"Edition\"  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi077l7hTCCECpVRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnAaa0vGs11FmY288xi9mjjBQ15yyT0AgmmW4ilppGajvwwJWa277l4ScCCEcgURRVzlUrrXikT66tSSyNN5nv6qq9k7lAAZHAqSSiRTaeefxKpoo2Mj9%25%25nLOqDDubF5aa04tj11FADq88xP0QjjBO4HyyToZ4mmWdIEppGXqowwJHcL77l6JnCCEb86RRVyCOrrX0f966t62yNN5xw9qq9aefAAZCHSSSiRWreefxPVoo286N%25%25nNpPDDurPxaa0aVc11FSDa88xBT3jjBdCOyyTOMqmmWXmippGJQEwwJuCV77l32xCCEZXWRRVAoLrrX3Ap66tfAwNN5wS6qq9chPAAZHeQSSifGneefbqwoo2Yd7%25%25nj6uDDuPF3aa0YIS11FG3a88xetYjjBjWfyyTE7qmmWdBMppGpVvwwJzXL77l7ycCCEnCQRRVyhBrrX00t66tc0YNN52xsqq9nkBAAZus2SSiLHteefxbuoo2Yuy%25%25nM1zDDuEE3aa0YTc11FJCd88xp%25kjjBd8pyyT%258emmWDDvppGgCcwwJr2V77l7rY",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi077l7hTCCECpVRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnAaa0vGs11FmY288xi9mjjBQ15yyT0AgmmW4ilppGajvwwJWa277l4ScCCEcgURRVzlUrrXikT66tSSyNN5nv6qq9k7lAAZHAqSSiRTaeefxKpoo2Mj9%25%25nLOqDDubF5aa04tj11FADq88xP0QjjBO4HyyToZ4mmWdIEppGXqowwJHcL77l6JnCCEb86RRVyCOrrX0f966t62yNN5xw9qq9aefAAZCHSSSiRWreefxPVoo286N%25%25nNpPDDurPxaa0aVc11FSDa88xBT3jjBdCOyyTOMqmmWXmippGJQEwwJuCV77l32xCCEZXWRRVAoLrrX3Ap66tfAwNN5wS6qq9chPAAZHeQSSifGneefbqwoo2Yd7%25%25nj6uDDuPF3aa0YIS11FG3a88xetYjjBjWfyyTE7qmmWdBMppGpVvwwJzXL77l7ycCCEnCQRRVyhBrrX00t66tc0YNN52xsqq9nkBAAZus2SSiLHteefxbuoo2Yuy%25%25nM1zDDuEE3aa0YTc11FJCd88xp%25kjjBd8pyyT%258emmWDDvppGgCcwwJr2V77l7rY",
 								"price1": {
 									"value": 68371.45,
-									"displayValue": "Ab 68.371,45 € inkl. MwSt"
+									"displayValue": "Ab 68.371,45 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 57455,
-									"displayValue": "Ab 57.455,00 € exkl. MwSt"
+									"displayValue": "Ab 57.455,00 € exkl. MwSt"
 								},
 								"carlineName": "Der California",
 								"highlightFeatures": [
@@ -3642,14 +3642,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Coast  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYolJUKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DISqq9o7VAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsif77l7hTCCECpuRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzU277l4GWCCE9cxRRVqq8rrXLzb66tcpGNN5hN6qq97xZAAZ0kiSSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWJwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BfAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqoiaa0Fxg11FAst88xjkbjjBYKNyyTVyZmmWGIlppGn7EwwJzfF77l9VTCCEqevRRVzqmrrXiqp66tpAlNN53Z7qq9kSIAAZiW2SSiLNpeefbPwoo28rc%25%25nO0zDDubs3aa0WzD11FSXb88x8TijjBlwNyyTPxKmmWmEMppGgVvwwJwj377l27ICCEjc1RRVuuXrrX3ub66tfFdNN52hOqq9ndfAAZvkXSSiFLneefbnjoo2Kag%25%25nllzDDubB3aa0G7P11Fmoh88xP1HjjBo1GyyT%25%25MmmW473ppGRfEwwJ5J3",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYolJUKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DISqq9o7VAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsif77l7hTCCECpuRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzU277l4GWCCE9cxRRVqq8rrXLzb66tcpGNN5hN6qq97xZAAZ0kiSSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWJwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BfAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqoiaa0Fxg11FAst88xjkbjjBYKNyyTVyZmmWGIlppGn7EwwJzfF77l9VTCCEqevRRVzqmrrXiqp66tpAlNN53Z7qq9kSIAAZiW2SSiLNpeefbPwoo28rc%25%25nO0zDDubs3aa0WzD11FSXb88x8TijjBlwNyyTPxKmmWmEMppGgVvwwJwj377l27ICCEjc1RRVuuXrrX3ub66tfFdNN52hOqq9ndfAAZvkXSSiFLneefbnjoo2Kag%25%25nllzDDubB3aa0G7P11Fmoh88xP1HjjBo1GyyT%25%25MmmW473ppGRfEwwJ5J3",
 								"price1": {
 									"value": 56203.7,
-									"displayValue": "Ab 56.203,70 € inkl. MwSt"
+									"displayValue": "Ab 56.203,70 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 47230,
-									"displayValue": "Ab 47.230,00 € exkl. MwSt"
+									"displayValue": "Ab 47.230,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#358876",
@@ -3682,14 +3682,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Coast \"Edition\"  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DISqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsiX77l7hTCCECpuRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnxaa0vGs11FmY288xi9mjjBuq4yyTUZJmmWD8MppGTDfwwJUA377l34nCCEgJGRRVZhBrrXAAj66tb3YNN5hwJqq9kqNAAZCBDSSiFHmeefK85oo2vYN%25%25nL0UDDuUX8aa0q%25N11FOuI88xYUkjjBe9UyyTPslmmWVNeppGk3vwwJrG277lL1rCCEj7YRRVui5rrXrfj66tFp5NN5DSiqq97kAAAZCTRSSiFOEeef1r6oo26mO%25%25nROFDDuDE3aa0A%25D11FxBz88xP7YjjBYKNyyTVyZmmWGIlppGn7EwwJzfF77l9VTCCEqevRRVzqmrrXiqp66tpArNN53ZMqq9kSIAAZiW2SSiLNpeefbPwoo28rc%25%25nO0zDDubs3aa0WzD11FSXb88x8TijjBlwNyyTPxKmmWmEMppGgVvwwJwj377l27ICCEjc1RRVuuXrrX3ub66tfFdNN52hOqq9ndfAAZvkXSSiFLneefbnjoo2Kag%25%25nllzDDubB3aa0G7P11Fmoh88xP1HjjBo1GyyT%25%25MmmW473ppGRfEwwJ5J3",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DISqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsiX77l7hTCCECpuRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnxaa0vGs11FmY288xi9mjjBuq4yyTUZJmmWD8MppGTDfwwJUA377l34nCCEgJGRRVZhBrrXAAj66tb3YNN5hwJqq9kqNAAZCBDSSiFHmeefK85oo2vYN%25%25nL0UDDuUX8aa0q%25N11FOuI88xYUkjjBe9UyyTPslmmWVNeppGk3vwwJrG277lL1rCCEj7YRRVui5rrXrfj66tFp5NN5DSiqq97kAAAZCTRSSiFOEeef1r6oo26mO%25%25nROFDDuDE3aa0A%25D11FxBz88xP7YjjBYKNyyTVyZmmWGIlppGn7EwwJzfF77l9VTCCEqevRRVzqmrrXiqp66tpArNN53ZMqq9kSIAAZiW2SSiLNpeefbPwoo28rc%25%25nO0zDDubs3aa0WzD11FSXb88x8TijjBlwNyyTPxKmmWmEMppGgVvwwJwj377l27ICCEjc1RRVuuXrrX3ub66tfFdNN52hOqq9ndfAAZvkXSSiFLneefbnjoo2Kag%25%25nllzDDubB3aa0G7P11Fmoh88xP1HjjBo1GyyT%25%25MmmW473ppGRfEwwJ5J3",
 								"price1": {
 									"value": 61445.65,
-									"displayValue": "Ab 61.445,65 € inkl. MwSt"
+									"displayValue": "Ab 61.445,65 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 51635,
-									"displayValue": "Ab 51.635,00 € exkl. MwSt"
+									"displayValue": "Ab 51.635,00 € exkl. MwSt"
 								},
 								"carlineName": "Der California",
 								"highlightFeatures": [
@@ -3744,14 +3744,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Beach Camper  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7VAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsic77l7hTCCE9puRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZA288xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzU277l4GWCCE9cxRRVqq8rrXLzb66tcpGNN5hN6qq97xZAAZ0kiSSiH1teefMb4oo2vuQ%25%25nQV1DDub2daa0LIc11FAtI88xYPGjjBlrAyyTcgKmmWCTGppGMDCwwJ1pL77l29XCCECZ1RRVjVrrrXoq966tpccNN5wxiqq9ubvAAZDCRSSiRjbeef7buoo2oJg%25%25nNeZDDu0F4aa0qdX11F8hL88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmqJ66tz9wNN5hAsqq9ZTfAAZv6mSSiLOpeef1R3oo2Yug%25%25nLdzDDuTgDaa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp81wwJfws77l83aCCEnnVRRVznLrrXi0P66tfcYNN52Piqq9MhVAAZ0v2SSiL2VeefHD4oo2JJg%25%25nLxzDDuWwOaa0yeS11FOak88xeakjjBoodyyTUwzmmWCilppGtGz",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYRNuxKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7VAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsic77l7hTCCE9puRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZA288xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzU277l4GWCCE9cxRRVqq8rrXLzb66tcpGNN5hN6qq97xZAAZ0kiSSiH1teefMb4oo2vuQ%25%25nQV1DDub2daa0LIc11FAtI88xYPGjjBlrAyyTcgKmmWCTGppGMDCwwJ1pL77l29XCCECZ1RRVjVrrrXoq966tpccNN5wxiqq9ubvAAZDCRSSiRjbeef7buoo2oJg%25%25nNeZDDu0F4aa0qdX11F8hL88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmqJ66tz9wNN5hAsqq9ZTfAAZv6mSSiLOpeef1R3oo2Yug%25%25nLdzDDuTgDaa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp81wwJfws77l83aCCEnnVRRVznLrrXi0P66tfcYNN52Piqq9MhVAAZ0v2SSiL2VeefHD4oo2JJg%25%25nLxzDDuWwOaa0yeS11FOak88xeakjjBoodyyTUwzmmWCilppGtGz",
 								"price1": {
 									"value": 48795.95,
-									"displayValue": "Ab 48.795,95 € inkl. MwSt"
+									"displayValue": "Ab 48.795,95 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 41005,
-									"displayValue": "Ab 41.005,00 € exkl. MwSt"
+									"displayValue": "Ab 41.005,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#66605E",
@@ -3795,14 +3795,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Beach Camper \"Edition\"  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsic77l7hTCCECpuRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnxaa0vGs11FmY288xiSnjjBuq4yyTUZ9mmWD8MppGTDfwwJUA377l34nCCEgJGRRVZhBrrXAAj66t2MrNN5hwJqq9kqNAAZCBDSSiFHmeefK85oo2vYN%25%25nL0UDDuUX8aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWfwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whhqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FOwb88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmqR66tz9KNN5hAsqq9ZTfAAZv6mSSiLOpeef1R3oo2Yug%25%25nLdzDDuTgDaa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp81wwJfws77l83aCCEnnVRRVznLrrXi0P66tfcYNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yeS11FOak88xeakjjBoodyyTUwzmmWCilppGtGz",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsic77l7hTCCECpuRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnxaa0vGs11FmY288xiSnjjBuq4yyTUZ9mmWD8MppGTDfwwJUA377l34nCCEgJGRRVZhBrrXAAj66t2MrNN5hwJqq9kqNAAZCBDSSiFHmeefK85oo2vYN%25%25nL0UDDuUX8aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWfwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whhqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FOwb88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmqR66tz9KNN5hAsqq9ZTfAAZv6mSSiLOpeef1R3oo2Yug%25%25nLdzDDuTgDaa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp81wwJfws77l83aCCEnnVRRVznLrrXi0P66tfcYNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yeS11FOak88xeakjjBoodyyTUwzmmWCilppGtGz",
 								"price1": {
 									"value": 55156.5,
-									"displayValue": "Ab 55.156,50 € inkl. MwSt"
+									"displayValue": "Ab 55.156,50 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 46350,
-									"displayValue": "Ab 46.350,00 € exkl. MwSt"
+									"displayValue": "Ab 46.350,00 € exkl. MwSt"
 								},
 								"carlineName": "Der California",
 								"highlightFeatures": [
@@ -3842,14 +3842,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Beach Tour  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYbP6AKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7VAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsiL77l7hTCCEZlWRRVAz8rrXrAP66tHxlNN5cDUqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKTPDDujLiaa09qf11F26Q88xI5tjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l53FCCENN1RRVvgLrrX3mW66tc6rNN5wF9qq9uhZAAZkaXSSiKLUeefMnIoo2IEa%25%25nLfPDDuvs3aa0qXs11FbOW88xJRqjjB34HyyT7BWmmWK%257ppGamvwwJf5V77l79aCCE8ERRRVeN5rrXm3366tpFZNN5nLMqq9%257CAAZC8LSSiwLneefeG4oo26S9%25%25nu0UDDuNPVaa01cv11FLkr88xl85jjBTdGyyTfpJmmW4ZuppGtlxwwJ6AK77l46jCCE96yRRVyNGrrXg5p66tcqdNN59Biqq9MryAAZvYmSSiaCzeefbn4oo2vPg%25%25nB4%25DDuqEvaa0ax911FGmr88xY0kjjBjJHyyTUlKmmWm1appGipdwwJ1zD77l22ECCEg2vRRVZuLrrXi3b66tfOZNN5KcEqq9uMfAAZvfESSik%25UeefGG4oo2vFg%25%25nTpYDDujSAaa0YDh11FSDh88xeePjjBQpgyyT7ZJmmWXWg",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYbP6AKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7VAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsiL77l7hTCCEZlWRRVAz8rrXrAP66tHxlNN5cDUqq9G7VAAZ0vXSSiWoreefxZ5oo26f0%25%25nKTPDDujLiaa09qf11F26Q88xI5tjjBoaHyyTxoZmmWINgppGgQfwwJUWT77l53FCCENN1RRVvgLrrX3mW66tc6rNN5wF9qq9uhZAAZkaXSSiKLUeefMnIoo2IEa%25%25nLfPDDuvs3aa0qXs11FbOW88xJRqjjB34HyyT7BWmmWK%257ppGamvwwJf5V77l79aCCE8ERRRVeN5rrXm3366tpFZNN5nLMqq9%257CAAZC8LSSiwLneefeG4oo26S9%25%25nu0UDDuNPVaa01cv11FLkr88xl85jjBTdGyyTfpJmmW4ZuppGtlxwwJ6AK77l46jCCE96yRRVyNGrrXg5p66tcqdNN59Biqq9MryAAZvYmSSiaCzeefbn4oo2vPg%25%25nB4%25DDuqEvaa0ax911FGmr88xY0kjjBjJHyyTUlKmmWm1appGipdwwJ1zD77l22ECCEg2vRRVZuLrrXi3b66tfOZNN5KcEqq9uMfAAZvfESSik%25UeefGG4oo2vFg%25%25nTpYDDujSAaa0YDh11FSDh88xeePjjBQpgyyT7ZJmmWXWg",
 								"price1": {
 									"value": 50753.5,
-									"displayValue": "Ab 50.753,50 € inkl. MwSt"
+									"displayValue": "Ab 50.753,50 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 42650,
-									"displayValue": "Ab 42.650,00 € exkl. MwSt"
+									"displayValue": "Ab 42.650,00 € exkl. MwSt"
 								},
 								"cartileBackgroundColor": {
 									"hexColorCode": "#232132",
@@ -3887,14 +3887,14 @@
 									"Reisemobile"
 								],
 								"modelName": "Beach Tour \"Edition\"  KR 2.0 TDI EU6 SCR BMT 81 kW 5-Gang",
-								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBtj4dBO8WPcfbbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsiL77l7hTCCECpuRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnxaa0vGs11FmY288xiSnjjBuq4yyTUZ9mmWD8MppGTDfwwJUA377l34nCCEgJGRRVZhBrrXAAj66t2MrNN5hwJqq9kqNAAZCBDSSiFHmeefK85oo2vYN%25%25nL0UDDuUX8aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWfwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whhqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FOwb88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmqR66tz9KNN5hAsqq9ZTfAAZv6mSSiLOpeef1R3oo2Yug%25%25nLdzDDuTgDaa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp81wwJfws77l83aCCEnnVRRVznLrrXi0b66tfcYNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yeS11FOak88xeakjjBoodyyTUwzmmWCilppGtGz",
+								"imageUrl": "https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYiw5aKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BH9jjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRbCCEgHtRRVqqTrrXiMg66tfc8NN5DDEqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11FXUe88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsiL77l7hTCCECpuRRViEGrrXS3T66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2xgc%25%25nTfZDDuqnxaa0vGs11FmY288xiSnjjBuq4yyTUZ9mmWD8MppGTDfwwJUA377l34nCCEgJGRRVZhBrrXAAj66t2MrNN5hwJqq9kqNAAZCBDSSiFHmeefK85oo2vYN%25%25nL0UDDuUX8aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWfwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whhqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FOwb88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmqR66tz9KNN5hAsqq9ZTfAAZv6mSSiLOpeef1R3oo2Yug%25%25nLdzDDuTgDaa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp81wwJfws77l83aCCEnnVRRVznLrrXi0b66tfcYNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yeS11FOak88xeakjjBoodyyTUwzmmWCilppGtGz",
 								"price1": {
 									"value": 57114.05,
-									"displayValue": "Ab 57.114,05 € inkl. MwSt"
+									"displayValue": "Ab 57.114,05 € inkl. MwSt"
 								},
 								"price2": {
 									"value": 47995,
-									"displayValue": "Ab 47.995,00 € exkl. MwSt"
+									"displayValue": "Ab 47.995,00 € exkl. MwSt"
 								},
 								"carlineName": "Der California",
 								"highlightFeatures": [
@@ -3956,11 +3956,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SCB-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZCyllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DKPPP7YGxpvSuGEU7eeYx4O1KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4i6ZZsoX9iiIE7RffQDM622U%25u6nn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONtp55Pfsw99dhpaZZsao1iiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxc7P4BBhm2oTTkbRzWWHYh3GGK49aJJMFKbllv7eDEELrMOVVbhBzXXYeEkttOGEp55PYw799deFQZZsaoIiiI%25dOffQ00r22Uhmvnn415Suug8ue00zZL3FF3MjUxxcyl4BBhpHATTkAV1WWH7hvGGKwCbJJMoA1llvtMkEEL8xtVVbTEyXXYTYtttOnZs55PJSd99dg8aZZsGZ4iiIv%25RffQfKr22Utidnn4gzNuug5m800zjADFF3iHRxxcvx4BBhkpKTTkQZzWWHrsgGGKOvcJJMtZ1llvrt8EELdtTVVbYzPXXYelOttOoaP55P44I99dnTvZZso8CiiIz7GffQXXr22U2gYnn4xrsuuguhq00z0fwFF3YFexxcxPeBBh2JoTTknRfWWHsLDGGK46jJJMRI%25llvPU8EELd6cVVbS6KXXY69mttO3ov55PGVa99depbZZsofYiiI39RffQ05r22UafNnn4551uugL2I00zPnXFF3M3SxxcGR4",
 						"price1": {
 							"value": 54989.9,
-							"displayValue": "Ab 54.989,90 € inkl. MwSt"
+							"displayValue": "Ab 54.989,90 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 46210,
-							"displayValue": "Ab 46.210,00 € exkl. MwSt"
+							"displayValue": "Ab 46.210,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Grand California",
 						"slogan": "Grand Freiheit",
@@ -3991,12 +3991,12 @@
 										"isPrimaryFuelType": true,
 										"consumptions": [
 											{
-												"label": "Kraftstoffverbrauch innerorts",
-												"value": "8,7 l/100km"
-											},
-											{
 												"label": "Kraftstoffverbrauch außerorts",
 												"value": "8,1 l/100km"
+											},
+											{
+												"label": "Kraftstoffverbrauch innerorts",
+												"value": "8,7 l/100km"
 											},
 											{
 												"label": "Kraftstoffverbrauch kombiniert",
@@ -4028,20 +4028,20 @@
 												"value": "11,1 - 10,5 l/100km"
 											},
 											{
-												"label": "Kraftstoffverbrauch kombiniert",
-												"value": "11,8 - 11,3 l/100km"
-											},
-											{
-												"label": "Kraftstoffverbrauch schnell",
-												"value": "10,5 - 9,9 l/100km"
+												"label": "Kraftstoffverbrauch sehr schnell",
+												"value": "12,9 - 12,4 l/100km"
 											},
 											{
 												"label": "Kraftstoffverbrauch langsam",
 												"value": "13,1 - 12,4 l/100km"
 											},
 											{
-												"label": "Kraftstoffverbrauch sehr schnell",
-												"value": "12,9 - 12,4 l/100km"
+												"label": "Kraftstoffverbrauch kombiniert",
+												"value": "11,8 - 11,3 l/100km"
+											},
+											{
+												"label": "Kraftstoffverbrauch schnell",
+												"value": "10,5 - 9,9 l/100km"
 											}
 										],
 										"emissions": [
@@ -4097,11 +4097,11 @@
 						"imageUrl": "https://media.volkswagen.com/vwn-SCC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZCUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DKPPP7YGxpvSuGEU7eeYx80zKK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsro4iRRffgi7tn11bX6nn3PR90xLLyH0kY9AhT88WTU9j%25I4bBMdPAA2Zjeqz5qMZKMI7UbSK8C7g21bOzlDAONN4jOHrr9UOXs3T3MttOWEP55PAtI99d4i6ZZsoX9iiIE7RffQDM622U%25u6nn4nyNuugBBI00zHCoFF3ZifxxcMmDBBhfJoTTkyK%25WWHnM3GGKYqQJJMOBhllvhFkEELxeKVVbI2yXXYIDmttONtp55Pfsw99dhpaZZsao1iiI1iOffQVzr22UcDdnn4awNuugafp00z07QFF3FWSxxc7P4BBhm2oTTkbRzWWHYh3GGK49aJJMFKbllv7eDEELrMOVVbhBzXXYeEkttOGEp55PYw799deFQZZsaoIiiI%25dOffQ00r22Uhmvnn415suug8uI00zZL3FF3MjUxxcyl4BBhpHATTkAV1WWH7hvGGKwCbJJMoA1llvtMkEEL8xtVVbTEyXXYTYtttOnZs55PJSd99dg8aZZsGZ4iiIv%25RffQfKr22Utidnn4gzNuug5m800zjADFF3iHRxxcvx4BBhkpKTTkQGSWWHrsgGGKOvcJJMtZ1llvrt8EELdtTVVbYzPXXYelOttOoaP55P44I99dnTvZZso8CiiIz7GffQXXg22U2gYnn4xrsuuguhq00z0fwFF3YFexxcxPeBBh2JoTTknRfWWHsLDGGK46jJJMRI%25llvPU8EELd6aVVbS6KXXY69mttO3ov55PGVa99depbZZsofYiiI39RffQ05r22UafNnn4551uugL2I00zPnXFF3M3SxxcGR4",
 						"price1": {
 							"value": 57102.15,
-							"displayValue": "Ab 57.102,15 € inkl. MwSt"
+							"displayValue": "Ab 57.102,15 € inkl. MwSt"
 						},
 						"price2": {
 							"value": 47985,
-							"displayValue": "Ab 47.985,00 € exkl. MwSt"
+							"displayValue": "Ab 47.985,00 € exkl. MwSt"
 						},
 						"carlineName": "Der Grand California",
 						"slogan": "Grand Momente",
@@ -4132,16 +4132,16 @@
 										"isPrimaryFuelType": true,
 										"consumptions": [
 											{
-												"label": "Kraftstoffverbrauch außerorts",
-												"value": "9,0 - 8,1 l/100km"
+												"label": "Kraftstoffverbrauch kombiniert",
+												"value": "9,4 - 8,3 l/100km"
 											},
 											{
 												"label": "Kraftstoffverbrauch innerorts",
 												"value": "10,2 - 8,7 l/100km"
 											},
 											{
-												"label": "Kraftstoffverbrauch kombiniert",
-												"value": "9,4 - 8,3 l/100km"
+												"label": "Kraftstoffverbrauch außerorts",
+												"value": "9,0 - 8,1 l/100km"
 											}
 										],
 										"emissions": [
@@ -4165,20 +4165,20 @@
 										"isPrimaryFuelType": true,
 										"consumptions": [
 											{
-												"label": "Kraftstoffverbrauch schnell",
-												"value": "11,2 - 10,0 l/100km"
-											},
-											{
-												"label": "Kraftstoffverbrauch kombiniert",
-												"value": "12,8 - 11,3 l/100km"
+												"label": "Kraftstoffverbrauch sehr schnell",
+												"value": "13,7 - 12,3 l/100km"
 											},
 											{
 												"label": "Kraftstoffverbrauch langsam",
 												"value": "14,5 - 12,7 l/100km"
 											},
 											{
-												"label": "Kraftstoffverbrauch sehr schnell",
-												"value": "13,7 - 12,3 l/100km"
+												"label": "Kraftstoffverbrauch kombiniert",
+												"value": "12,8 - 11,3 l/100km"
+											},
+											{
+												"label": "Kraftstoffverbrauch schnell",
+												"value": "11,2 - 10,0 l/100km"
 											},
 											{
 												"label": "Kraftstoffverbrauch mittel",
@@ -4275,6 +4275,7 @@
 		"carlineLevelHeadline": "Alle Modelle",
 		"salesgroupLevelHeadlineTemplate": "%modelName% Varianten",
 		"trimLevelHeadlineTemplate": "%modelName% Austattungslinien",
+		"trimSelectionTabBarAriaLabel": "Select equipment line",
 		"highlightFeaturesHeadlineTemplate": "Ausstattungsfeatures des %trimName% (Auswahl)",
 		"efficiency": {
 			"consumptionEmissionDisclaimers": {
@@ -4286,12 +4287,15 @@
 				"WLTP": "Ab dem 1. September 2017 werden bestimmte Neuwagen nach dem weltweit harmonisierten Prüfverfahren für Personenwagen und leichte Nutzfahrzeuge (World Harmonised Light Vehicle Test Procedure, WLTP), einem neuen, realistischeren Prüfverfahren zur Messung des Kraftstoffverbrauchs und der CO₂-Emissionen, typgenehmigt. Ab dem 1. September 2018 wird das WLTP den neuen europäischen Fahrzyklus (NEFZ), das derzeitige Prüfverfahren, ersetzen. Wegen der realistischeren Prüfbedingungen sind die nach dem WLTP gemessenen Kraftstoffverbrauchs- und CO₂-Emissionswerte in vielen Fällen höher als die nach dem NEFZ gemessenen. Die hier gemachten Angaben beziehen sich jeweils auf die Typgenehmigung des gewählten Modells unter Berücksichtigung der von Ihnen im Zuge der Konfiguration ggfs. gewählten Sonderausstattung."
 			},
 			"showAllValuesButtonLabel": "Alle Werte anzeigen",
+			"showAllValuesButtonAriaLabel": "Show all values button",
+			"combinedEfficienciesAriaLabel": "Combined efficiencies",
 			"layerHeadline": "Verbrauchs- und Emissionswerte",
 			"layerSubHeadlines": {
 				"NEDC": "Nach NEFZ Standard",
 				"WLTP": "Nach WLTP Standard"
 			},
-			"wltpInfoLinkLabel": "Mehr über WLTP"
+			"wltpInfoLinkLabel": "Mehr über WLTP",
+			"layerCloseButtonAriaLabel": "Layer close button"
 		},
 		"filters": {
 			"bodyType": {
@@ -4313,6 +4317,11 @@
 		"pcs": {
 			"priceLoading": "Loading price",
 			"priceUnavailable": "Price unavailable"
+		},
+		"marketingCode": {
+			"ctaLabel": "Load configuration",
+			"layerCloseButtonAriaLabel": "Layer close button",
+			"layerHeadline": "Load your configuration"
 		}
 	},
 	"acsConfig": {
@@ -4336,7 +4345,8 @@
 				}
 			}
 		},
-		"pcsEnabled": false
+		"pcsEnabled": false,
+		"showMarketingCodeCta": false
 	},
 	"bffLoggerCalls": [
 		{
@@ -4367,6 +4377,114 @@
 			"level": "warn",
 			"args": [
 				"Hex color for exterior color code \"9198\" of model \"70166\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"B2A1\" of model \"30100_30001\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"G8A1\" of model \"30100_30002\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"H7A1\" of model \"30203_30060\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"C1C1\" of model \"30300_30230\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"5ZPA\" of model \"30370_30280\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"1PA1\" of model \"31605_30670\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"5Q5Q\" of model \"31700_30720\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"B4A1\" of model \"70121_72960\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"B4A1\" of model \"70123_72970\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"9909\" of model \"70165_76540\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"J2A1\" of model \"70165_76880\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"J2A1\" of model \"70165_76950\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"J2A1\" of model \"70165_76960\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"J2A1\" of model \"70165_76970\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"9198\" of model \"70166_78060\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"1BA1\" of model \"70167_76900\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"9393\" of model \"70167_79070\" not found in hex table."
+			]
+		},
+		{
+			"level": "warn",
+			"args": [
+				"Hex color for exterior color code \"9909\" of model \"70167_79530\" not found in hex table."
 			]
 		},
 		{
@@ -4475,12 +4593,6 @@
 			"level": "warn",
 			"args": [
 				"Hex color for exterior color code \"C1C1\" of model \"30300_30230_Style\" not found in hex table."
-			]
-		},
-		{
-			"level": "warn",
-			"args": [
-				"Hex color for exterior color code \"6TA1\" of model \"30365_30250_Style\" not found in hex table."
 			]
 		},
 		{
