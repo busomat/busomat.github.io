@@ -115,6 +115,8 @@ function extractKeysRecursive(children, keys) {
 	children.forEach(c => {
 		if (c.data && c.data.key && c.data.key.carlineId && c.data.key.salesgroupId) {
 			if (c.data.imageUrl) {
+				console.log(c.data.modelName);
+				console.log(c.data.imageUrl);
 				c.data.key.imageUrl = c.data.imageUrl;
 			}
 			keys.push(c.data.key);
@@ -130,14 +132,14 @@ function fetchModels(key, version) {
 	.then((response) => {
 	    return response.json();
 	}).then((data) => {
-		extractModels(data, version);
+		extractModels(data, key, version);
 	});
 }
 
-function extractModels(data, version) {
+function extractModels(data, key, version) {
 	const models = data.models;
 	const m0 = models[0];
-	const model = {carline: m0.carlineRef, salesgroup: m0.salesgroupRef, key: m0.code, carlineName: m0.carlineName, name: m0.salesgroupName, year: m0.year, version: m0.version, image: m0.mediaAssets[0].asset };
+	const model = {carline: m0.carlineRef, salesgroup: m0.salesgroupRef, key: m0.code, carlineName: m0.carlineName, name: m0.salesgroupName, year: m0.year, version: m0.version, image: key.imageUrl };
 	if ($('#carline' + model.carline).length == 0) {
 		$('#models').append('<li id="carline' + model.carline + '"><h2><a href="#carline' + model.carline + '">' + model.carlineName + '</a></h2><div class="salesgroups"></div></li>');
 		$('#carline' + model.carline + ' a').click(function () {
@@ -149,7 +151,7 @@ function extractModels(data, version) {
 	$('#carline' + model.carline + ' .salesgroups').append(`
 		<button id="btnModel` + model.carline + model.salesgroup + `" data-carline="` + model.carline + `" data-salesgroup="` + model.salesgroup + `" data-year="` + model.year + `" data-key="` + model.key + `" data-version="` + model.version + `" aria-pressed="false">
 			` + model.name + `<br>
-			<img src="` + model.image + `">
+			<img src="` + model.image + `&width=640">
 		</button>`
 	);
 	$('#btnModel' + model.carline + model.salesgroup).click(btnModelClick);
@@ -180,7 +182,7 @@ function fetchColors(model, version) {
 	}).then((response) => {
 	    return response.json();
 	}).then((data) => {
-		console.log(model.name);
+		//console.log(model.name);
 		extractColors(data);
 	});
 }
