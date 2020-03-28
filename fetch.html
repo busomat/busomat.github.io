@@ -85,14 +85,10 @@ function fetchDataVersion() {
 	.then((response) => {
 	    return response.json();
 	}).then((data) => {
-		const version = extractDataVersion(data);
+		const version = data.tenantDataVersion;
 		$('#version').val(version);
 		fetchKeys(version);
 	});
-}
-
-function extractDataVersion(data) {
-	return data.tenantDataVersion;
 }
 
 function fetchKeys(version) {
@@ -106,10 +102,8 @@ function fetchKeys(version) {
 
 function extractKeys(data, version) {
 	const models = data.models;
-	//const keys = {}; 
 	const keys = [];
 	extractKeysRecursive(models, keys);
-	//Object.values(keys).forEach(k => {
 	keys.forEach(k => {
 		if ((typeof k) == 'object') {
 			fetchModels(k, version);
@@ -120,13 +114,10 @@ function extractKeys(data, version) {
 function extractKeysRecursive(children, keys) {
 	children.forEach(c => {
 		if (c.data && c.data.key && c.data.key.carlineId && c.data.key.salesgroupId) {
-			//if (!keys[c.data.key.carlineId]) {
-				if (c.data.imageUrl) {
-					c.data.key.imageUrl = c.data.imageUrl;
-				}
-				//keys[c.data.key.carlineId] = c.data.key;
-				keys.push(c.data.key);
-			//}
+			if (c.data.imageUrl) {
+				c.data.key.imageUrl = c.data.imageUrl;
+			}
+			keys.push(c.data.key);
 		}
 		if (c.children) {
 			Array.prototype.push.apply(keys, extractKeysRecursive(c.children, keys));
