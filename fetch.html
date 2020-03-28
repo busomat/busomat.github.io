@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Busomat</title>
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+	margin-top: 2rem;
+	clear: both;
+}
+h2 {
+	font-size: 1rem;
+	clear: both;
+}
+a {
+	color: darkgrey;
+}
+a:hover {
+	color: black;
+	text-shadow: 1px 1px 1px grey; 
+}
+#models button {
+	font-size: 0.6rem;
+	width: 12rem;
+	height: 7rem;
+	margin: 0.25rem;
+	display: inline-block;
+	float: left;
+	background-color: white;
+	box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.2);
+}
+#models button img {
+	width: 10rem;
+	margin: 0.4rem;
+}
+#colors button {
+	font-size: 0.6rem;
+	width: 9rem;
+	height: 9rem;
+	margin: 0.25rem;
+	display: inline-block;
+	float: left;
+	background-color: white;
+	box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.2);
+}
+#colors button img {
+	width: 5.5rem;
+	margin: 0.4rem;
+}
+#models button[aria-pressed="true"], #colors button[aria-pressed="true"] {
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	border: 2px solid black;
+}
+.lnkImage img {
+	width: 40rem;
+	border: 1px solid gray;
+	margin: 1rem;
+}
+</style>
+</head>
+<body>
+
+<h1>Modell</h1>
+<ul id="models"></ul>
+
+<h1>Farben</h1>
+<div id="colors"></div>
+
+<h1>Bilder</h1>
+<div id="images"></div>
+
+<input id="version" type="hidden" value="">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+<script type="text/javascript">
+
+fetchDataVersion();
+function fetchDataVersion() {
+	fetch('https://cdn.venividivicci.de/vis/tenantDataVersion?tenant=ihdcc-vwn-de-de')
+	.then((response) => {
+	    return response.json();
+	}).then((data) => {
+		const version = extractDataVersion(data);
+		$('#version').val(version);
+		fetchKeys(version);
+	});
+}
+
+function extractDataVersion(data) {
+	return data.tenantDataVersion;
+}
+
+function fetchKeys(version) {
+	fetch("model-overview.json")
+	.then((response) => {
+	    return response.json();
+	}).then((data) => {
+		extractKeys(data, version);
+	});
+}
+
+function extractKeys(data, version) {
+	const models = data.models;
+	//const keys = {}; 
+	const keys = [];
+	extractKeysRecursive(models, keys);
+	//Object.values(keys).forEach(k => {
+	keys.forEach(k => {
+		if ((typeof k) == 'object') {
+			fetchModels(k, version);
+		}
+	});
+}
+
+function extractKeysRecursive(children, keys) {
+	children.forEach(c => {
+		if (c.data && c.data.key && c.data.key.carlineId && c.data.key.salesgroupId) {
+			//if (!keys[c.data.key.carlineId]) {
+				if (c.data.imageUrl) {
+					c.data.key.imageUrl = c.data.imageUrl;
+				}
+				//keys[c.data.key.carlineId] = c.data.key;
+				keys.push(c.data.key);
+			//}
+		}
+		if (c.children) {
+			Array.prototype.push.apply(keys, extractKeysRecursive(c.children, keys));
+		}
+	});
+}
+
+function fetchModels(key, version) {
+	fetch('https://cdn.venividivicci.de/vis/catalogue/models?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + version + '&fetchMedia=true&carlineKey=' + key.carlineId + '&salesgroupKey=' + key.salesgroupId)
+	.then((response) => {
+	    return response.json();
+	}).then((data) => {
+		extractModels(data, version);
+	});
+}
+
+function extractModels(data, version) {
+	const models = data.models;
+	const m0 = models[0];
+	const model = {carline: m0.carlineRef, salesgroup: m0.salesgroupRef, key: m0.code, carlineName: m0.carlineName, name: m0.salesgroupName, year: m0.year, version: m0.version, image: m0.mediaAssets[0].asset };
+	if ($('#carline' + model.carline).length == 0) {
+		$('#models').append('<li id="carline' + model.carline + '"><h2><a href="#carline' + model.carline + '">' + model.carlineName + '</a></h2><div class="salesgroups"></div></li>');
+		$('#carline' + model.carline + ' a').click(function () {
+			$(this).parent().parent().find('.salesgroups').toggle();
+			return false;
+		});
+		$('#carline' + model.carline + ' .salesgroups').hide()
+	}
+	$('#carline' + model.carline + ' .salesgroups').append(`
+		<button id="btnModel` + model.carline + model.salesgroup + `" data-carline="` + model.carline + `" data-salesgroup="` + model.salesgroup + `" data-year="` + model.year + `" data-key="` + model.key + `" data-version="` + model.version + `" aria-pressed="false">
+			` + model.name + `<br>
+			<img src="` + model.image + `">
+		</button>`
+	);
+	$('#btnModel' + model.carline + model.salesgroup).click(btnModelClick);
+	if (model.carline == '70165' && model.salesgroup == '76540') {
+		$('#btnModel' + model.carline + model.salesgroup).click();
+	}
+	fetchColors(model, version);
+}
+
+function btnModelClick() {
+	const currentState = $(this).attr('aria-pressed') === 'true';
+	if (!currentState) {
+		$(this).siblings().attr('aria-pressed', 'false');
+	}
+	$('#colors button').attr('aria-pressed', 'false');
+	$(this).attr('aria-pressed', !currentState);
+	$(this).blur();
+}
+
+function fetchColors(model, version) {
+	fetch('https://cdn.venividivicci.de/vcs/featuresAndColorsForConfiguration?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + version, {
+		'headers': {
+	        'Accept': 'application/json',
+	        'Content-Type': 'application/json'
+	    },
+		'body': '{"vehicleConfiguration":{"carlineKey":"' + model.carline + '","salesgroupKey":"' + model.salesgroup + '","modelKey":"' + model.key + '","modelYear":"' + model.year + '","modelVersion":"' + model.version + '"}}',
+	    'method': 'POST'
+	}).then((response) => {
+	    return response.json();
+	}).then((data) => {
+		console.log(model.name);
+		extractColors(data);
+	});
+}
+
+function extractColors(data) {
+	const exteriors = data.vehicleCatalogue.exteriors;
+	exteriors.forEach(e => {
+		const id = 'btnColor' + e.code.replace(' ', '');
+		if ($('#' + id).length == 0) {
+			$('#colors').append(`
+				<button id="` + id + `" data-code="` + e.code + `" class="btnColor">
+					` + e.name + `<br>
+					<img src="` + e.mediaAssets[0].asset + `">
+				</button>`
+			);
+			$('#' + id).click(btnColorClick);
+		}
+	});
+}
+
+function btnColorClick() {
+	const code = $(this).attr('data-code');
+	$(this).siblings().attr('aria-pressed', 'false');
+	$(this).attr('aria-pressed', 'true');
+	fetchImages(code);
+	$(this).blur();
+	$(document).scrollTop( $("#images").offset().top ); 
+}
+
+function fetchImages(code) {
+	const modelBtn = $('#models button[aria-pressed="true"]');
+	const carline = modelBtn.attr('data-carline');
+	const salesgroup = modelBtn.attr('data-salesgroup');
+	const year = modelBtn.attr('data-year');
+	const key = modelBtn.attr('data-key');
+	const version = modelBtn.attr('data-version');
+	const dataVersion = $('#version').val();
+	
+	fetch('https://cdn.venividivicci.de/vcs/mediaAssets?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + dataVersion + '&mpsGroups=configuration_explore', {
+	    'headers': {
+	        'Accept': 'application/json',
+	        'Content-Type': 'application/json'
+	    },
+	    'body': '{"vehicleConfiguration":{"carlineKey":"' + carline + '","salesgroupKey":"' + salesgroup + '","modelKey":"' + key + '","modelYear":"' + year + '","modelVersion":"' + version + '","exterior":{"code":"' + code + '"}}}',
+	    'method': 'POST'
+	}).then((response) => {
+	    return response.json();
+    }).then((data) => {
+    	extractImages(data);
+  	});
+}
+
+function extractImages(data) {
+	const mediaAssets = data.vehicleConfiguration.mediaAssets;
+	$('#images').empty();
+	mediaAssets.slice(0, 6).forEach(a => {
+		$('#images').append('<a href="' + a.asset + '" class="lnkImage"><img src="' + a.asset + '"></a>');
+	});
+}
+
+</script>
+</body>
+</html>
