@@ -115,8 +115,6 @@ function extractKeysRecursive(children, keys) {
 	children.forEach(c => {
 		if (c.data && c.data.key && c.data.key.carlineId && c.data.key.salesgroupId) {
 			if (c.data.imageUrl) {
-				console.log(c.data.modelName);
-				console.log(c.data.imageUrl);
 				c.data.key.imageUrl = c.data.imageUrl;
 			}
 			keys.push(c.data.key);
@@ -189,7 +187,9 @@ function fetchColors(model, version) {
 
 function extractColors(data) {
 	const exteriors = data.vehicleCatalogue.exteriors;
+	console.log(data.vehicleConfiguration.salesgroupName);
 	exteriors.forEach(e => {
+		console.log('    ' + e.name);
 		const id = 'btnColor' + e.code.replace(' ', '');
 		if ($('#' + id).length == 0) {
 			$('#colors').append(`
