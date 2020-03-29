@@ -55,11 +55,27 @@ a:hover {
 	height: 7rem;
 	padding: 0.5rem;
 }
-.lnkImage img {
-	width: 40rem;
+#images div {
+	width: 640px;
+	height: 360px;
 	border: 1px solid gray;
 	margin: 1rem;
+	float: left;
+	overflow: hidden;
 }
+.lnkImage {
+	cursor: zoom-in;
+}
+.lnkImage img {
+	width: 640px;
+	border: 1px solid gray;
+}
+#image0 { background-image: url('bg0.png'); }
+#image1 { background-image: url('bg1.png'); }
+#image2 { background-image: url('bg2.png'); }
+#image3 { background-image: url('bg3.png'); }
+#image4 { background-image: url('bg4.png'); }
+#image5 { background-image: url('bg5.png'); }
 </style>
 </head>
 <body>
@@ -78,8 +94,14 @@ a:hover {
 
 <button id="generate" role="button" disabled="disabled">Bilder anzeigen</button>
 
-<h1>Bilder</h1>
-<div id="images"></div>
+<div id="images">
+	<div id="image0"></div>
+	<div id="image1"></div>
+	<div id="image2"></div>
+	<div id="image3"></div>
+	<div id="image4"></div>
+	<div id="image5"></div>
+</div>
 
 <input id="version" type="hidden" value="">
 
@@ -236,10 +258,11 @@ function fetchImages(model, color) {
 
 function extractImages(data) {
 	const mediaAssets = data.vehicleConfiguration.mediaAssets;
-	$('#images').empty();
-	mediaAssets.slice(0, 6).forEach(a => {
-		$('#images').append('<a href="' + a.asset + '" class="lnkImage"><img src="' + a.asset + '"></a>');
-	});
+	var url;
+	for (i = 0; i <= 6; ++i) {
+		url = mediaAssets[i].asset;
+		$('#image' + i).html('<a href="' + url + '" class="lnkImage"><img src="' + url + '&width=640"></a>');
+	}
 }
 </script>
 </body>
