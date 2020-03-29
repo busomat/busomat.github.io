@@ -25,6 +25,11 @@ a:hover {
 	color: black;
 	text-shadow: 1px 1px 1px grey; 
 }
+#modelsWrapper, #colorsWrapper {
+	margin: 1rem;
+	float: left;
+}
+
 #models, #colors {
 	width: 40rem;
 }
@@ -38,14 +43,12 @@ a:hover {
 	padding: 0 1rem;	
 }
 #generate {
-	font-size: 1.5rem;
-	width: 16rem;
-	height: 4rem;
-	margin: 2rem 0;
+	font-size: 1rem;
+	width: 10rem;
+	height: 2.5rem;
+	margin: 1rem;
 	display: block;
-	/* background-color: white;
-	color: black;
-	box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.2); */
+	clear: left;
 }
 .lnkImage img {
 	width: 40rem;
@@ -67,17 +70,15 @@ a:hover {
 </head>
 <body>
 
-<h1>Modell</h1>
 <div id="modelsWrapper">
 	<select id="models">
-		<option></option>
+		<option value="" disabled="disabled" selected="selected">Modell</option>
 	</select>
 </div>
 
-<h1>Farben</h1>
 <div id="colorsWrapper">
 	<select id="colors">
-		<option></option>
+		<option value="" disabled="disabled" selected="selected">Farbe</option>
 	</select>
 </div>
 
@@ -204,10 +205,12 @@ function colorTemplate(state) {
 		if (!state.id) {
 		    return state.text;
 		}
-		var $state = $(
-			'<span><img src="' + state.element.dataset.image + '" class="colorImg" /> ' + state.text + '</span>'
-		);
-		return $state;
+		var string = '<span>';
+		if (state.element.dataset.image) {
+			string += '<img src="' + state.element.dataset.image + '" class="colorImg" />';  
+		}
+		string += state.text + '</span>';
+		return $(string);
 	}
 $('#colors').select2({
   	templateResult: colorTemplate,
