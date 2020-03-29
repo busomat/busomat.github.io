@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Busomat</title>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+	margin-top: 2rem;
+	clear: both;
+}
+h2 {
+	font-size: 1rem;
+	clear: both;
+}
+a {
+	color: darkgrey;
+}
+a:hover {
+	color: black;
+	text-shadow: 1px 1px 1px grey; 
+}
+#models, #colors {
+	width: 40rem;
+}
+.salesgroupImg {
+	width: 10rem;
+}
+.colorImg {
+	width: 6rem;
+}
+.lnkImage img {
+	width: 40rem;
+	border: 1px solid gray;
+	margin: 1rem;
+}
+.select2-container--default .select2-results > .select2-results__options {
+	max-height: 40rem;
+}
+</style>
+</head>
+<body>
+
+<h1>Modell</h1>
+<select id="models"></select>
+
+<h1>Farben</h1>
+<select id="colors"></select>
+
+<h1>Bilder</h1>
+<div id="images"></div>
+
+<input id="version" type="hidden" value="">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+<script type="text/javascript">
+
+fetchDataVersion();
+function fetchDataVersion() {
+	fetch('https://cdn.venividivicci.de/vis/tenantDataVersion?tenant=ihdcc-vwn-de-de')
+	.then((response) => {
+	    return response.json();
+	}).then((data) => {
+		const version = data.tenantDataVersion;
+		$('#version').val(version);
+		fetchKeys(version);
+	});
+}
+
+function fetchKeys(version) {
+	fetch("model-overview.json")
+	.then((response) => {
+	    return response.json();
+	}).then((data) => {
+		extractKeys(data, version);
+	});
+}
+
+function extractKeys(data, version) {
+	const models = data.models;
+	const keys = [];
+	extractKeysRecursive(models, keys);
+	keys.forEach(k => {
+		if ((typeof k) == 'object') {
+			fetchModels(k, version);
+		}
+	});
+}
+
+function extractKeysRecursive(children, keys) {
+	children.forEach(c => {
+		if (c.data && c.data.key && c.data.key.carlineId && c.data.key.salesgroupId) {
+			if (c.data.imageUrl) {
+				c.data.key.imageUrl = c.data.imageUrl;
+			}
+			keys.push(c.data.key);
+		}
+		if (c.children) {
+			Array.prototype.push.apply(keys, extractKeysRecursive(c.children, keys));
+		}
+	});
+}
+
+function fetchModels(key, version) {
+	fetch('https://cdn.venividivicci.de/vis/catalogue/models?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + version + '&fetchMedia=true&carlineKey=' + key.carlineId + '&salesgroupKey=' + key.salesgroupId)
+	.then((response) => {
+	    return response.json();
+	}).then((data) => {
+		extractModels(data, key, version);
+	});
+}
+
+function extractModels(data, key, version) {
+	const models = data.models;
+	const m0 = models[0];
+	const model = {carline: m0.carlineRef, salesgroup: m0.salesgroupRef, key: m0.code, carlineName: m0.carlineName, name: m0.salesgroupName, year: m0.year, version: m0.version, image: key.imageUrl };
+	if ($('#carline' + model.carline).length == 0) {
+		$('#models').append('<optgroup id="carline' + model.carline + '" label="' + model.carlineName + '"></optgroup>');
+	}
+	$('#carline' + model.carline).append('<option data-carline="' + model.carline + '" data-salesgroup="' + model.salesgroup + '" data-year="' + model.year + '" data-key="' + model.key + '" data-version="' + model.version + '" data-image="' + model.image + '"  value="' + model.name + '">' + model.name + '</option>');
+	fetchColors(model, version);
+}
+
+function fetchColors(model, version) {
+	fetch('https://cdn.venividivicci.de/vcs/featuresAndColorsForConfiguration?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + version, {
+		'headers': {
+	        'Accept': 'application/json',
+	        'Content-Type': 'application/json'
+	    },
+		'body': '{"vehicleConfiguration":{"carlineKey":"' + model.carline + '","salesgroupKey":"' + model.salesgroup + '","modelKey":"' + model.key + '","modelYear":"' + model.year + '","modelVersion":"' + model.version + '"}}',
+	    'method': 'POST'
+	}).then((response) => {
+	    return response.json();
+	}).then((data) => {
+		//console.log(model.name);
+		extractColors(data);
+	});
+}
+
+function extractColors(data) {
+	const exteriors = data.vehicleCatalogue.exteriors;
+	console.log(data.vehicleConfiguration.salesgroupName);
+	exteriors.forEach(e => {
+		console.log('    ' + e.name);
+		const id = 'btnColor' + e.code.replace(' ', '');
+		if ($('#' + id).length == 0) {
+			$('#colors').append('<option id="' + id + '" data-image="' + e.mediaAssets[0].asset + '"  value="' + e.code + '">' + e.name + '</option>');
+		}
+	});
+}
+
+function fetchImages(code) {
+	const modelBtn = $('#models button[aria-pressed="true"]');
+	const carline = modelBtn.attr('data-carline');
+	const salesgroup = modelBtn.attr('data-salesgroup');
+	const year = modelBtn.attr('data-year');
+	const key = modelBtn.attr('data-key');
+	const version = modelBtn.attr('data-version');
+	const dataVersion = $('#version').val();
+	
+	fetch('https://cdn.venividivicci.de/vcs/mediaAssets?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + dataVersion + '&mpsGroups=configuration_explore', {
+	    'headers': {
+	        'Accept': 'application/json',
+	        'Content-Type': 'application/json'
+	    },
+	    'body': '{"vehicleConfiguration":{"carlineKey":"' + carline + '","salesgroupKey":"' + salesgroup + '","modelKey":"' + key + '","modelYear":"' + year + '","modelVersion":"' + version + '","exterior":{"code":"' + code + '"}}}',
+	    'method': 'POST'
+	}).then((response) => {
+	    return response.json();
+    }).then((data) => {
+    	extractImages(data);
+  	});
+}
+
+function extractImages(data) {
+	const mediaAssets = data.vehicleConfiguration.mediaAssets;
+	$('#images').empty();
+	mediaAssets.slice(0, 6).forEach(a => {
+		$('#images').append('<a href="' + a.asset + '" class="lnkImage"><img src="' + a.asset + '"></a>');
+	});
+}
+
+function modelTemplate(state) {
+	if (!state.id) {
+	    return state.text;
+	}
+	var $state = $(
+		'<span><img src="' + state.element.dataset.image + '&width=320" class="salesgroupImg" /> ' + state.text + '</span>'
+	);
+	return $state;
+}
+
+function colorTemplate(state) {
+	if (!state.id) {
+	    return state.text;
+	}
+	var $state = $(
+		'<span><img src="' + state.element.dataset.image + '" class="colorImg" /> ' + state.text + '</span>'
+	);
+	return $state;
+}
+
+function formatState (state) {
+	  var baseUrl = "/user/pages/images/flags";
+	};
+
+$('#models').select2({
+  templateResult: modelTemplate
+});
+
+$('#colors').select2({
+  templateResult: colorTemplate
+});
+</script>
+</body>
+</html>
