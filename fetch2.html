@@ -34,7 +34,8 @@ a:hover {
 }
 .colorImg {
 	width: 6rem;
-	vertical-align: middle;	
+	vertical-align: middle;
+	padding: 0 1rem;	
 }
 #generate {
 	font-size: 1.5rem;
@@ -54,19 +55,31 @@ a:hover {
 .select2-container--default .select2-results > .select2-results__options {
 	max-height: 40rem;
 }
+#modelsWrapper .select2-container .select2-selection--single {
+	height: 5rem;
+	padding: 0.5rem;
+}
+#colorsWrapper .select2-container .select2-selection--single {
+	height: 7rem;
+	padding: 0.5rem;
+}
 </style>
 </head>
 <body>
 
 <h1>Modell</h1>
-<select id="models">
-	<option></option>
-</select>
+<div id="modelsWrapper">
+	<select id="models">
+		<option></option>
+	</select>
+</div>
 
 <h1>Farben</h1>
-<select id="colors">
-	<option></option>
-</select>
+<div id="colorsWrapper">
+	<select id="colors">
+		<option></option>
+	</select>
+</div>
 
 <button id="generate" role="button" disabled="disabled">Bilder anzeigen</button>
 
@@ -183,7 +196,8 @@ function modelTemplate(state) {
 } 
 
 $('#models').select2({
-  	templateResult: modelTemplate 
+  	templateResult: modelTemplate,
+  	templateSelection: modelTemplate 
 });
 
 function colorTemplate(state) {
@@ -196,7 +210,8 @@ function colorTemplate(state) {
 		return $state;
 	}
 $('#colors').select2({
-  	templateResult: colorTemplate
+  	templateResult: colorTemplate,
+  	templateSelection: colorTemplate
 });
 
 $('select').on('select2:select', function (e) {
