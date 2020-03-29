@@ -29,16 +29,14 @@ a:hover {
 	margin: 1rem;
 	float: left;
 }
-
-#models, #colors {
-	width: 40rem;
+#models {
+	width: 45rem;
 }
-.salesgroupImg {
-	width: 10rem;
-	vertical-align: middle;
+#colors {
+	width: 35rem;
 }
-.colorImg {
-	width: 6rem;
+.stateImg {
+	height: 6rem;
 	vertical-align: middle;
 	padding: 0 1rem;	
 }
@@ -50,21 +48,17 @@ a:hover {
 	display: block;
 	clear: left;
 }
+.select2-container--default .select2-results > .select2-results__options {
+	max-height: 40rem;
+}
+.select2-container .select2-selection--single {
+	height: 7rem;
+	padding: 0.5rem;
+}
 .lnkImage img {
 	width: 40rem;
 	border: 1px solid gray;
 	margin: 1rem;
-}
-.select2-container--default .select2-results > .select2-results__options {
-	max-height: 40rem;
-}
-#modelsWrapper .select2-container .select2-selection--single {
-	height: 5rem;
-	padding: 0.5rem;
-}
-#colorsWrapper .select2-container .select2-selection--single {
-	height: 7rem;
-	padding: 0.5rem;
 }
 </style>
 </head>
@@ -186,35 +180,19 @@ function extractColors(data) {
 	});
 }
 
-function modelTemplate(state) {
+function stateTemplate(state) {
 	if (!state.id) {
 	    return state.text;
 	}
 	var $state = $(
-		'<span><img src="' + state.element.dataset.image + '&width=320" class="salesgroupImg" /> ' + state.text + '</span>'
+		'<span><img src="' + state.element.dataset.image + '&width=320" class="stateImg" /> ' + state.text + '</span>'
 	);
 	return $state;
 } 
 
-$('#models').select2({
-  	templateResult: modelTemplate,
-  	templateSelection: modelTemplate 
-});
-
-function colorTemplate(state) {
-		if (!state.id) {
-		    return state.text;
-		}
-		var string = '<span>';
-		if (state.element.dataset.image) {
-			string += '<img src="' + state.element.dataset.image + '" class="colorImg" />';  
-		}
-		string += state.text + '</span>';
-		return $(string);
-	}
-$('#colors').select2({
-  	templateResult: colorTemplate,
-  	templateSelection: colorTemplate
+$('select').select2({
+  	templateResult: stateTemplate,
+  	templateSelection: stateTemplate 
 });
 
 $('select').on('select2:select', function (e) {
