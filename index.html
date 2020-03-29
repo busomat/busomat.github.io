@@ -9,7 +9,7 @@
 <body>
 
 <div class="selectWrapper">
-	<select id="models">
+	<select id="models" class="models">
 		<option value="" disabled="disabled" selected="selected">Modell</option>
 		<optgroup id="carline70165" label="Der California">
 			<option data-carline="70165" data-salesgroup="76540" data-year="2020" data-key="SHCWE2$GWF2WF2$GZ21Z21$GZ3EZ3E$MVBK1T9" data-version="3" data-image="https://media.volkswagen.com/vwn-SHC-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZHUllYG%25VEPg12Mn5P00hLqT9uJtIcH2H55DT5PP7YGxpvSuGEU7eeYxj45KK10SgDSC5u5zXVJJ83lXm00hBREE8G5aqSjjGCSW98MahDp1QSSnYsros%25Ggffgi7tn1bbLznn3PR90aaXWcI11TozejBWt33eSEmcUJVFAnWTddCpcIPtyPnp2nJMEFs23vMXCzFBvP4dBjuWcs3bbmEB8G5BSnjjBjtLyyTdjJmmWI1vppGDKvwwJU2b77lQRXCCEgHtRRVqqTrrXiMg66tfc8NN5DITqq9o7QAAZubgSSi06KeeftRLoo2rPo%25%25nTpqDDuE23aa0yxc11F0Ve88xI4AjjBQjuyyTolKmmWVsSppGgyxwwJsi377l7hTCCECpVRRViEGrrXS3j66t6SdNN5KBEqq9ha4AAZJCXSSiFLteefG%256oo2Bi9%25%25nN2FDDuMWdaa0ybf11FZ5y88xnNUjjBQ95yyT%251KmmWB%25ippGQqzwwJzUI77l4GICCE9cxRRVqq8rrXfKR66tcpGNN5hN6qq97x%25AAZ0kySSiH1teefMb6oo2vuQ%25%25nQV1DDuNo6aa0Yns11FbQh88xS5QjjBOdJyyTE6SmmWhzMppGRWQwwJvaR77l8wbCCEnZtRRVRi8rrX0mt66t%25AZNN5whqqq97BCAAZ0YlSSiaRreefryYoo2CY0%25%25n%25lzDDuqo%25aa0Fxg11FB6T88xbH6jjBEj9yyTWsJmmW2wlppGgi0wwJ5EB77lNSMCCEgNyRRVZNmrrXmq466tz9yNN5hAsqq9ZTfAAZv6mSSiLOpeef1R2oo2Yug%25%25nLdqDDuTg%25aa0AVL11F1BZ88xJp6jjBOFHyyTylKmmW4EMppGp8zwwJfws77l83aCCEnnVRRVznLrrXi0P66tfcFNN52Piqq9MhVAAZ0v2SSiL28eefHD4oo2JJg%25%25nLxzDDuWwOaa0yec11FOak88xeaAjjBooKyyTUwzmmWCilppGpCL" value="California 6.1 Ocean">California 6.1 Ocean</option>
@@ -248,7 +248,7 @@
 </div>
 
 <div class="selectWrapper">
-	<select id="colors">
+	<select id="colors" class="colors">
 		<option value="" disabled="disabled" selected="selected">Farbe</option>
 		<option id="btnColorF14B4B4"
 			data-image="https://media.volkswagen.com/vwn-SAA-my2020/iris?COSY-EU-100-1713VV%25lXm0kYNaNFFknAda1o5Qhr8PP7bEmEiZ%25klssRJTOmNJkJYUZAhllYG%25VEPg12Mnyq00hnqR3iYwqeWhOOnDSEW99Q7YJsYkawhN9rTwwVRkSSQNDOibUUNhb6aQ9sVdzIBbbmy2qYKinVjJ95ccoAYk30N3JAGJiI2VhGbQIuoLVtQ4Mct6dnUYD44q2trZFtyJ66tTV5NN5c6iqq9kR3AAZHWUSSikoUeefaaXoo2xdw%25%25nBLoDDuNj3aa0wwK11Fm0h88xSRPjjBwo8yyTEgWmmWV1dppGFDxwwJ5yL77lQ7bCCE8mWRRVhK5rrXkmJ66tf3ANN5x6Oqq9GScAAZAbXSSi0NGeefnqOoo2o1g%25%25nvNzDDuE1Aaa0YYN11FmQh88xTekjjBwWYyyT%25BJmmWn%25FppGgy%25wwJuXB77lT1ACCEcuYRRVywOrrXEyF66tcDwNN5KhUqq979IAAZH5ySSi0Z5eefxO5oo2v69%25%25nL%25ZDDuqlbaa0Gb611FJFL88xO7njjBdQHyyTsGDmmWhfFppGnVEwwJIUX77l6JYCCEb86RRVhlOrrXmRP66t62KNN5xn6qq9aefAAZCHXSSiL9zeefVf4oo2BJg%25%25nO4UDDurI4aa0YQf11FO%25M88xeanjjBijcyyToUwmmWsvoppGa3xwwJ5wB77l7JbCCE875RRVx65rrXk0W66teDdNN5he7qq97b4AAZhfRSSiLNzeefbP3oo2BBN%25%25njC%25DDuPFxaa0YIc11FG3t88xeetjjBjWfyyTylKmmWI1kppGp8vwwJfwU77lQ3aCCEjNYRRVxuKrrXBY966tc0YNN52xOqq9nkPAAZvkUSSiL2feefHD4oo2rd9%25%25n6SdDDuWg3aa0v0c11FO3288xPynjjBd8KyyTVTK"
@@ -424,16 +424,16 @@ $('select').select2({
   	templateSelection: stateTemplate 
 });
 
-$('select').on('select2:select', function (e) {
-	console.log($('#models').val());
-	console.log($('#colors').val());
+$('select').on('select2:select', updateButton);
+updateButton();
+function updateButton() {
 	if ($('#models').val() && $('#colors').val()) {
 		$('#generate').removeAttr('disabled');	
 	}
 	else {
 		$('#generate').attr('disabled', 'disabled');
 	}
-});
+}
 
 $('#generate').click(function () {
 	const model = $('#models').find(':selected');

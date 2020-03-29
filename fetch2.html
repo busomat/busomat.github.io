@@ -9,13 +9,13 @@
 <body>
 
 <div class="selectWrapper">
-	<select id="models">
+	<select id="models" class="models">
 		<option value="" disabled="disabled" selected="selected">Modell</option>
 	</select>
 </div>
 
 <div class="selectWrapper">
-	<select id="colors">
+	<select id="colors" class="colors">
 		<option value="" disabled="disabled" selected="selected">Farbe</option>
 	</select>
 </div>
@@ -145,16 +145,16 @@ $('select').select2({
   	templateSelection: stateTemplate 
 });
 
-$('select').on('select2:select', function (e) {
-	console.log($('#models').val());
-	console.log($('#colors').val());
+$('select').on('select2:select', updateButton);
+updateButton();
+function updateButton() {
 	if ($('#models').val() && $('#colors').val()) {
 		$('#generate').removeAttr('disabled');	
 	}
 	else {
 		$('#generate').attr('disabled', 'disabled');
 	}
-});
+}
 
 $('#generate').click(function () {
 	const model = $('#models').find(':selected');
