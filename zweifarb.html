@@ -314,12 +314,15 @@ function updateButton() {
 }
 
 $('#generate').click(function () {
+	const modelOben = $('#models-unten').find(':selected');
+	const colorOben = $('#colors-unten').val();
+	fetchImages(modelOben, colorOben, true);
 	const modelUnten = $('#models-unten').find(':selected');
 	const colorUnten = $('#colors-unten').val();
-	fetchImages(modelUnten, colorUnten);
+// 	fetchImages(modelUnten, colorUnten);
 });
 
-function fetchImages(model, color) {
+function fetchImages(model, color, bg = false) {
 	const carline = model.data('carline');
 	const salesgroup = model.data('salesgroup');
 	const year = model.data('year');
@@ -337,17 +340,24 @@ function fetchImages(model, color) {
 	}).then((response) => {
 	    return response.json();
     }).then((data) => {
-    	extractImages(data);
+    	extractImages(data, bg);
   	});
 }
 
-function extractImages(data) {
+function extractImages(data, bg = false) {
 	const mediaAssets = data.vehicleConfiguration.mediaAssets;
 	var url;
 	for (i = 0; i <= 6; ++i) {
 		if ($('#image' + i).length > 0) {
 			url = mediaAssets[i].asset;
-			$('#image' + i).html('<a href="' + url + '" class="lnkImage"><img src="' + url + '&width=640"></a>');
+			if (bg) {
+				$('#image' + i).css('background-image', url + '&width=640');
+				$('#image' + i).css('border', '3px solid red');
+				console.log($('#image' + i).css('background-image'));
+			}
+			else {
+				$('#image' + i).html('<a href="' + url + '" class="lnkImage"><img src="' + url + '&width=640"></a>');
+			}
 		}
 	}
 }
