@@ -30,9 +30,21 @@ a:hover {
 }
 .salesgroupImg {
 	width: 10rem;
+	vertical-align: middle;
 }
 .colorImg {
 	width: 6rem;
+	vertical-align: middle;	
+}
+#generate {
+	font-size: 1.5rem;
+	width: 16rem;
+	height: 4rem;
+	margin: 2rem 0;
+	display: block;
+	/* background-color: white;
+	color: black;
+	box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.2); */
 }
 .lnkImage img {
 	width: 40rem;
@@ -47,10 +59,16 @@ a:hover {
 <body>
 
 <h1>Modell</h1>
-<select id="models"></select>
+<select id="models">
+	<option></option>
+</select>
 
 <h1>Farben</h1>
-<select id="colors"></select>
+<select id="colors">
+	<option></option>
+</select>
+
+<button id="generate" role="button" disabled="disabled">Bilder anzeigen</button>
 
 <h1>Bilder</h1>
 <div id="images"></div>
@@ -138,16 +156,15 @@ function fetchColors(model, version) {
 	}).then((response) => {
 	    return response.json();
 	}).then((data) => {
-		//console.log(model.name);
 		extractColors(data);
 	});
 }
 
 function extractColors(data) {
 	const exteriors = data.vehicleCatalogue.exteriors;
-	console.log(data.vehicleConfiguration.salesgroupName);
+	//console.log(data.vehicleConfiguration.salesgroupName);
 	exteriors.forEach(e => {
-		console.log('    ' + e.name);
+		//console.log('    ' + e.name);
 		const id = 'btnColor' + e.code.replace(' ', '');
 		if ($('#' + id).length == 0) {
 			$('#colors').append('<option id="' + id + '" data-image="' + e.mediaAssets[0].asset + '"  value="' + e.code + '">' + e.name + '</option>');
@@ -155,13 +172,56 @@ function extractColors(data) {
 	});
 }
 
-function fetchImages(code) {
-	const modelBtn = $('#models button[aria-pressed="true"]');
-	const carline = modelBtn.attr('data-carline');
-	const salesgroup = modelBtn.attr('data-salesgroup');
-	const year = modelBtn.attr('data-year');
-	const key = modelBtn.attr('data-key');
-	const version = modelBtn.attr('data-version');
+function modelTemplate(state) {
+	if (!state.id) {
+	    return state.text;
+	}
+	var $state = $(
+		'<span><img src="' + state.element.dataset.image + '&width=320" class="salesgroupImg" /> ' + state.text + '</span>'
+	);
+	return $state;
+} 
+
+$('#models').select2({
+  	templateResult: modelTemplate 
+});
+
+function colorTemplate(state) {
+		if (!state.id) {
+		    return state.text;
+		}
+		var $state = $(
+			'<span><img src="' + state.element.dataset.image + '" class="colorImg" /> ' + state.text + '</span>'
+		);
+		return $state;
+	}
+$('#colors').select2({
+  	templateResult: colorTemplate
+});
+
+$('select').on('select2:select', function (e) {
+	console.log($('#models').val());
+	console.log($('#colors').val());
+	if ($('#models').val() && $('#colors').val()) {
+		$('#generate').removeAttr('disabled');	
+	}
+	else {
+		$('#generate').attr('disabled', 'disabled');
+	}
+});
+
+$('#generate').click(function () {
+	const model = $('#models').find(':selected');
+	const color = $('#colors').val();
+	fetchImages(model, color)
+});
+
+function fetchImages(model, color) {
+	const carline = model.data('carline');
+	const salesgroup = model.data('salesgroup');
+	const year = model.data('year');
+	const key = model.data('key');
+	const version = model.data('version');
 	const dataVersion = $('#version').val();
 	
 	fetch('https://cdn.venividivicci.de/vcs/mediaAssets?tenant=ihdcc-vwn-de-de&tenantDataVersion=' + dataVersion + '&mpsGroups=configuration_explore', {
@@ -169,7 +229,7 @@ function fetchImages(code) {
 	        'Accept': 'application/json',
 	        'Content-Type': 'application/json'
 	    },
-	    'body': '{"vehicleConfiguration":{"carlineKey":"' + carline + '","salesgroupKey":"' + salesgroup + '","modelKey":"' + key + '","modelYear":"' + year + '","modelVersion":"' + version + '","exterior":{"code":"' + code + '"}}}',
+	    'body': '{"vehicleConfiguration":{"carlineKey":"' + carline + '","salesgroupKey":"' + salesgroup + '","modelKey":"' + key + '","modelYear":"' + year + '","modelVersion":"' + version + '","exterior":{"code":"' + color + '"}}}',
 	    'method': 'POST'
 	}).then((response) => {
 	    return response.json();
@@ -185,38 +245,6 @@ function extractImages(data) {
 		$('#images').append('<a href="' + a.asset + '" class="lnkImage"><img src="' + a.asset + '"></a>');
 	});
 }
-
-function modelTemplate(state) {
-	if (!state.id) {
-	    return state.text;
-	}
-	var $state = $(
-		'<span><img src="' + state.element.dataset.image + '&width=320" class="salesgroupImg" /> ' + state.text + '</span>'
-	);
-	return $state;
-}
-
-function colorTemplate(state) {
-	if (!state.id) {
-	    return state.text;
-	}
-	var $state = $(
-		'<span><img src="' + state.element.dataset.image + '" class="colorImg" /> ' + state.text + '</span>'
-	);
-	return $state;
-}
-
-function formatState (state) {
-	  var baseUrl = "/user/pages/images/flags";
-	};
-
-$('#models').select2({
-  templateResult: modelTemplate
-});
-
-$('#colors').select2({
-  templateResult: colorTemplate
-});
 </script>
 </body>
 </html>
