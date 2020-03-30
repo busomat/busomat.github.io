@@ -12,6 +12,10 @@ h2 {
 	clear: both;
 	margin: 0.5rem 1rem -0.5rem 1rem;
 }
+.page {
+	float: left;
+	margin: 1rem;
+}
 a {
 	color: darkgrey;
 }
@@ -22,6 +26,9 @@ a:hover {
 .selectWrapper {
 	margin: 1rem;
 	float: left;
+}
+.clear {
+	clear: both;
 }
 .models {
 	width: 45rem;
