@@ -74,11 +74,12 @@ a:hover {
 	width: 100%;
 	height: 100%;
 	z-index: 10;
-	mask-image: url('mask0-640.png');
 }
-#image1 .oben {
-	mask-image: url('mask1-640.png');
-}
+#image0 .oben { mask-image: url('mask0-640.png'); }
+#image1 .oben { mask-image: url('mask1-640.png'); }
+#image2 .oben { mask-image: url('mask2-640.png'); }
+#image4 .oben { mask-image: url('mask4-640.png'); }
+#image5 .oben { mask-image: url('mask5-640.png'); }
 a.lnkImage {
 	cursor: zoom-in;
 }
