@@ -74,6 +74,7 @@ a:hover {
 	width: 100%;
 	height: 100%;
 	z-index: 10;
+	cursor: zoom-in;
 }
 #image0 .oben { mask-image: url('mask0-640.png'); }
 #image1 .oben { mask-image: url('mask1-640.png'); }
@@ -93,3 +94,44 @@ a.lnkImage {
 #image3 { background-image: url('bg3.png'); }
 #image4 { background-image: url('bg4.png'); }
 #image5 { background-image: url('bg5.png'); }
+
+#fullsizeWrapper {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 40;
+	background-color: white;
+	cursor: not-allowed;
+}
+#fullsizeUnten, .fullsizeOben {
+	position: absolute;
+	top: 0;
+	margin: auto;
+	width: 1920px;
+	height: 1080px; 
+}
+#fullsizeUnten {
+	z-index: 41;
+}
+#fullsizeOben0 {
+	z-index: 42;
+	mask-image: url('mask0.png');
+}
+#fullsizeOben1 {
+	z-index: 42;
+	mask-image: url('mask1.png');
+}
+#fullsizeOben2 {
+	z-index: 42;
+	mask-image: url('mask2.png');
+}
+#fullsizeOben4 {
+	z-index: 42;
+	mask-image: url('mask4.png');
+}
+#fullsizeOben5 {
+	z-index: 42;
+	mask-image: url('mask5.png');
+}
