@@ -365,7 +365,7 @@ function extractImages(data, layer) {
 	for (i = 0; i <= 6; ++i) {
 		if ($('#image' + i).length > 0) {
 			url = mediaAssets[i].asset;
-			$('#image' + i + ' .' + layer).html('<a href="' + url + '" class="lnkImage"><img src="' + url + '&width=640"></a>');
+			$('#image' + i + ' .' + layer).html('<span class="lnkImage"><img src="' + url + '&width=640"></span>');
 		}
 	}
 }

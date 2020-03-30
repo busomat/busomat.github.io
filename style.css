@@ -73,11 +73,10 @@ a:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: green;
 	mask-image: url('mask0-640.png');
 	z-index: 10;
 }
-.lnkImage {
+a.lnkImage {
 	cursor: zoom-in;
 }
 .lnkImage img {
