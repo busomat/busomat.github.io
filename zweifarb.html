@@ -261,11 +261,26 @@
 	anzeigen</button>
 
 <div id="images">
-	<div id="image0"></div>
-	<div id="image1"></div>
-	<div id="image2"></div>
-	<div id="image4"></div>
-	<div id="image5"></div>
+	<div id="image0">
+		<div class="unten"></div>
+		<div class="oben"></div>
+	</div>
+	<div id="image1">
+		<div class="unten"></div>
+		<div class="oben"></div>
+	</div>
+	<div id="image2">
+		<div class="unten"></div>
+		<div class="oben"></div>
+	</div>
+	<div id="image4">
+		<div class="unten"></div>
+		<div class="oben"></div>
+	</div>
+	<div id="image5">
+		<div class="unten"></div>
+		<div class="oben"></div>
+	</div>
 </div>
 
 <input id="version" type="hidden" value="">
@@ -314,15 +329,15 @@ function updateButton() {
 }
 
 $('#generate').click(function () {
-	const modelOben = $('#models-unten').find(':selected');
-	const colorOben = $('#colors-unten').val();
-	fetchImages(modelOben, colorOben, true);
+	const modelOben = $('#models-oben').find(':selected');
+	const colorOben = $('#colors-oben').val();
+	fetchImages(modelOben, colorOben, 'unten');
 	const modelUnten = $('#models-unten').find(':selected');
 	const colorUnten = $('#colors-unten').val();
-// 	fetchImages(modelUnten, colorUnten);
+	fetchImages(modelUnten, colorUnten, 'oben');
 });
 
-function fetchImages(model, color, bg = false) {
+function fetchImages(model, color, layer) {
 	const carline = model.data('carline');
 	const salesgroup = model.data('salesgroup');
 	const year = model.data('year');
@@ -340,24 +355,17 @@ function fetchImages(model, color, bg = false) {
 	}).then((response) => {
 	    return response.json();
     }).then((data) => {
-    	extractImages(data, bg);
+    	extractImages(data, layer);
   	});
 }
 
-function extractImages(data, bg = false) {
+function extractImages(data, layer) {
 	const mediaAssets = data.vehicleConfiguration.mediaAssets;
 	var url;
 	for (i = 0; i <= 6; ++i) {
 		if ($('#image' + i).length > 0) {
 			url = mediaAssets[i].asset;
-			if (bg) {
-				$('#image' + i).css('background-image', url + '&width=640');
-				$('#image' + i).css('border', '3px solid red');
-				console.log($('#image' + i).css('background-image'));
-			}
-			else {
-				$('#image' + i).html('<a href="' + url + '" class="lnkImage"><img src="' + url + '&width=640"></a>');
-			}
+			$('#image' + i + ' .' + layer).html('<a href="' + url + '" class="lnkImage"><img src="' + url + '&width=640"></a>');
 		}
 	}
 }
