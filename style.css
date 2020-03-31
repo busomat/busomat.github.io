@@ -83,11 +83,26 @@ a:hover {
 	z-index: 10;
 	cursor: zoom-in;
 }
-#image0 .oben { mask-image: url('mask0-640.png'); }
-#image1 .oben { mask-image: url('mask1-640.png'); }
-#image2 .oben { mask-image: url('mask2-640.png'); }
-#image4 .oben { mask-image: url('mask4-640.png'); }
-#image5 .oben { mask-image: url('mask5-640.png'); }
+#image0 .oben { 
+	mask-image: url('mask0-640.png'); 
+	-webkit-mask-image: url('mask0-640.png'); 
+}
+#image1 .oben { 
+	mask-image: url('mask1-640.png'); 
+	-webkit-mask-image: url('mask1-640.png'); 
+}
+#image2 .oben { 
+	mask-image: url('mask2-640.png'); 
+	-webkit-mask-image: url('mask2-640.png'); 
+}
+#image4 .oben { 
+	mask-image: url('mask4-640.png'); 
+	-webkit-mask-image: url('mask4-640.png'); 
+}
+#image5 .oben { 
+	mask-image: url('mask5-640.png'); 
+	-webkit-mask-image: url('mask5-640.png'); 
+}
 a.lnkImage {
 	cursor: zoom-in;
 }
@@ -125,20 +140,25 @@ a.lnkImage {
 #fullsizeOben0 {
 	z-index: 42;
 	mask-image: url('mask0.png');
+	-webkit-mask-image: url('mask0.png');
 }
 #fullsizeOben1 {
 	z-index: 42;
 	mask-image: url('mask1.png');
+	-webkit-mask-image: url('mask1.png');
 }
 #fullsizeOben2 {
 	z-index: 42;
 	mask-image: url('mask2.png');
+	-webkit-mask-image: url('mask2.png');
 }
 #fullsizeOben4 {
 	z-index: 42;
 	mask-image: url('mask4.png');
+	-webkit-mask-image: url('mask4.png');
 }
 #fullsizeOben5 {
 	z-index: 42;
 	mask-image: url('mask5.png');
+	-webkit-mask-image: url('mask5.png');
 }
